@@ -4,7 +4,7 @@ Better to use a property section:
 
 ```
 ---
-format: Page
+layout: page
 title: Blah
 ---
 ```
