@@ -1,6 +1,7 @@
 ---
-title:About
+title: About
 ---
+
 # Heading One
 ## Heading Two
 
