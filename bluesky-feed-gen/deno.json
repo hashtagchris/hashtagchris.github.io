@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "update-feed": "deno run --allow-net --allow-env --env-file ./generate-solomon-threads-feed.ts > ../docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json"
+  },
+  "imports": {
+    "@atproto/api": "npm:@atproto/api@^0.13.32"
+  }
+}
