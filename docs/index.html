@@ -6,7 +6,7 @@
 
 <p>I used <a href="https://github.com/bluesky-social/feed-generator/blob/main/scripts/publishFeedGen.ts">this script</a> to register the feed with Bluesky.</p>
 
-<h2>Files</h2>
+<h2>paths</h2>
 
 <p>
 <ul>
@@ -14,3 +14,22 @@
 <li><a href="xrpc/app.bsky.feed.getFeedSkeleton">xrpc/app.bsky.feed.getFeedSkeleton</a> with the right content-type via <code>index.json</code></li>
 </ul>
 </p>
+
+<h2>credits</h2>
+
+<p><a href="https://davepeck.org/notes/bluesky/converting-between-dids-and-bluesky-handles-with-python/">Dave Peck's blog</a> helped me figure out I needed a file under `.well-known`</p>
+
+Examples used:
+
+<ul>
+    <li><a href="https://bsky.app/profile/rudyfraser.com/feed/blacksky">Blacksky feed</a></li>
+    <ul>
+        <li><a href="https://bsky.rudyfraser.com/.well-known/did.json">https://bsky.rudyfraser.com/.well-known/did.json</a></li>
+        <li><a href="https://bsky.rudyfraser.com/xrpc/app.bsky.feed.getFeedSkeleton?feed=at://did:plc:w4xbfzo7kqfes5zb7r6qv3rw/app.bsky.feed.generator/blacksky">https://bsky.rudyfraser.com/xrpc/app.bsky.feed.getFeedSkeleton?feed=at://did:plc:w4xbfzo7kqfes5zb7r6qv3rw/app.bsky.feed.generator/blacksky</a></li>
+    </ul>
+    <li><a href="https://bsky.app/profile/goodfeeds.co/feed/following-plus">Following+ feed</a></li>
+    <ul>
+        <li><a href="https://feeds.goodfeeds.co/.well-known/did.json">https://feeds.goodfeeds.co/.well-known/did.json</a></li>
+        <li><a href="https://feeds.goodfeeds.co/xrpc/app.bsky.feed.getFeedSkeleton?feed=at://did:plc:5rnwczst5e2bvowikwejyemz/app.bsky.feed.generator/following-plus">https://feeds.goodfeeds.co/xrpc/app.bsky.feed.getFeedSkeleton?feed=at://did:plc:5rnwczst5e2bvowikwejyemz/app.bsky.feed.generator/following-plus</a></li>
+    </ul>
+</ul>
