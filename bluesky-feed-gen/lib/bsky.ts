@@ -24,6 +24,44 @@ export function getPassword() {
 // export type FeedMap = { [key: string]: FeedViewPost };
 export type FeedMap = Map<string, FeedViewPost>;
 
+export type SlimPostView = {
+  "post": {
+    "uri": string;
+    "author": {
+      "did": string;
+      "handle": string;
+    };
+    "record": {
+      "$type": string;
+      "createdAt": string;
+      "text": string;
+    };
+    "indexedAt": string;
+  };
+  "reason"?: {
+    "$type": string;
+    "indexedAt": string;
+  };
+  "reply"?: {
+    "root": {
+      "$type": string;
+      "uri": string;
+      "author": {
+        "did": string;
+        "handle": string;
+      };
+    };
+    "parent": {
+      "$type": string;
+      "uri": string;
+      "author": {
+        "did": string;
+        "handle": string;
+      };
+    };
+  };
+};
+
 export class LongformThreadFinder {
   agent: AtpAgent;
   authorDID: string;
@@ -61,6 +99,100 @@ export class LongformThreadFinder {
         break;
       }
     } while (cursor);
+  }
+
+  // for debugging (checking if Bluesky sometimes leaves out some posts, or if we're not paging right)
+  async getAuthorFeedSlim(maxPages: number) {
+    const results = [];
+
+    let cursor: string | undefined;
+    let page = 0;
+    do {
+      const { data } = await this.agent.getAuthorFeed({
+        actor: this.authorDID,
+        filter: "posts_and_author_threads",
+        limit: 100,
+        cursor,
+      });
+      cursor = data.cursor;
+
+      page++;
+
+      const slimFeed = data.feed.map((f) => {
+        const slim: SlimPostView = {
+          post: {
+            uri: f.post.uri,
+            author: {
+              did: f.post.author.did,
+              handle: f.post.author.handle,
+            },
+            record: {
+              // @ts-ignore record type unknown
+              $type: f.post.record.$type,
+              // @ts-ignore record type unknown
+              createdAt: f.post.record.createdAt,
+              // @ts-ignore record type unknown
+              text: f.post.record.text,
+            },
+            indexedAt: f.post.indexedAt,
+          },
+        };
+
+        if (f.reason) {
+          slim.reason = {
+            // @ts-ignore reason.$type unknown
+            $type: f.reason.$type,
+            // @ts-ignore reason.indexedAt unknown
+            indexedAt: f.reason.indexedAt,
+          };
+        }
+
+        if (f.reply) {
+          slim.reply = {
+            root: {
+              // @ts-ignore $type unknown
+              $type: f.reply.root.$type,
+              // @ts-ignore uri unknown
+              uri: f.reply.root.uri,
+              author: {
+                // @ts-ignore author is unknown
+                did: f.reply.root.author?.did,
+                // @ts-ignore author is unknown
+                handle: f.reply.root.author?.handle,
+              },
+            },
+            parent: {
+              // @ts-ignore $type unknown
+              $type: f.reply.parent.$type,
+              // @ts-ignore uri unknown
+              uri: f.reply.parent.uri,
+              author: {
+                // @ts-ignore author is unknown
+                did: f.reply.parent.author?.did,
+                // @ts-ignore author is unknown
+                handle: f.reply.parent.author?.handle,
+              },
+            },
+          };
+        }
+
+        return slim;
+      });
+
+      results.push({
+        page,
+        feedCount: data.feed.length,
+        // feed: data.feed,
+        feed: slimFeed,
+        cursor,
+      });
+
+      if (page >= maxPages) {
+        break;
+      }
+    } while (cursor);
+
+    return results;
   }
 
   getRootPosts(): FeedViewPost[] {
