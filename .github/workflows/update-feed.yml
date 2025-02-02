@@ -1,0 +1,74 @@
+name: "Update Bluesky feed"
+
+on:
+  schedule:
+      # every 4 hours
+      - cron: "17 5,9,13,17,21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Run update-feed
+        run: deno run update-feed
+        working-directory: ./bluesky-feed-gen
+        env:
+          BSKY_IDENTIFIER: ${{ vars.BSKY_IDENTIFIER }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+
+      - name: "Configure git and stage changes"
+        run: |
+          # Tell git who we are.
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add ./docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json
+
+      - name: "Any changes to commit?"
+        id: dirty-skeleton-check
+        run: |
+          # Set `git-status` so we can skip the step below if the workspace is clean.
+          git status
+          echo ::set-output name=git-status::`git status --porcelain`
+
+      - name: "Commit and push changes"
+        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        run: |
+          git commit -m "Update getFeedSkeleton response"
+          git push
+
+      - name: Setup Pages
+        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
+
+      - name: Deploy to GitHub Pages
+        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        id: deployment
+        uses: actions/deploy-pages@v4
