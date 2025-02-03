@@ -4,6 +4,9 @@ on:
   schedule:
       # every 4 hours
       - cron: "17 5,9,13,17,21 * * *"
+  push:
+    paths:
+      - .github/workflows/update-feed.yml
   workflow_dispatch:
 
 permissions:
@@ -32,7 +35,7 @@ jobs:
           deno-version: v2.x
 
       - name: Run update-feed
-        run: deno run update-feed
+        run: deno task update-feed
         working-directory: ./bluesky-feed-gen
         env:
           BSKY_IDENTIFIER: ${{ vars.BSKY_IDENTIFIER }}

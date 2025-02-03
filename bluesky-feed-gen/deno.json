@@ -1,6 +1,7 @@
 {
   "tasks": {
-    "update-feed": "deno run --allow-net --allow-env --env-file ./generate-solomon-threads-feed.ts > ../docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json",
+    "update-feed": "deno run --allow-net --allow-env ./generate-solomon-threads-feed.ts > ../docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json",
+    "update-feed--env-file": "deno run --allow-net --allow-env --env-file ./generate-solomon-threads-feed.ts > ../docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json",
     "get-author-feed": "deno run --allow-net --allow-env --env-file ./get-author-feed.ts",
     "generate-feed": "deno run --allow-net --allow-read --allow-env --env-file ./generate-solomon-threads-feed.ts"
   },
