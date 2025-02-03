@@ -9,6 +9,8 @@ import {
 const authorDID = "did:plc:w6adnkpcgqb67lqi5nxcy7l5";
 const minDepth = 5;
 
+const authorFeedFile = Deno.args.length > 0 ? Deno.args[0] : undefined;
+
 const agent = new AtpAgent({
   service: "https://bsky.social",
 });
@@ -18,7 +20,13 @@ await agent.login({
 });
 
 const threadFinder = new LongformThreadFinder(agent, authorDID, minDepth);
-await threadFinder.populateFeedMap();
+
+// using a local file allows for debugging with consistent data
+if (authorFeedFile) {
+  await threadFinder.populateFeedMapFromFile(authorFeedFile);
+} else {
+  await threadFinder.populateFeedMapFromAPI();
+}
 
 const rootPosts = threadFinder.getRootPosts();
 

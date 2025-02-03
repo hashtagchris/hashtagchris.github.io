@@ -62,6 +62,13 @@ export type SlimPostView = {
   };
 };
 
+export type AuthorFeedSlim = {
+  page: number;
+  feedCount: number;
+  feed: SlimPostView[];
+  cursor: string | undefined;
+}[];
+
 export class LongformThreadFinder {
   agent: AtpAgent;
   authorDID: string;
@@ -74,7 +81,7 @@ export class LongformThreadFinder {
     this.minDepth = minDepth;
   }
 
-  async populateFeedMap() {
+  async populateFeedMapFromAPI() {
     this.feedMap = new Map<string, FeedViewPost>();
 
     let cursor: string | undefined;
@@ -104,8 +111,28 @@ export class LongformThreadFinder {
     this.#debug(`${this.feedMap.size} entries added to the feedMap`);
   }
 
+  async populateFeedMapFromFile(authorFeedFile: string) {
+    const json = await Deno.readTextFile(authorFeedFile);
+    const feedResponses: AuthorFeedSlim = JSON.parse(json);
+
+    this.feedMap = new Map<string, FeedViewPost>();
+
+    for (const resp of feedResponses) {
+      this.#debug(`processing page ${resp.page}...`);
+
+      for (const feedView of resp.feed) {
+        // filter out reposts
+        if (feedView.post.author.did === this.authorDID) {
+          this.feedMap.set(feedView.post.uri, feedView);
+        }
+      }
+    }
+
+    this.#debug(`${this.feedMap.size} entries added to the feedMap`);
+  }
+
   // for debugging (checking if Bluesky sometimes leaves out some posts, or if we're not paging right)
-  async getAuthorFeedSlim(maxPages: number) {
+  async getAuthorFeedSlim(maxPages: number): Promise<AuthorFeedSlim> {
     const results = [];
 
     let cursor: string | undefined;
