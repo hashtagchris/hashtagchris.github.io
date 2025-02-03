@@ -78,7 +78,7 @@ export class LongformThreadFinder {
     this.feedMap = new Map<string, FeedViewPost>();
 
     let cursor: string | undefined;
-    let i = 0;
+    let page = 0;
     do {
       const { data } = await this.agent.getAuthorFeed({
         actor: this.authorDID,
@@ -95,7 +95,8 @@ export class LongformThreadFinder {
         }
       }
 
-      if (i++ > 1000) {
+      if (++page >= 1000) {
+        this.#debug("Reached the max page limit");
         break;
       }
     } while (cursor);
@@ -188,6 +189,7 @@ export class LongformThreadFinder {
       });
 
       if (page >= maxPages) {
+        this.#debug("Reached the max page limit");
         break;
       }
     } while (cursor);
@@ -203,7 +205,7 @@ export class LongformThreadFinder {
     const rootFeeds = new Set<FeedViewPost>();
 
     for (const feedView of this.feedMap.values()) {
-      const result = this.getRootAndDepth(feedView.post.uri, 1);
+      const result = this.#getRootAndDepth(feedView.post.uri, 1);
       if (result && result.depth >= this.minDepth) {
         rootFeeds.add(result.rootFeed);
       }
@@ -215,7 +217,7 @@ export class LongformThreadFinder {
     return sortedFeeds;
   }
 
-  getRootAndDepth(
+  #getRootAndDepth(
     postURI: string,
     depth: number,
   ): { rootFeed: FeedViewPost; depth: number } | undefined {
@@ -226,13 +228,27 @@ export class LongformThreadFinder {
     const feed = this.feedMap.get(postURI);
 
     if (!feed) {
+      this.#debug(
+        `Post ${postURI} not found - deleted? too old to be retrieved?`,
+      );
       return undefined;
     }
 
+    // We found the root of a thread
     if (!feed.reply) {
       return { rootFeed: feed, depth };
     }
 
-    return this.getRootAndDepth(feed.reply.parent.uri, depth + 1);
+    // ignore this post that's a reply to someone else
+    if (feed.reply.parent.author?.did !== this.authorDID) {
+      return undefined;
+    }
+
+    return this.#getRootAndDepth(feed.reply.parent.uri, depth + 1);
+  }
+
+  // use console.error to send diagnostic messages to stderr, so they don't end up in output files
+  #debug(msg: string) {
+    console.error(msg);
   }
 }
