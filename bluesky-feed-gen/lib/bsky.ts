@@ -100,6 +100,8 @@ export class LongformThreadFinder {
         break;
       }
     } while (cursor);
+
+    this.#debug(`${this.feedMap.size} entries added to the feedMap`);
   }
 
   // for debugging (checking if Bluesky sometimes leaves out some posts, or if we're not paging right)
