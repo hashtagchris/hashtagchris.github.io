@@ -53,7 +53,7 @@ jobs:
         run: |
           # Set `git-status` so we can skip the step below if the workspace is clean.
           git status
-          echo ::set-output name=git-status::`git status --porcelain`
+          echo "git-status=`git status --porcelain`" >> $GITHUB_OUTPUT
 
       - name: "Commit and push changes"
         if: steps.dirty-skeleton-check.outputs.git-status != ''
