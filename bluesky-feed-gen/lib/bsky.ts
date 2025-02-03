@@ -96,10 +96,18 @@ export class LongformThreadFinder {
       cursor = data.cursor;
 
       for (const feedView of data.feed) {
-        // filter out reposts
-        if (feedView.post.author.did === this.authorDID) {
-          this.feedMap.set(feedView.post.uri, feedView);
+        // ignore all reposts, even the author reposting themselves
+        if (feedView.reason?.$type === "app.bsky.feed.defs#reasonRepost") {
+          continue;
         }
+        if (feedView.post.author.did !== this.authorDID) {
+          this.#debug(
+            `${feedView.post.uri} isn't by the author, and isn't a repost`,
+          );
+          continue;
+        }
+
+        this.feedMap.set(feedView.post.uri, feedView);
       }
 
       if (++page >= 1000) {
@@ -121,10 +129,18 @@ export class LongformThreadFinder {
       this.#debug(`processing page ${resp.page}...`);
 
       for (const feedView of resp.feed) {
-        // filter out reposts
-        if (feedView.post.author.did === this.authorDID) {
-          this.feedMap.set(feedView.post.uri, feedView);
+        // ignore all reposts, even the author reposting themselves
+        if (feedView.reason?.$type === "app.bsky.feed.defs#reasonRepost") {
+          continue;
         }
+        if (feedView.post.author.did !== this.authorDID) {
+          this.#debug(
+            `${feedView.post.uri} isn't by the author, and isn't a repost`,
+          );
+          continue;
+        }
+
+        this.feedMap.set(feedView.post.uri, feedView);
       }
     }
 
