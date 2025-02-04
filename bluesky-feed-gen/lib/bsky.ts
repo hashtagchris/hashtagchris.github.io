@@ -1,6 +1,14 @@
 import { AtpAgent } from "npm:@atproto/api";
 import { FeedViewPost } from "@atproto/api";
 
+// api used:
+// https://docs.bsky.app/docs/tutorials/viewing-feeds#author-feeds
+// https://docs.bsky.app/docs/api/app-bsky-feed-get-author-feed
+
+// posts_and_author_threads is inconsistent about how many author replies it returns.
+// Hopefully posts_with_replies will allow us to determine true author-thread depth.
+const AuthorFeedFilter = "posts_with_replies";
+
 export function getIdentifier() {
   const password = Deno.env.get("BSKY_IDENTIFIER");
   if (!password) {
@@ -89,7 +97,7 @@ export class LongformThreadFinder {
     do {
       const { data } = await this.agent.getAuthorFeed({
         actor: this.authorDID,
-        filter: "posts_and_author_threads",
+        filter: AuthorFeedFilter,
         limit: 100,
         cursor,
       });
@@ -156,7 +164,7 @@ export class LongformThreadFinder {
     do {
       const { data } = await this.agent.getAuthorFeed({
         actor: this.authorDID,
-        filter: "posts_and_author_threads",
+        filter: AuthorFeedFilter,
         limit: 100,
         cursor,
       });
