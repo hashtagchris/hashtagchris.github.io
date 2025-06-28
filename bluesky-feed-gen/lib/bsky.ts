@@ -89,11 +89,52 @@ export class LongformThreadFinder {
     this.minDepth = minDepth;
   }
 
-  async populateFeedMapFromAPI() {
+  async populateFeedMapFromFile(
+    authorFeedFile: string,
+    { since }: { since?: Date } = {},
+  ) {
+    const json = await Deno.readTextFile(authorFeedFile);
+    const feedResponses: AuthorFeedSlim = JSON.parse(json);
+
+    this.feedMap = new Map<string, FeedViewPost>();
+
+    let lastPostDate: Date | undefined;
+    for (const resp of feedResponses) {
+      this.#debug(`processing page ${resp.page}...`);
+
+      for (const feedView of resp.feed) {
+        // ignore all reposts, even the author reposting themselves
+        if (feedView.reason?.$type === "app.bsky.feed.defs#reasonRepost") {
+          continue;
+        }
+        if (feedView.post.author.did !== this.authorDID) {
+          this.#debug(
+            `${feedView.post.uri} isn't by the author, and isn't a repost`,
+          );
+          continue;
+        }
+
+        this.feedMap.set(feedView.post.uri, feedView);
+        lastPostDate = new Date(feedView.post.record.createdAt);
+      }
+
+      if (lastPostDate && since && lastPostDate < since) {
+        this.#debug(
+          `Stopping at page ${resp.page} because the last post date ${lastPostDate.toISOString()} is before ${since.toISOString()}`,
+        );
+        break;
+      }
+    }
+
+    this.#debug(`${this.feedMap.size} entries added to the feedMap`);
+  }
+
+  async populateFeedMapFromAPI({ since }: { since?: Date } = {}) {
     this.feedMap = new Map<string, FeedViewPost>();
 
     let cursor: string | undefined;
     let page = 0;
+    let lastPostDate: Date | undefined;
     do {
       const { data } = await this.agent.getAuthorFeed({
         actor: this.authorDID,
@@ -116,41 +157,22 @@ export class LongformThreadFinder {
         }
 
         this.feedMap.set(feedView.post.uri, feedView);
+        // @ts-ignore record type unknown
+        lastPostDate = new Date(feedView.post.record.createdAt);
       }
 
       if (++page >= 1000) {
         this.#debug("Reached the max page limit");
         break;
       }
-    } while (cursor);
 
-    this.#debug(`${this.feedMap.size} entries added to the feedMap`);
-  }
-
-  async populateFeedMapFromFile(authorFeedFile: string) {
-    const json = await Deno.readTextFile(authorFeedFile);
-    const feedResponses: AuthorFeedSlim = JSON.parse(json);
-
-    this.feedMap = new Map<string, FeedViewPost>();
-
-    for (const resp of feedResponses) {
-      this.#debug(`processing page ${resp.page}...`);
-
-      for (const feedView of resp.feed) {
-        // ignore all reposts, even the author reposting themselves
-        if (feedView.reason?.$type === "app.bsky.feed.defs#reasonRepost") {
-          continue;
-        }
-        if (feedView.post.author.did !== this.authorDID) {
-          this.#debug(
-            `${feedView.post.uri} isn't by the author, and isn't a repost`,
-          );
-          continue;
-        }
-
-        this.feedMap.set(feedView.post.uri, feedView);
+      if (lastPostDate && since && lastPostDate < since) {
+        this.#debug(
+          `Stopping at page ${page} because the last post date ${lastPostDate.toISOString()} is before ${since.toISOString()}`,
+        );
+        break;
       }
-    }
+    } while (cursor);
 
     this.#debug(`${this.feedMap.size} entries added to the feedMap`);
   }
@@ -172,7 +194,7 @@ export class LongformThreadFinder {
 
       page++;
 
-      const slimFeed = data.feed.map((f) => {
+      const slimFeed = data.feed.map((f: FeedViewPost) => {
         const slim: SlimPostView = {
           post: {
             uri: f.post.uri,

@@ -1,8 +1,14 @@
 {
-  "version": "4",
+  "version": "5",
   "specifiers": {
+    "jsr:@std/cli@*": "1.0.10",
     "npm:@atproto/api@*": "0.13.32",
     "npm:@atproto/api@~0.13.32": "0.13.32"
+  },
+  "jsr": {
+    "@std/cli@1.0.10": {
+      "integrity": "d047f6f4954a5c2827fe0963765ddd3d8b6cc7b7518682842645b95f571539dc"
+    }
   },
   "npm": {
     "@atproto/api@0.13.32": {
@@ -60,7 +66,8 @@
       "integrity": "sha512-HoMUjhH9T8DDBNT+6xzkrd9ga/XiBI4xLr58LJACwK6G3HTOPeMz4nB4KJs33L2BelrIJa7P0VuNaVF3hMYfjg=="
     },
     "tlds@1.255.0": {
-      "integrity": "sha512-tcwMRIioTcF/FcxLev8MJWxCp+GUALRhFEqbDoZrnowmKSGqPrl5pqS+Sut2m8BgJ6S4FExCSSpGffZ0Tks6Aw=="
+      "integrity": "sha512-tcwMRIioTcF/FcxLev8MJWxCp+GUALRhFEqbDoZrnowmKSGqPrl5pqS+Sut2m8BgJ6S4FExCSSpGffZ0Tks6Aw==",
+      "bin": true
     },
     "uint8arrays@3.0.0": {
       "integrity": "sha512-HRCx0q6O9Bfbp+HHSfQQKD7wU70+lydKVt4EghkdOvlK/NlrF90z+eXV34mUd48rNvVJXwkrMSPpCATkct8fJA==",

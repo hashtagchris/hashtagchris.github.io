@@ -46,6 +46,7 @@ jobs:
           # Tell git who we are.
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
+          git add ./bluesky-feed-gen/data/feed-posts.json
           git add ./docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json
 
       - name: "Any changes to commit?"
@@ -58,7 +59,7 @@ jobs:
       - name: "Commit and push changes"
         if: steps.dirty-skeleton-check.outputs.git-status != ''
         run: |
-          git commit -m "Update getFeedSkeleton response"
+          git commit -m "Update bsky feed"
           git push
 
       - name: Setup Pages
