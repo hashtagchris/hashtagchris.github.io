@@ -24,10 +24,9 @@ const flags = parseArgs(Deno.args, {
   default: {
     feedPostsFile: "./data/feed-posts.json",
     feedSkeletonFile: "../docs/xrpc/app.bsky.feed.getFeedSkeleton/index.json",
-    minDepth: "5"
+    minDepth: "5",
   },
 });
-
 
 // handle: solomonmissouri.bsky.social
 const authorDID = "did:plc:w6adnkpcgqb67lqi5nxcy7l5";
@@ -50,14 +49,18 @@ try {
   feedPosts = await JSON.parse(feedPostsJson);
 } catch (error) {
   if (error instanceof Deno.errors.NotFound) {
-    console.warn(`Could not find feed posts file: ${flags.feedPostsFile}. Starting with an empty feed.`);
+    console.warn(
+      `Could not find feed posts file: ${flags.feedPostsFile}. Starting with an empty feed.`,
+    );
   } else {
-    console.warn(`Starting with an empty feed. Error reading feed posts file: ${flags.feedPostsFile}: ${error}`);
+    console.warn(
+      `Starting with an empty feed. Error reading feed posts file: ${flags.feedPostsFile}: ${error}`,
+    );
   }
 }
 
 // Determine the cutoff for fetching recent posts.
-const opts: {since?: Date} = {};
+const opts: { since?: Date } = {};
 if (feedPosts.length > 0) {
   const threeDaysAgo = new Date(Date.now() - DAY * 3);
   const latestPostDate = new Date(feedPosts[0].post.record.createdAt);
@@ -87,13 +90,18 @@ const feedPostsToAdd = recentFeedPosts.filter((post) => {
   return !feedPosts.some((p) => p.post.uri === post.post.uri);
 });
 
-console.log(`Out of ${recentFeedPosts.length} recent posts eligible for the feed, ${feedPostsToAdd.length} are new.`);
+console.log(
+  `Out of ${recentFeedPosts.length} recent posts eligible for the feed, ${feedPostsToAdd.length} are new.`,
+);
 
 // Add the new posts to the feed
 feedPosts.unshift(...feedPostsToAdd);
 
 // Write the updated feed posts to the file
-await Deno.writeTextFile(flags.feedPostsFile, JSON.stringify(feedPosts, undefined, 2));
+await Deno.writeTextFile(
+  flags.feedPostsFile,
+  JSON.stringify(feedPosts, undefined, 2),
+);
 
 // Create the feed skeleton with the URIs of the posts
 const feed = feedPosts.map((r: FeedViewPost) => {
@@ -101,4 +109,7 @@ const feed = feedPosts.map((r: FeedViewPost) => {
 });
 
 // Write the feed skeleton to the output file
-await Deno.writeTextFile(flags.feedSkeletonFile, JSON.stringify({ feed }, undefined, 2));
+await Deno.writeTextFile(
+  flags.feedSkeletonFile,
+  JSON.stringify({ feed }, undefined, 2),
+);
