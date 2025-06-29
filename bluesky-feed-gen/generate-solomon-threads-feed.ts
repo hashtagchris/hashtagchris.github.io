@@ -11,10 +11,10 @@ const DAY = 24 * 60 * 60 * 1000; // milliseconds in a day
 
 const flags = parseArgs(Deno.args, {
   string: [
-    // Optional: Used in place of API calls. Allows for debugging with consistent data.
+    // Optional: An input file used in place of API calls. Allows for debugging with consistent data.
     "authorFeedFile",
     // The posts that comprise the feed, including text and dates.
-    // Opened for read and appending.
+    // Opened for read *and* write.
     "feedPostsFile",
     // The output feed file, which is a list of post URIs.
     "feedSkeletonFile",
@@ -62,15 +62,12 @@ try {
 // Determine the cutoff for fetching recent posts.
 const opts: { since?: Date } = {};
 if (feedPosts.length > 0) {
-  const threeDaysAgo = new Date(Date.now() - DAY * 3);
   const latestPostDate = new Date(feedPosts[0].post.record.createdAt);
   console.log(`Latest post date: ${latestPostDate.toISOString()}`);
 
-  if (latestPostDate < threeDaysAgo) {
-    opts.since = latestPostDate;
-  } else {
-    opts.since = threeDaysAgo;
-  }
+  // There could be a slightly older thread that didn't originally meet the minDepth criteria when we last fetched posts.
+  // Go back a little further in time to re-examine those.
+  opts.since = new Date(latestPostDate.getTime() - DAY * 3);
 }
 
 // Populate a map with recent posts from the author's feed.
@@ -91,7 +88,7 @@ const feedPostsToAdd = recentFeedPosts.filter((post) => {
 });
 
 console.log(
-  `Out of ${recentFeedPosts.length} recent posts eligible for the feed, ${feedPostsToAdd.length} are new.`,
+  `${recentFeedPosts.length} recent posts eligible for the feed, ${feedPostsToAdd.length} are new.`,
 );
 
 // Add the new posts to the feed

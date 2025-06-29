@@ -91,7 +91,7 @@ export class LongformThreadFinder {
 
   async populateFeedMapFromFile(
     authorFeedFile: string,
-    { since }: { since?: Date } = {},
+    { since }: { since?: Date },
   ) {
     const json = await Deno.readTextFile(authorFeedFile);
     const feedResponses: AuthorFeedSlim = JSON.parse(json);
@@ -129,7 +129,7 @@ export class LongformThreadFinder {
     this.#debug(`${this.feedMap.size} entries added to the feedMap`);
   }
 
-  async populateFeedMapFromAPI({ since }: { since?: Date } = {}) {
+  async populateFeedMapFromAPI({ since }: { since?: Date }) {
     this.feedMap = new Map<string, FeedViewPost>();
 
     let cursor: string | undefined;
