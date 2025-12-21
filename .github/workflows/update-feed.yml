@@ -57,22 +57,22 @@ jobs:
           echo git-status=\"`git status --porcelain`\" >> $GITHUB_OUTPUT
 
       - name: "Commit and push changes"
-        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        if: steps.dirty-skeleton-check.outputs.git-status != '""'
         run: |
           git commit -m "Update bsky feed"
           git push
 
       - name: Setup Pages
-        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        if: steps.dirty-skeleton-check.outputs.git-status != '""'
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        if: steps.dirty-skeleton-check.outputs.git-status != '""'
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'docs'
 
       - name: Deploy to GitHub Pages
-        if: steps.dirty-skeleton-check.outputs.git-status != ''
+        if: steps.dirty-skeleton-check.outputs.git-status != '""'
         id: deployment
         uses: actions/deploy-pages@v4
