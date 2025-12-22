@@ -1,6 +1,112 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3majquximyk2l",
+      "cid": "bafyreidloud3ugxoq6nrupw7mbuo2lzr3idzafxxncg64sj4yg2zkixg3a",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-21T22:19:55.907Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihwf2kdffwumx7lg2jynnkz2imt4fg75zsgzg3gb3lzvotejeuzdq",
+            "uri": "at://did:plc:sp5paqzfmzlsxazgv7hrukda/app.bsky.feed.post/3majql2i7vk26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Cause she repping the set"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:sp5paqzfmzlsxazgv7hrukda/app.bsky.feed.post/3majql2i7vk26",
+          "cid": "bafyreihwf2kdffwumx7lg2jynnkz2imt4fg75zsgzg3gb3lzvotejeuzdq",
+          "author": {
+            "did": "did:plc:sp5paqzfmzlsxazgv7hrukda",
+            "handle": "roxanegay.bsky.social",
+            "displayName": "Roxane Gay",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sp5paqzfmzlsxazgv7hrukda/bafkreigmtyf7p5qpe24jb2otpis7tfhza4c74madfeta3pjhnreg5bopua@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-28T04:43:12.423Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m5z7d2rowh25",
+                  "isValid": true,
+                  "createdAt": "2025-11-19T21:32:42.361Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-12-21T22:14:23.494Z",
+            "langs": [
+              "en"
+            ],
+            "text": "Curious about what in the self-loathing is going on with Usha Vance to be married to a man who so openly seems to resent that she isn’t white. She’s where she wants to be but I sure want to know what pathology allows that."
+          },
+          "labels": [],
+          "likeCount": 1905,
+          "replyCount": 81,
+          "repostCount": 173,
+          "quoteCount": 24,
+          "indexedAt": "2025-12-21T22:14:23.896Z",
+          "embeds": []
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 11,
+      "likeCount": 105,
+      "quoteCount": 0,
+      "indexedAt": "2025-12-21T22:19:56.398Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mair5wzqvk26",
       "cid": "bafyreicsgne3n7465l72fisvvvwtssaqdoxsnsrcchnwtradt2ztbiyniu",
       "author": {
