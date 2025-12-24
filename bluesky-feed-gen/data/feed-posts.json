@@ -1,6 +1,89 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3map7lrgmok2t",
+      "cid": "bafyreif7cfvdbw6yqb77d37pnesjpemuwbe4kogr2232s6265codte2yey",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-24T02:26:32.378Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "The Justice Department’s leadership asked career prosecutors in Florida Tuesday to volunteer over the “next several days” to help redact the Epstein files, in the latest Trump administration push towa...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihgk2s6e4lavvkqvmhwgeqx564setcooy4bv32j32qonujcscrtty"
+              },
+              "mimeType": "image/jpeg",
+              "size": 209905
+            },
+            "title": "Exclusive: Justice Department scrambling to find holiday volunteers to redact the Epstein files, internal DOJ email says | CNN Politics",
+            "uri": "https://www.cnn.com/2025/12/23/politics/justice-department-redactions-review-epstein-files"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.cnn.com/2025/12/23/politics/justice-department-redactions-review-epstein-files"
+              }
+            ],
+            "index": {
+              "byteEnd": 64,
+              "byteStart": 37
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Lol lol lol lol lol lol lol lol lol\n\nwww.cnn.com/2025/12/23/p..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.cnn.com/2025/12/23/politics/justice-department-redactions-review-epstein-files",
+          "title": "Exclusive: Justice Department scrambling to find holiday volunteers to redact the Epstein files, internal DOJ email says | CNN Politics",
+          "description": "The Justice Department’s leadership asked career prosecutors in Florida Tuesday to volunteer over the “next several days” to help redact the Epstein files, in the latest Trump administration push towa...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreihgk2s6e4lavvkqvmhwgeqx564setcooy4bv32j32qonujcscrtty@jpeg"
+        }
+      },
+      "bookmarkCount": 10,
+      "replyCount": 18,
+      "repostCount": 91,
+      "likeCount": 369,
+      "quoteCount": 37,
+      "indexedAt": "2025-12-24T02:26:33.496Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3maoat6dmz22p",
       "cid": "bafyreiadnf6rpwgkmlfeaox4btzyjsn4t6btozu4wenomwgnrk4a337qzu",
       "author": {
