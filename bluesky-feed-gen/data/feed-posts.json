@@ -1,6 +1,224 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mb2kxjfbzc2w",
+      "cid": "bafyreidb7b6ll4grdkelnzimds2fl6mpwfcp4ayvil3leqclkelxviudzy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-28T14:49:14.874Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Jeanne tripplehorne",
+                "aspectRatio": {
+                  "height": 422,
+                  "width": 750
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreicfgpyiwkhslsthdkqwesgkmwyr63mxbhlo2fxyj2i4hlvbdl352y"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 152817
+                }
+              }
+            ]
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreigtb2mldlciznn576webm2pls6qy7acldzfar5we6qkvgtdbozdni",
+              "uri": "at://did:plc:jgznqixnwf6g66ftgbo5nug4/app.bsky.feed.post/3mb2kr6bvkc2w"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "He’s right tho"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.recordWithMedia#view",
+        "media": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicfgpyiwkhslsthdkqwesgkmwyr63mxbhlo2fxyj2i4hlvbdl352y@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicfgpyiwkhslsthdkqwesgkmwyr63mxbhlo2fxyj2i4hlvbdl352y@jpeg",
+              "alt": "Jeanne tripplehorne",
+              "aspectRatio": {
+                "height": 422,
+                "width": 750
+              }
+            }
+          ]
+        },
+        "record": {
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:jgznqixnwf6g66ftgbo5nug4/app.bsky.feed.post/3mb2kr6bvkc2w",
+            "cid": "bafyreigtb2mldlciznn576webm2pls6qy7acldzfar5we6qkvgtdbozdni",
+            "author": {
+              "did": "did:plc:jgznqixnwf6g66ftgbo5nug4",
+              "handle": "jamiattenberg.bsky.social",
+              "displayName": "Jami Attenberg",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jgznqixnwf6g66ftgbo5nug4/bafkreiegucjxqrdbwdwhlifyoamlndlpwq5c5qyqwmceuvexbfbcwyapie@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-05-04T02:27:06.259Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-12-28T14:45:41.909Z",
+              "langs": [
+                "en"
+              ],
+              "text": "Ethan Hawke's character calling Jeanne Tripplehorn's character \"a dime\" in \"The Lowdown\" was one of my favorite cultural moments of the year"
+            },
+            "labels": [],
+            "likeCount": 40,
+            "replyCount": 1,
+            "repostCount": 1,
+            "quoteCount": 2,
+            "indexedAt": "2025-12-28T14:45:44.200Z",
+            "embeds": []
+          }
+        }
+      },
+      "bookmarkCount": 3,
+      "replyCount": 5,
+      "repostCount": 2,
+      "likeCount": 98,
+      "quoteCount": 0,
+      "indexedAt": "2025-12-28T14:49:19.096Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mb2imwwgr22w",
+      "cid": "bafyreia6h4rf7on7c5gpjtopiezoov3yexwi2vzp5d2slrs7cgtgbm2bhm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-28T14:07:32.492Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Somebody on here smell good\n\nNot good like how yall like it… but good how i like it"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 2,
+      "likeCount": 39,
+      "quoteCount": 1,
+      "indexedAt": "2025-12-28T14:07:33.894Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mb2i3s6skk2w",
+      "cid": "bafyreihqzhjnnbpsy6bmokhnixecu7vynrhb5ganakja2nhbenahmcgzk4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-28T13:57:57.097Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Do I think i can fly a plane?\n\nNo…\n\nBut do i think i can back it out the parking space?????\n\nIS FAT MEAT GREASY?????"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 7,
+      "repostCount": 4,
+      "likeCount": 62,
+      "quoteCount": 4,
+      "indexedAt": "2025-12-28T13:57:58.295Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mayzhbk47k2i",
       "cid": "bafyreietzzxt5ndxulhgglytk6khbgaabntcqcizqiqaq54gbvvldcr3j4",
       "author": {
