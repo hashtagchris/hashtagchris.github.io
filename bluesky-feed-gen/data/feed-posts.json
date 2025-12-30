@@ -1,6 +1,185 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mb7pf54z422x",
+      "cid": "bafyreidu47ll6lm2edgaceyrs5aetjmvkxwq6ktqtn7iaabkl4qezmkuwu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-30T15:51:45.436Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "My coffee",
+                "aspectRatio": {
+                  "height": 2000,
+                  "width": 1500
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihrru5rzg7ont3avj3u4fijfbkxzasrqfzm6otm5i6cco52telszi"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 720572
+                }
+              }
+            ]
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreihtyusmhghsr3h4djowawnzddw6lq3zpzmymoyovaq3fygvdqp2wi",
+              "uri": "at://did:plc:tld72b2of53uic74zas6rvne/app.bsky.feed.post/3mb7hzdr64k2r"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I have my coffee"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.recordWithMedia#view",
+        "media": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreihrru5rzg7ont3avj3u4fijfbkxzasrqfzm6otm5i6cco52telszi@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreihrru5rzg7ont3avj3u4fijfbkxzasrqfzm6otm5i6cco52telszi@jpeg",
+              "alt": "My coffee",
+              "aspectRatio": {
+                "height": 2000,
+                "width": 1500
+              }
+            }
+          ]
+        },
+        "record": {
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:tld72b2of53uic74zas6rvne/app.bsky.feed.post/3mb7hzdr64k2r",
+            "cid": "bafyreihtyusmhghsr3h4djowawnzddw6lq3zpzmymoyovaq3fygvdqp2wi",
+            "author": {
+              "did": "did:plc:tld72b2of53uic74zas6rvne",
+              "handle": "okoyessmile.bsky.social",
+              "displayName": "Go Birds💚🦅",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tld72b2of53uic74zas6rvne/bafkreig6bqikqh4p33cz7ffyrivzviss7gpayon2w3mh25h74r7qnvslga@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [
+                {
+                  "src": "did:plc:tld72b2of53uic74zas6rvne",
+                  "uri": "at://did:plc:tld72b2of53uic74zas6rvne/app.bsky.actor.profile/self",
+                  "cid": "bafyreihstt3kj3qvhq7p3ms5r6ifpd36tueyrynl56dld25n44i7onfkdm",
+                  "val": "!no-unauthenticated",
+                  "cts": "1970-01-01T00:00:00.000Z"
+                }
+              ],
+              "createdAt": "2023-09-19T14:24:28.169Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2025-12-30T13:39:53.553Z",
+              "embed": {
+                "$type": "app.bsky.embed.external",
+                "external": {
+                  "description": "Alt: a man stands in front of an ice cream truck that says popeye",
+                  "thumb": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreibzt6lp24f6lsgssmszcrsvk66ee3wn4wd2dpvacpj37p3kj7jlbe"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 227762
+                  },
+                  "title": "a man stands in front of an ice cream truck that says popeye",
+                  "uri": "https://media.tenor.com/wZZMZ32rraAAAAAC/yes-sit.gif?hh=393&ww=498"
+                }
+              },
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 41,
+                    "byteStart": 13
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Good morning @solomonmissouri.bsky.social . I was scrolling IG and saw a clip of a snake handling church.\n\nOnce upon a time on the bird app, you said you would share your story about attending such a church once. Iiiiiii… never heard the story…👂🏾"
+            },
+            "labels": [],
+            "likeCount": 44,
+            "replyCount": 3,
+            "repostCount": 0,
+            "quoteCount": 2,
+            "indexedAt": "2025-12-30T13:39:54.502Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                  "uri": "https://media.tenor.com/wZZMZ32rraAAAAAC/yes-sit.gif?hh=393&ww=498",
+                  "title": "a man stands in front of an ice cream truck that says popeye",
+                  "description": "Alt: a man stands in front of an ice cream truck that says popeye",
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tld72b2of53uic74zas6rvne/bafkreibzt6lp24f6lsgssmszcrsvk66ee3wn4wd2dpvacpj37p3kj7jlbe@jpeg"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "bookmarkCount": 50,
+      "replyCount": 11,
+      "repostCount": 67,
+      "likeCount": 343,
+      "quoteCount": 50,
+      "indexedAt": "2025-12-30T15:51:49.100Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mb2kxjfbzc2w",
       "cid": "bafyreidb7b6ll4grdkelnzimds2fl6mpwfcp4ayvil3leqclkelxviudzy",
       "author": {
