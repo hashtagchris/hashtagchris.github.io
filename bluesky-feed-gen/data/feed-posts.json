@@ -1,6 +1,205 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbcawsh73s25",
+      "cid": "bafyreibculfllgsiu6ks3yl3kcaffgijpvv45xe257mdifiwjfnlicf5cq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-31T16:11:11.313Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I truly don’t wanna know anything about social media relationships unless y’all in love after the cameras are off"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 2,
+      "repostCount": 6,
+      "likeCount": 74,
+      "quoteCount": 4,
+      "indexedAt": "2025-12-31T16:11:11.498Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbc2fiehas23",
+      "cid": "bafyreic4nzyinoj63jp7szwkj2wqxvzdgdl3244u2wlidnogvcff3kkus4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2025-12-31T14:14:07.862Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihiatuzvqhalbkaflznznhr6vc4ypdp6qw2rzsaoxqhidovim2afq",
+            "uri": "at://did:plc:rkpxrdh2ddzqwrxmfl2ymgcd/app.bsky.feed.post/3mbbzs35o5s2t"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Two words\n\nTricia Cotham…"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:rkpxrdh2ddzqwrxmfl2ymgcd/app.bsky.feed.post/3mbbzs35o5s2t",
+          "cid": "bafyreihiatuzvqhalbkaflznznhr6vc4ypdp6qw2rzsaoxqhidovim2afq",
+          "author": {
+            "did": "did:plc:rkpxrdh2ddzqwrxmfl2ymgcd",
+            "handle": "keunghui.bsky.social",
+            "displayName": "Keung Hui",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rkpxrdh2ddzqwrxmfl2ymgcd/bafkreiaevgoghewvwr3d754rsrkw7zo7rowoys422hbmgo2zzlwlo3x4we@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-14T21:21:51.580Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2025-12-31T14:03:16.476Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "N.C. Republican Party is accusing the NC Educators on the Ballot of trying to mislead voters by running candidates in the GOP primary.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreib52p6hz52oqdylguxw6rdbyh7t7py7nvwh5c3ywl7yt4ehiw3n2y"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 913313
+                },
+                "title": "NC teachers to run in GOP primary for state legislature. Will it have an impact?",
+                "uri": "https://www.newsobserver.com/news/politics-government/article314054277.html"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://www.newsobserver.com/news/politics-government/article314054277.html"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 282,
+                  "byteStart": 246
+                }
+              },
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#tag",
+                    "tag": "ncpol"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 289,
+                  "byteStart": 283
+                }
+              },
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#tag",
+                    "tag": "nced"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 295,
+                  "byteStart": 290
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "North Carolina teachers to run in GOP primary for state legislature. Will it have an impact? NC Educators on the Ballot recruited 6 teachers to run in the March GOP state House primary. NC GOP accuses group of trying to confuse & mislead voters. www.newsobserver.com/news/politic... #ncpol #nced"
+          },
+          "labels": [],
+          "likeCount": 6,
+          "replyCount": 1,
+          "repostCount": 4,
+          "quoteCount": 3,
+          "indexedAt": "2025-12-31T14:03:26.895Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://www.newsobserver.com/news/politics-government/article314054277.html",
+                "title": "NC teachers to run in GOP primary for state legislature. Will it have an impact?",
+                "description": "N.C. Republican Party is accusing the NC Educators on the Ballot of trying to mislead voters by running candidates in the GOP primary.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rkpxrdh2ddzqwrxmfl2ymgcd/bafkreib52p6hz52oqdylguxw6rdbyh7t7py7nvwh5c3ywl7yt4ehiw3n2y@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 8,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "indexedAt": "2025-12-31T14:14:08.094Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbaq3hh4pc2l",
       "cid": "bafyreidzrualwwgo3vgwygwjkrt5bqls42z7oesvdxyupej4csfe2s43g4",
       "author": {
