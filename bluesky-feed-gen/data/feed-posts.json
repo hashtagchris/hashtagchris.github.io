@@ -1,6 +1,274 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbp6dpe4bc2l",
+      "cid": "bafyreie27rtxddrabavx2joowx6w2pjp6z5cvxozs3uxaut4mppfjoszkq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-05T19:29:19.648Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreig4elfhehpliukggv4clduqjjpa6zabayammj6dnpj4azgy62p6im",
+            "uri": "at://did:plc:wifiogd6vp7hmm3zbkbeaww5/app.bsky.feed.post/3mbp5xm2iks2x"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "The one thing you should know about evangelical Christians... If they are against it... It's a hit"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:wifiogd6vp7hmm3zbkbeaww5/app.bsky.feed.post/3mbp5xm2iks2x",
+          "cid": "bafyreig4elfhehpliukggv4clduqjjpa6zabayammj6dnpj4azgy62p6im",
+          "author": {
+            "did": "did:plc:wifiogd6vp7hmm3zbkbeaww5",
+            "handle": "baptistnews.com",
+            "displayName": "Baptist News Global",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wifiogd6vp7hmm3zbkbeaww5/bafkreidx447zg6fnoxt2yl2vusfontycn4slut7x55b5s3eoyfq6rnbuti@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-14T16:21:17.561Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-05T19:22:33.536Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "“Being gay is not a superpower,” one person wrote on social media. Immediately, my heart sank, says Rick Pidcock.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihtgexutg73iioy7o2ygkbss53ewlq5hmzzdyn7xt5u6jryo3amky"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 870277
+                },
+                "title": "Of course, evangelicals are complaining about Stranger Things – Baptist News Global",
+                "uri": "https://baptistnews.com/article/of-course-evangelicals-are-complaining-about-stranger-things/"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://baptistnews.com/article/of-course-evangelicals-are-complaining-about-stranger-things/"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 130,
+                  "byteStart": 99
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "“Being gay is not a superpower,” one person wrote on social media. Immediately, my heart sank.\nbaptistnews.com/article/of-c..."
+          },
+          "labels": [],
+          "likeCount": 8,
+          "replyCount": 1,
+          "repostCount": 2,
+          "quoteCount": 12,
+          "indexedAt": "2026-01-05T19:22:38.000Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://baptistnews.com/article/of-course-evangelicals-are-complaining-about-stranger-things/",
+                "title": "Of course, evangelicals are complaining about Stranger Things – Baptist News Global",
+                "description": "“Being gay is not a superpower,” one person wrote on social media. Immediately, my heart sank, says Rick Pidcock.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wifiogd6vp7hmm3zbkbeaww5/bafkreihtgexutg73iioy7o2ygkbss53ewlq5hmzzdyn7xt5u6jryo3amky@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 5,
+      "replyCount": 10,
+      "repostCount": 73,
+      "likeCount": 425,
+      "quoteCount": 4,
+      "indexedAt": "2026-01-05T19:29:19.894Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbp2y2t6ys2t",
+      "cid": "bafyreiamy4qkhpthqeh63nwd6j7poeu6dcujfj6vd47zrxbfyqtkr7vgnu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-05T18:29:07.800Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreih4mfhhes7oftzgrj3t6bhdhyaxshofwqdutygvdabq3rtrepxjny",
+            "uri": "at://did:plc:cfdiophp2oon6xxrssw6cwz7/app.bsky.feed.post/3mbp2ufnrxy2i"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Do you think this makes him more or less dangerous as a political quantity????"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:cfdiophp2oon6xxrssw6cwz7/app.bsky.feed.post/3mbp2ufnrxy2i",
+          "cid": "bafyreih4mfhhes7oftzgrj3t6bhdhyaxshofwqdutygvdabq3rtrepxjny",
+          "author": {
+            "did": "did:plc:cfdiophp2oon6xxrssw6cwz7",
+            "handle": "bringmethenews.bsky.social",
+            "displayName": "Bring Me The News",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfdiophp2oon6xxrssw6cwz7/bafkreiff7b2iah2hjqwotdvfspooho4lgeaerojs4w55jvld2twimqqggy@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-07T16:36:05.916Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-05T18:27:03.796826697Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 834,
+                    "width": 1352
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreidpc76gel6tllj2tpbocjtfinr2ifu43otyhsix6pfqmtjono7lt4"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 127121
+                  }
+                }
+              ]
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://bringmethenews.com/minnesota-news/the-buck-does-stop-with-me-gov-tim-walz-speaks-after-ending-reelection-bid"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 202,
+                  "byteStart": 86
+                }
+              }
+            ],
+            "text": "'The buck does stop with me': Gov. Tim Walz speaks after ending reelection bid\n\nMore: https://bringmethenews.com/minnesota-news/the-buck-does-stop-with-me-gov-tim-walz-speaks-after-ending-reelection-bid"
+          },
+          "labels": [],
+          "likeCount": 9,
+          "replyCount": 0,
+          "repostCount": 1,
+          "quoteCount": 1,
+          "indexedAt": "2026-01-05T18:27:05.912Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.images#view",
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cfdiophp2oon6xxrssw6cwz7/bafkreidpc76gel6tllj2tpbocjtfinr2ifu43otyhsix6pfqmtjono7lt4@jpeg",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cfdiophp2oon6xxrssw6cwz7/bafkreidpc76gel6tllj2tpbocjtfinr2ifu43otyhsix6pfqmtjono7lt4@jpeg",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 834,
+                    "width": 1352
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 1,
+      "replyCount": 7,
+      "repostCount": 4,
+      "likeCount": 64,
+      "quoteCount": 2,
+      "indexedAt": "2026-01-05T18:29:08.296Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbouq6tnqk2l",
       "cid": "bafyreie6vbxhae4vjrypz7k3zjv6ytyhekmm6temfslyw52yurjmqqohfm",
       "author": {
