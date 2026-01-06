@@ -1,6 +1,189 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbrrdd7vz222",
+      "cid": "bafyreihaqtswiugnsvmtedzedgafpnb7vdcytya4fqgeneuv7izf4k2z4q",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-06T20:14:27.499Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreibsh2glxnmzaqzvpkelfkea5mb36qwo2mcyesqzlwdkc7az6aeh6m",
+            "uri": "at://did:plc:u5zknu245yjfruwdddtzhcax/app.bsky.feed.post/3mbrraxg5v224"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "The thing about this dick head is ... no one likes him enough to care about him beyond this moment"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:u5zknu245yjfruwdddtzhcax/app.bsky.feed.post/3mbrraxg5v224",
+          "cid": "bafyreibsh2glxnmzaqzvpkelfkea5mb36qwo2mcyesqzlwdkc7az6aeh6m",
+          "author": {
+            "did": "did:plc:u5zknu245yjfruwdddtzhcax",
+            "handle": "myfox8.com",
+            "displayName": "FOX8 WGHP",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u5zknu245yjfruwdddtzhcax/bafkreihxnfq3jejndjs2m7lmovukcmwwjog3ldr6ebo2ainmxqvcjxjhnu@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-02-06T18:01:33.349Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-06T20:13:07.956Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "White House deputy chief of staff Stephen Miller doubled down on President Trump’s renewed threats to make Greenland a U.S. territory",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihzrchgtufvj3lobtld6inlp7nqck3fxb3fwky3avz2h3h5li6szq"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 29341
+                },
+                "title": "Miller: ‘Nobody’s going to fight the United States militarily’ over Greenland",
+                "uri": "https://myfox8.com/news/miller-nobodys-going-to-fight-the-united-states-militarily-over-greenland/?utm_campaign=snd-autopilot"
+              }
+            },
+            "text": "Miller: 'Nobody's going to fight the United States militarily' over Greenland"
+          },
+          "labels": [],
+          "likeCount": 3,
+          "replyCount": 7,
+          "repostCount": 2,
+          "quoteCount": 5,
+          "indexedAt": "2026-01-06T20:13:08.995Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://myfox8.com/news/miller-nobodys-going-to-fight-the-united-states-militarily-over-greenland/?utm_campaign=snd-autopilot",
+                "title": "Miller: ‘Nobody’s going to fight the United States militarily’ over Greenland",
+                "description": "White House deputy chief of staff Stephen Miller doubled down on President Trump’s renewed threats to make Greenland a U.S. territory",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u5zknu245yjfruwdddtzhcax/bafkreihzrchgtufvj3lobtld6inlp7nqck3fxb3fwky3avz2h3h5li6szq@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 9,
+      "repostCount": 11,
+      "likeCount": 148,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-06T20:14:27.694Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbrpk36n7s2z",
+      "cid": "bafyreiad76mbnluqecyrv5gp6i7zbxetzkgmfeznhaxpbwubdy34zsjgia",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-06T19:42:26.468Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihwrcvrb7vjgyizevzbqk3kbhnhciimn5xz3t546fsfsvxtx2rnbi"
+            },
+            "mimeType": "video/mp4",
+            "size": 8027783
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This thing…"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.video#view",
+        "cid": "bafkreihwrcvrb7vjgyizevzbqk3kbhnhciimn5xz3t546fsfsvxtx2rnbi",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreihwrcvrb7vjgyizevzbqk3kbhnhciimn5xz3t546fsfsvxtx2rnbi/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreihwrcvrb7vjgyizevzbqk3kbhnhciimn5xz3t546fsfsvxtx2rnbi/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 3,
+      "likeCount": 28,
+      "quoteCount": 4,
+      "indexedAt": "2026-01-06T19:42:27.396Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbr5zortus2m",
       "cid": "bafyreicjx3ql6exiil7mwn67re7je4qimzh2wu6nj6fo6qlk2lqpmgqcly",
       "author": {
