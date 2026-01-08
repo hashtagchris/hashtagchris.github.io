@@ -1,6 +1,50 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbw4tfukkk2m",
+      "cid": "bafyreifd3vkerbtso27hl6q4ekxc6tienrsh3vjhtcjqkqkxz43ld25v6u",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-08T13:50:57.258Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Black folks are not being \"mean\" to you when we are truthful concerning the historical pathologies of your kinsmen... \n\nTruth is the greatest love"
+      },
+      "bookmarkCount": 20,
+      "replyCount": 18,
+      "repostCount": 418,
+      "likeCount": 1749,
+      "quoteCount": 27,
+      "indexedAt": "2026-01-08T13:50:57.496Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mbttkd7c3c2x",
       "cid": "bafyreifw5oc6zcyxsaasyiuvi2im5ci4qqqkcisjlw3n6xhechdqk3z5ge",
       "author": {
