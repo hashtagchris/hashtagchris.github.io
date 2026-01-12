@@ -1,6 +1,699 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcajnvpfis2m",
+      "cid": "bafyreieg4dttrzeewqtkgn7zpggtlue6wzh563oqbj7tcvl6gyxchnd7y4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-12T17:07:08.568Z",
+        "langs": [
+          "en"
+        ],
+        "text": "The thing about Myha'la..."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-12T17:07:08.702Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcahlheekc2m",
+      "cid": "bafyreia64yysjjflw4zhqleumisf7dwzhfzlnpw3owq26zznli4g6qegde",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-12T16:29:58.933Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihtqaqqnkznri2clc7ql75me4z6qkuwbwlmt47z3abaoeb64bpsve",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcad3a5jzs2r"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This is the height of simping... desperation ... frustration... confusion... clarity ... fraud\n\n\"It is me... that tried to buy your love\""
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcad3a5jzs2r",
+          "cid": "bafyreihtqaqqnkznri2clc7ql75me4z6qkuwbwlmt47z3abaoeb64bpsve",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonmissouri.bsky.social",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-12T15:09:19.532Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreigz7myar5mrtbr7dbchh4lpoumbcqmichi6crw2i2ptgkdgykdxgq",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcacry4u2k2m"
+              },
+              "root": {
+                "cid": "bafyreia4kdosmdtugyoiavbzd45gn3nt623p6bgsr3p5nr5nvgnksml4y4",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcabzjnq422m"
+              }
+            },
+            "text": "“It is me that tried to buy your love”\n\nHerculean vulnerability"
+          },
+          "labels": [],
+          "likeCount": 82,
+          "replyCount": 1,
+          "repostCount": 3,
+          "quoteCount": 1,
+          "indexedAt": "2026-01-12T15:09:19.800Z",
+          "embeds": []
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 3,
+      "likeCount": 26,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-12T16:29:59.096Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcabzjnq422m",
+      "cid": "bafyreia4kdosmdtugyoiavbzd45gn3nt623p6bgsr3p5nr5nvgnksml4y4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-12T14:50:28.649Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreigep4wanpi6nmsjdqpyhr33tdeli3ly2huwvjml7xjknu2rhle4ca",
+            "uri": "at://did:plc:r6wxaadynk3m7sqsyn3r3vrf/app.bsky.feed.post/3mc26eg7y5c2w"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Now THAT'S a yearner!"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:r6wxaadynk3m7sqsyn3r3vrf/app.bsky.feed.post/3mc26eg7y5c2w",
+          "cid": "bafyreigep4wanpi6nmsjdqpyhr33tdeli3ly2huwvjml7xjknu2rhle4ca",
+          "author": {
+            "did": "did:plc:r6wxaadynk3m7sqsyn3r3vrf",
+            "handle": "ashtonpittman.bsky.social",
+            "displayName": "Ashton Pittman",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6wxaadynk3m7sqsyn3r3vrf/bafkreidvwdwnobuqcd3hpua5dreuumuqzcauiq6cpnd6znejvwbpktxtlu@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-27T03:40:16.006Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-10T04:29:00.754Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "The odd relationship between the mastermind of the Mississippi welfare scandal and two ex-wrestlers was on display in Ted DiBiase Jr.’s trial.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiczjaudmibdxfm3nqms4ad3tikyxxe3dddgh2fomsatemsffcpbmy"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 977120
+                },
+                "title": "DiBiase Trial Spotlights Wrestlers' Odd Bond With Mississippi Welfare Scandal Mastermind",
+                "uri": "https://www.mississippifreepress.org/dibiase-trial-spotlights-wrestlers-odd-bond-with-mississippi-welfare-scandal-mastermind/"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "NEW: Text messages reveal the strange relationship that John Davis, the former Mississippi official who directed millions in welfare dollars to sports celebrities, shared with WWE wrestlers Ted DiBiase Jr. and Brett DiBiase.\n\n\"It is me who tried to buy your love,\" he wrote in one text read in court."
+          },
+          "labels": [],
+          "likeCount": 307,
+          "replyCount": 18,
+          "repostCount": 142,
+          "quoteCount": 72,
+          "indexedAt": "2026-01-10T04:29:08.304Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://www.mississippifreepress.org/dibiase-trial-spotlights-wrestlers-odd-bond-with-mississippi-welfare-scandal-mastermind/",
+                "title": "DiBiase Trial Spotlights Wrestlers' Odd Bond With Mississippi Welfare Scandal Mastermind",
+                "description": "The odd relationship between the mastermind of the Mississippi welfare scandal and two ex-wrestlers was on display in Ted DiBiase Jr.’s trial.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6wxaadynk3m7sqsyn3r3vrf/bafkreiczjaudmibdxfm3nqms4ad3tikyxxe3dddgh2fomsatemsffcpbmy@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 4,
+      "replyCount": 8,
+      "repostCount": 49,
+      "likeCount": 232,
+      "quoteCount": 8,
+      "indexedAt": "2026-01-12T14:50:28.798Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcaaiafbws2m",
+      "cid": "bafyreigbbnaxpcegyflfan6pe5sdrighcpueb2k3rldkgxnub6uy7eh2oy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-12T14:22:54.767Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 479,
+                  "width": 680
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibyqqnaggeztxfasfaxvmqevoyhykme6xvko3tle2wvj2fqwtxj3e"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 143049
+                }
+              }
+            ]
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreigv5heco55f5jqgy5sf6hu3ak56h2kksrpybzmovfeedknffzfz5a",
+              "uri": "at://did:plc:a3ls5giu467zlydjiewkdew4/app.bsky.feed.post/3mca7fd4j322h"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "If it's tender... It's tender... \n\nyour baby aint got nothing to do with me and you!"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.recordWithMedia#view",
+        "media": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibyqqnaggeztxfasfaxvmqevoyhykme6xvko3tle2wvj2fqwtxj3e@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibyqqnaggeztxfasfaxvmqevoyhykme6xvko3tle2wvj2fqwtxj3e@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 479,
+                "width": 680
+              }
+            }
+          ]
+        },
+        "record": {
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:a3ls5giu467zlydjiewkdew4/app.bsky.feed.post/3mca7fd4j322h",
+            "cid": "bafyreigv5heco55f5jqgy5sf6hu3ak56h2kksrpybzmovfeedknffzfz5a",
+            "author": {
+              "did": "did:plc:a3ls5giu467zlydjiewkdew4",
+              "handle": "thegatesofmel.blacksky.app",
+              "displayName": "💜 Big 💚 Roux 💛",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a3ls5giu467zlydjiewkdew4/bafkreic5iretuw6cpirv45hwfo2yfcwmeyixhoe3d456vzltgfhljhuyei@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [
+                {
+                  "src": "did:plc:a3ls5giu467zlydjiewkdew4",
+                  "uri": "at://did:plc:a3ls5giu467zlydjiewkdew4/app.bsky.actor.profile/self",
+                  "cid": "bafyreiaoilkculphecupwjaaep6qoa7omowsh4lqxrinuaqbieprjf5oje",
+                  "val": "!no-unauthenticated",
+                  "cts": "1970-01-01T00:00:00.000Z"
+                }
+              ],
+              "createdAt": "2023-04-28T02:44:38.648Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-01-12T14:03:23.221Z",
+              "embed": {
+                "$type": "app.bsky.embed.record",
+                "record": {
+                  "cid": "bafyreiaank5e2vnt3dddmtzjywcvjjezstodflmetf33bueq4lpeulvbfa",
+                  "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mca7d5uhyc2m"
+                }
+              },
+              "langs": [
+                "en"
+              ],
+              "text": "Nobody:\n\nMost men:"
+            },
+            "labels": [],
+            "likeCount": 29,
+            "replyCount": 1,
+            "repostCount": 4,
+            "quoteCount": 1,
+            "indexedAt": "2026-01-12T14:03:24.795Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                  "$type": "app.bsky.embed.record#viewRecord",
+                  "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mca7d5uhyc2m",
+                  "cid": "bafyreiaank5e2vnt3dddmtzjywcvjjezstodflmetf33bueq4lpeulvbfa",
+                  "author": {
+                    "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+                    "handle": "solomonmissouri.bsky.social",
+                    "displayName": "Solomon",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+                    "associated": {
+                      "activitySubscription": {
+                        "allowSubscriptions": "followers"
+                      }
+                    },
+                    "viewer": {
+                      "muted": false,
+                      "blockedBy": false,
+                      "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+                    },
+                    "labels": [],
+                    "createdAt": "2023-04-23T21:41:12.949Z"
+                  },
+                  "value": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2026-01-12T14:02:10.606Z",
+                    "embed": {
+                      "$type": "app.bsky.embed.record",
+                      "record": {
+                        "cid": "bafyreihmro7cts6azglidfynoetdfslew7dybs3qhczgmebcpicmlamrha",
+                        "uri": "at://did:plc:j2tkjpgzu23ko5yw3gpi5ndt/app.bsky.feed.post/3mca75h7nsk2b"
+                      }
+                    },
+                    "langs": [
+                      "en"
+                    ],
+                    "text": "What everyone should know... Having another man's baby will not cause my vigor to wane"
+                  },
+                  "labels": [],
+                  "likeCount": 101,
+                  "replyCount": 6,
+                  "repostCount": 9,
+                  "quoteCount": 5,
+                  "indexedAt": "2026-01-12T14:02:10.795Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 4,
+      "likeCount": 35,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-12T14:22:55.603Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mca7d5uhyc2m",
+      "cid": "bafyreiaank5e2vnt3dddmtzjywcvjjezstodflmetf33bueq4lpeulvbfa",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-12T14:02:10.606Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihmro7cts6azglidfynoetdfslew7dybs3qhczgmebcpicmlamrha",
+            "uri": "at://did:plc:j2tkjpgzu23ko5yw3gpi5ndt/app.bsky.feed.post/3mca75h7nsk2b"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "What everyone should know... Having another man's baby will not cause my vigor to wane"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:j2tkjpgzu23ko5yw3gpi5ndt/app.bsky.feed.post/3mca75h7nsk2b",
+          "cid": "bafyreihmro7cts6azglidfynoetdfslew7dybs3qhczgmebcpicmlamrha",
+          "author": {
+            "did": "did:plc:j2tkjpgzu23ko5yw3gpi5ndt",
+            "handle": "jazzagold.bsky.social",
+            "displayName": "",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j2tkjpgzu23ko5yw3gpi5ndt/bafkreiaygth4bmlhld4diqi6i2jcw6qc6lvrpxggqgw5j2rntbo476axdu@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:j2tkjpgzu23ko5yw3gpi5ndt",
+                "uri": "at://did:plc:j2tkjpgzu23ko5yw3gpi5ndt/app.bsky.actor.profile/self",
+                "cid": "bafyreia7qoy76clzsa57dz67qn236o74thp64siivbfxztnsgoee2uayte",
+                "val": "!no-unauthenticated",
+                "cts": "2025-04-03T22:29:10.136Z"
+              }
+            ],
+            "createdAt": "2025-04-03T22:29:08.864Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-12T13:58:59.082Z",
+            "facets": [
+              {
+                "$type": "app.bsky.richtext.facet",
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#mention",
+                    "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 28,
+                  "byteStart": 0
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "@solomonmissouri.bsky.social your lady looked magnificent in yellow last night btw, took my breath away"
+          },
+          "labels": [],
+          "likeCount": 9,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-01-12T13:58:59.795Z",
+          "embeds": []
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 6,
+      "repostCount": 9,
+      "likeCount": 101,
+      "quoteCount": 5,
+      "indexedAt": "2026-01-12T14:02:10.795Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mca62lmrkc2r",
+      "cid": "bafyreibrq7ryjwqjnca3totnoky3dxadjxf2abgk3sjwjugo5t2lyfvc5m",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-12T13:39:29.300Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreicxvmx54ivmqmalsvncu4qjleje65jfdpfbkj2a2imdekjjczdzei",
+            "uri": "at://did:plc:ct2u2ve3sbkg42uepim2upls/app.bsky.feed.post/3mc6t3cek2k2i"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Look at me… \n\nUnmarked jars…"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:ct2u2ve3sbkg42uepim2upls/app.bsky.feed.post/3mc6t3cek2k2i",
+          "cid": "bafyreicxvmx54ivmqmalsvncu4qjleje65jfdpfbkj2a2imdekjjczdzei",
+          "author": {
+            "did": "did:plc:ct2u2ve3sbkg42uepim2upls",
+            "handle": "ray-nard.bsky.social",
+            "displayName": "RunRayRun 🏃🏾‍♂️",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ct2u2ve3sbkg42uepim2upls/bafkreihg762xj6tk7m2yj3ixkjav2ckobli6wdzgpyykah3lskjoi4o4ze@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-12-13T16:59:28.012Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-12T00:50:22.251Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "ALT: a man with dreadlocks and sunglasses is wearing a black hoodie",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreigyhxhboomqiwn5ttjsdoauqjec5ddjhkdppyakmt6n2a3gy4waga"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 259078
+                },
+                "title": "a man with dreadlocks and sunglasses is wearing a black hoodie",
+                "uri": "https://media.tenor.com/uP8S7BZlpc0AAAAC/future-dancing.gif?hh=329&ww=498"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Fellas you deserve to be treated to luxury too, go ahead and use that expensive face cream to moisturize your hands."
+          },
+          "labels": [],
+          "likeCount": 5,
+          "replyCount": 1,
+          "repostCount": 2,
+          "quoteCount": 8,
+          "indexedAt": "2026-01-12T00:50:24.294Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://media.tenor.com/uP8S7BZlpc0AAAAC/future-dancing.gif?hh=329&ww=498",
+                "title": "a man with dreadlocks and sunglasses is wearing a black hoodie",
+                "description": "ALT: a man with dreadlocks and sunglasses is wearing a black hoodie",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ct2u2ve3sbkg42uepim2upls/bafkreigyhxhboomqiwn5ttjsdoauqjec5ddjhkdppyakmt6n2a3gy4waga@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 5,
+      "repostCount": 2,
+      "likeCount": 31,
+      "quoteCount": 1,
+      "indexedAt": "2026-01-12T13:39:29.495Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mca2i3pyk22r",
       "cid": "bafyreibkld5jogenttbfvwtxe2skyrykb6ub5jgfv3tesdhyyaouokjnuq",
       "author": {
