@@ -1,6 +1,119 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcdhxdta5k2m",
+      "cid": "bafyreib4jxcfovmgmfsnsraa7bozfu2esyfqzotgaqh6jnm3nn6gd3bfcy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-13T21:14:37.095Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "ALT: a man wearing glasses says \" do n't do that \" on a netflix poster",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidwlk34vsoe574tlytvv2pgezzso6jlgaykwsfwimw7acjsnljvei"
+              },
+              "mimeType": "image/jpeg",
+              "size": 856557
+            },
+            "title": "a man wearing glasses says \" do n't do that \" on a netflix poster",
+            "uri": "https://media.tenor.com/WDBWRBzmG1cAAAAC/don%27t-do-that-vincent-anderson.gif?hh=498&ww=498"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "people will have 1 million tiktok followers... 3 million IG followers ... sooooo many youtube subscribers and still like\n\n\"i gotta work on Bluesky\""
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://media.tenor.com/WDBWRBzmG1cAAAAC/don%27t-do-that-vincent-anderson.gif?hh=498&ww=498",
+          "title": "a man wearing glasses says \" do n't do that \" on a netflix poster",
+          "description": "ALT: a man wearing glasses says \" do n't do that \" on a netflix poster",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwlk34vsoe574tlytvv2pgezzso6jlgaykwsfwimw7acjsnljvei@jpeg"
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 2,
+      "likeCount": 57,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-13T21:14:38.294Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcd6vgfjac2r",
+      "cid": "bafyreia2czydgmj3m7libe7gts567tv7wo6pmksns36tdw5vklz3hru4tm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-13T18:32:29.005Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I think the most impressive thing about Panera is convincing people that half a sandwich is okay"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 13,
+      "repostCount": 29,
+      "likeCount": 283,
+      "quoteCount": 15,
+      "indexedAt": "2026-01-13T18:32:29.198Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mccvyi337s2m",
       "cid": "bafyreigrpp7zgo2yhy47hjf7pzgmhz656tli3ytj57nfafucbgr6tp2gny",
       "author": {
