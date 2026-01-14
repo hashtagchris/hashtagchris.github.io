@@ -1,6 +1,413 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcfvmg7sss2m",
+      "cid": "bafyreiemng5waaza75adenoifydfkyb54sqqkiuwxgu7n5g6cafnd4hvgm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-14T20:24:22.367Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Savannah. Georgia ",
+                "aspectRatio": {
+                  "height": 478,
+                  "width": 579
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreifagjsewponkuffkfmivopmitlkknxlanlxg3plg5pqawunnvbc2i"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 387322
+                }
+              }
+            ]
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreig7du3ubujr4exkpao7cup4r2fbh4ttpicul4575zjnn36hnr5g7m",
+              "uri": "at://did:plc:ebtn5uwxbtwbyjx25jjqlh7b/app.bsky.feed.post/3mcfuvjjz6s25"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "$type": "app.bsky.embed.recordWithMedia#view",
+        "media": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreifagjsewponkuffkfmivopmitlkknxlanlxg3plg5pqawunnvbc2i@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreifagjsewponkuffkfmivopmitlkknxlanlxg3plg5pqawunnvbc2i@jpeg",
+              "alt": "Savannah. Georgia ",
+              "aspectRatio": {
+                "height": 478,
+                "width": 579
+              }
+            }
+          ]
+        },
+        "record": {
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:ebtn5uwxbtwbyjx25jjqlh7b/app.bsky.feed.post/3mcfuvjjz6s25",
+            "cid": "bafyreig7du3ubujr4exkpao7cup4r2fbh4ttpicul4575zjnn36hnr5g7m",
+            "author": {
+              "did": "did:plc:ebtn5uwxbtwbyjx25jjqlh7b",
+              "handle": "itsafronomics.bsky.social",
+              "displayName": "Anna Gifty",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ebtn5uwxbtwbyjx25jjqlh7b/bafkreideluxr77ncfi2u6rbjckzvl6k6gg2fsjq47mtooodxklsvueecle@jpeg",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [
+                {
+                  "src": "did:plc:ebtn5uwxbtwbyjx25jjqlh7b",
+                  "uri": "at://did:plc:ebtn5uwxbtwbyjx25jjqlh7b/app.bsky.actor.profile/self",
+                  "cid": "bafyreidw6ig3ffebewvz36yca5ahd6k6uf4uthbqptriglzols2s7zenv4",
+                  "val": "!no-unauthenticated",
+                  "cts": "2024-11-06T22:21:10.455Z"
+                }
+              ],
+              "createdAt": "2024-11-06T22:21:11.515Z",
+              "verification": {
+                "verifications": [
+                  {
+                    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lv3dobpeed27",
+                    "isValid": true,
+                    "createdAt": "2025-07-29T05:09:08.561Z"
+                  }
+                ],
+                "verifiedStatus": "valid",
+                "trustedVerifierStatus": "none"
+              }
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-01-14T20:11:34.095Z",
+              "langs": [
+                "en"
+              ],
+              "text": "If someone needs a vacation, but doesn't want to travel out of the country, where should they go?\n\nNote: This someone is Black lol"
+            },
+            "labels": [],
+            "likeCount": 36,
+            "replyCount": 30,
+            "repostCount": 2,
+            "quoteCount": 9,
+            "indexedAt": "2026-01-14T20:11:34.597Z",
+            "embeds": []
+          }
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 9,
+      "repostCount": 1,
+      "likeCount": 92,
+      "quoteCount": 5,
+      "indexedAt": "2026-01-14T20:24:23.705Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcfpikkuos2c",
+      "cid": "bafyreiashj6u6mzhbxdn6wnvulql2q3dmbqm72omfmby3dtfd2n3ajbxnu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-14T18:34:50.255Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreif5nckohpxlzor22nybxkw2jpfzqf3uessbhbkakxs56insunuzh4",
+            "uri": "at://did:plc:2yi5d5zeyxrwl4otj5wcwiw4/app.bsky.feed.post/3mcd7mf5izk2w"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "One thing about Almodovar … it’s gone be some kissing in the mouth"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:2yi5d5zeyxrwl4otj5wcwiw4/app.bsky.feed.post/3mcd7mf5izk2w",
+          "cid": "bafyreif5nckohpxlzor22nybxkw2jpfzqf3uessbhbkakxs56insunuzh4",
+          "author": {
+            "did": "did:plc:2yi5d5zeyxrwl4otj5wcwiw4",
+            "handle": "jamnpp.bsky.social",
+            "displayName": "Jason Adams",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2yi5d5zeyxrwl4otj5wcwiw4/bafkreifesvs66d5dz5azwpoporvjmk6gduhbft64j4pofktfmetovehnay@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-07-03T14:06:01.971Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-13T18:45:19.446Z",
+            "embed": {
+              "$type": "app.bsky.embed.video",
+              "aspectRatio": {
+                "height": 293,
+                "width": 700
+              },
+              "video": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiatxdtf6mt4em2idvfms2aqp25t4jcnteumdbltgchflcghblhdcq"
+                },
+                "mimeType": "video/mp4",
+                "size": 1223115
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "I really just want to be at home watching every Pedro Almodovar movie from first to most recent this week. Why can't that be a job?"
+          },
+          "labels": [],
+          "likeCount": 57,
+          "replyCount": 3,
+          "repostCount": 1,
+          "quoteCount": 3,
+          "indexedAt": "2026-01-13T18:45:20.093Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.video#view",
+              "cid": "bafkreiatxdtf6mt4em2idvfms2aqp25t4jcnteumdbltgchflcghblhdcq",
+              "playlist": "https://video.bsky.app/watch/did%3Aplc%3A2yi5d5zeyxrwl4otj5wcwiw4/bafkreiatxdtf6mt4em2idvfms2aqp25t4jcnteumdbltgchflcghblhdcq/playlist.m3u8",
+              "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A2yi5d5zeyxrwl4otj5wcwiw4/bafkreiatxdtf6mt4em2idvfms2aqp25t4jcnteumdbltgchflcghblhdcq/thumbnail.jpg",
+              "aspectRatio": {
+                "height": 293,
+                "width": 700
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 4,
+      "replyCount": 2,
+      "repostCount": 8,
+      "likeCount": 91,
+      "quoteCount": 3,
+      "indexedAt": "2026-01-14T18:34:50.501Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcfnbzxkxs2m",
+      "cid": "bafyreibjaqhlxtvrtgf5j5zpuiyzl42qavu37sjctztiaxd65moi7jfliy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-14T17:55:24.032Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreic3it6xropgu5e3px67ldemoj6ngaxjmiadbt67cbnamhkcfwcwuy",
+            "uri": "at://did:plc:3bxtpdpr73tf7tldv5q4oyqc/app.bsky.feed.post/3mcfi5rkdz42m"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "A lie don't care who tell it"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:3bxtpdpr73tf7tldv5q4oyqc/app.bsky.feed.post/3mcfi5rkdz42m",
+          "cid": "bafyreic3it6xropgu5e3px67ldemoj6ngaxjmiadbt67cbnamhkcfwcwuy",
+          "author": {
+            "did": "did:plc:3bxtpdpr73tf7tldv5q4oyqc",
+            "handle": "cbsnews.com",
+            "displayName": "CBS News",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3bxtpdpr73tf7tldv5q4oyqc/bafkreiejzg7h5cxkf3xkl6waihjge2ynalqgq36cf5uzfjonaocmilgdlu@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2025-02-03T16:04:18.414Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndpxi3f6j24",
+                  "isValid": true,
+                  "createdAt": "2025-04-21T10:48:47.097Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-14T16:23:32.094Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "card": {
+                "description": "Jonathan Ross, who shot Renee Good in Minneapolis last week, suffered internal bleeding after the incident, two officials said, though it's not clear how extensive the bleeding was.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihbsd7mbohaa25cofyxzzxglnnwndc2rmd4sk7wy6wtlanvljwame"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 135047
+                },
+                "title": "ICE agent who shot Renee Good suffered internal bleeding, officials say",
+                "uri": "https://cbsn.ws/3YHDBLJ"
+              },
+              "external": {
+                "description": "Jonathan Ross, who shot Renee Good in Minneapolis last week, suffered internal bleeding after the incident, two officials said, though it's not clear how extensive the bleeding was.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihbsd7mbohaa25cofyxzzxglnnwndc2rmd4sk7wy6wtlanvljwame"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 135047
+                },
+                "title": "ICE agent who shot Renee Good suffered internal bleeding, officials say",
+                "uri": "https://cbsn.ws/3YHDBLJ"
+              }
+            },
+            "facets": [],
+            "text": "BREAKING: The ICE agent who fatally shot Renee Good last week in Minneapolis, Jonathan Ross, suffered internal bleeding to the torso following the incident, according to two U.S. officials briefed on his medical condition.  "
+          },
+          "labels": [],
+          "likeCount": 97,
+          "replyCount": 3587,
+          "repostCount": 28,
+          "quoteCount": 1268,
+          "indexedAt": "2026-01-14T16:23:33.001Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://cbsn.ws/3YHDBLJ",
+                "title": "ICE agent who shot Renee Good suffered internal bleeding, officials say",
+                "description": "Jonathan Ross, who shot Renee Good in Minneapolis last week, suffered internal bleeding after the incident, two officials said, though it's not clear how extensive the bleeding was.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3bxtpdpr73tf7tldv5q4oyqc/bafkreihbsd7mbohaa25cofyxzzxglnnwndc2rmd4sk7wy6wtlanvljwame@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 2,
+      "replyCount": 20,
+      "repostCount": 54,
+      "likeCount": 366,
+      "quoteCount": 3,
+      "indexedAt": "2026-01-14T17:55:24.199Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcfg2qgmxc27",
       "cid": "bafyreibd3fdg6uz7b4zl5fwvsc7eq72hlm7qo2cefoxdlvcao5k2ds26fy",
       "author": {
