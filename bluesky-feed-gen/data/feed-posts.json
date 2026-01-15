@@ -1,6 +1,272 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mci4j32f4c2m",
+      "cid": "bafyreifmyb52lmwzca2qcce44wak7gylo7uuogtseyjkdnonclrmvf7gma",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-15T17:33:05.662Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 641,
+                  "width": 680
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreie33v6jqwhe3vroz3k6mxgdhplxujv5n3oqgvjwwv5irxavtbm2p4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 254681
+                }
+              }
+            ]
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreihrwjndqckmr4kwpt4bfxe2j3yxfr4zs6fkfcqoeogn2ev7mjbdd4",
+              "uri": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3mchsxn76b22o"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "$type": "app.bsky.embed.recordWithMedia#view",
+        "media": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreie33v6jqwhe3vroz3k6mxgdhplxujv5n3oqgvjwwv5irxavtbm2p4@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreie33v6jqwhe3vroz3k6mxgdhplxujv5n3oqgvjwwv5irxavtbm2p4@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 641,
+                "width": 680
+              }
+            }
+          ]
+        },
+        "record": {
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3mchsxn76b22o",
+            "cid": "bafyreihrwjndqckmr4kwpt4bfxe2j3yxfr4zs6fkfcqoeogn2ev7mjbdd4",
+            "author": {
+              "did": "did:plc:pnx2fjuannbdpy3337ggthpp",
+              "handle": "peark.es",
+              "displayName": "George Pearkes",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreidzvakiwbiqaj324i3grmh3efa6uq7jk3kudi7ill3j362exktwbe@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-04-27T22:11:20.453Z",
+              "verification": {
+                "verifications": [
+                  {
+                    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mbyqv4tlyd2c",
+                    "isValid": true,
+                    "createdAt": "2026-01-09T14:55:08.805Z"
+                  }
+                ],
+                "verifiedStatus": "valid",
+                "trustedVerifierStatus": "none"
+              }
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-01-15T14:42:17.036Z",
+              "embed": {
+                "$type": "app.bsky.embed.images",
+                "images": [
+                  {
+                    "alt": "20. That same year, in 2022, Defendant’s head of security hired Mr. Ammel to work as a security detail for Defendant.\n\n21. At that time, Defendant was serving as a United States Senator for the State of Arizona.\n\n22. In April 2022, Mr. Ammel began working for Defendant.\n\n23. In the fall of 2023, Defendant’s head of security resigned from her position. Prior to leaving, Defendant’s head of security expressed to Mr. Ammel she had concerns Defendant was having sexual relations with other security members. She encouraged Mr. Ammel to leave with her, but Mr. Ammel decided to stay due to the financial security of the job.\n\n24. In addition to accompanying Defendant to various work events, Mr. Ammel accompanied Defendant on several trips and went with her alone to Napa Valley, California in the fall of 2023. Upon returning home from Napa Valley, Mr. Ammel appeared uncomfortable and informed Plaintiff that if anyone had seen them together on the trip, it would have appeared as if they were on a romantic getaway.",
+                    "aspectRatio": {
+                      "height": 761,
+                      "width": 1037
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreifrt24adxwq5nfp26zt5ta3xliqn65ejdwgouoluiym3o5u5i3kfm"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 229434
+                    }
+                  },
+                  {
+                    "alt": "26. In or around 2023, Defendant traveled to Charlotte, North Carolina, for a work event. Mr. Ammel met Defendant at the airport and provided her security for the event.\n\n27. Beginning in January 2024, while Plaintiff, Mr. Ammel, and the Children were residing in Moore County, North Carolina, Plaintiff discovered Defendant frequently messaging Mr. Ammel on Signal, the messaging app. Defendant had knowledge Mr. Ammel was residing in North Carolina at the time she sent the messages, and Mr. Ammel received the messages while residing at the marital residence in Moore County, North Carolina. The messages exceeded the bounds of a normal working relationship and were of romantic and lascivious natures.\n\n28. Plaintiff discovered messages which included a picture of Defendant wrapped in a towel; Defendant offered to help Mr. Ammel work through his mental health challenges and Mr. Ammel agreed; Mr. Ammel stated to Defendant he was intimidated by her and Defendant asked why because she only wants to be intimidating to her opponents, not to people she likes; Defendant suggested for Mr. Ammel to bring MDMA drugs on a work trip so that she could guide him through a psychedelic experience.",
+                    "aspectRatio": {
+                      "height": 791,
+                      "width": 1003
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreigq5dvzgpywwrfqtdk7hfrk7xjci2xajfznauhe5inen6ehp7dxiy"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 272716
+                    }
+                  },
+                  {
+                    "alt": "30. Around that same time, Mr. Ammel traveled to Pennsylvania for a work trip with Staccato. During his free time, Mr. Ammel attended a baseball game by himself, but messaged Defendant during the game stating he was going to start a “fuck the troops” chant. Defendant responded stating she would “fuck the hot ones.”\n\n31. Defendant and Mr. Ammel messaged about having sex missionary style with the lights on, and Defendant stated “Boring!”\n\n32. In March 2024, Defendant requested Mr. Ammel serve as her security at the Extra Innings Festival in Phoenix, Arizona. Mr. Ammel acknowledged to Plaintiff that Defendant was handsy with him at this event. Defendant held his hand and touched him. Mr. Ammel expressed to Plaintiff he didn’t know how to get out of the situation without offending Defendant.",
+                    "aspectRatio": {
+                      "height": 558,
+                      "width": 1014
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreid5di3eyfzm2nix664xfyj7v3rblvfhlcvb7l2qw5gcwhwk33c5z4"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 181684
+                    }
+                  },
+                  {
+                    "alt": "In June 2024, Defendant requested Mr. Ammel travel to New York City to be her security and guest for a wedding. From New York City, Defendant and Mr. Ammel flew to Defendant’s house in Scottsdale, Arizona where they stayed together alone.\n\nThat same month, Defendant offered Mr. Ammel a salary position and placed him on her senate staff as a Defense and National Security Fellow. Mr. Ammel then worked as Defendant’s personal security guard as well as her senate staff member.\n\nAround that same time, Plaintiff discovered more messages between Defendant and Mr. Ammel. Defendant expressed to Mr. Ammel she keeps waking up during her sleep and reaching over for his arms to hold her. Plaintiff confronted Mr. Ammel.\n\nIn the following months, Mr. Ammel struggled to admit to Plaintiff he was having an affair with Defendant but was vocal that he was leaving Plaintiff and that they were divorcing.\n\nMr. Ammel continued to work for Defendant as her security guard and senate staff member, traveling to various states and cities within the United States and internationally.\n\nIn July 2024, Mr. Ammel took their minor child, C.A., to Washington, D.C. for a work trip. Mr. Ammel and C.A. attended the Green Day concert with Defendant, and Defendant provided C.A. a tour of the United States Capitol.",
+                    "aspectRatio": {
+                      "height": 883,
+                      "width": 1003
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreifmzfbeigulpzgorobx7h5suuyvwndwreqa2nkokb2zma6jqhddrm"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 296706
+                    }
+                  }
+                ]
+              },
+              "facets": [
+                {
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#link",
+                      "uri": "https://storage.courtlistener.com/recap/gov.uscourts.ncmd.103845/gov.uscourts.ncmd.103845.2.0.pdf"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 122,
+                    "byteStart": 81
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "North Carolina x Kyrsten Sinema: alienation of affection suit complaint edition.\nstorage.courtlistener.com/recap/gov.us..."
+            },
+            "labels": [],
+            "likeCount": 586,
+            "replyCount": 17,
+            "repostCount": 111,
+            "quoteCount": 153,
+            "indexedAt": "2026-01-15T14:42:22.800Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreifrt24adxwq5nfp26zt5ta3xliqn65ejdwgouoluiym3o5u5i3kfm@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreifrt24adxwq5nfp26zt5ta3xliqn65ejdwgouoluiym3o5u5i3kfm@jpeg",
+                    "alt": "20. That same year, in 2022, Defendant’s head of security hired Mr. Ammel to work as a security detail for Defendant.\n\n21. At that time, Defendant was serving as a United States Senator for the State of Arizona.\n\n22. In April 2022, Mr. Ammel began working for Defendant.\n\n23. In the fall of 2023, Defendant’s head of security resigned from her position. Prior to leaving, Defendant’s head of security expressed to Mr. Ammel she had concerns Defendant was having sexual relations with other security members. She encouraged Mr. Ammel to leave with her, but Mr. Ammel decided to stay due to the financial security of the job.\n\n24. In addition to accompanying Defendant to various work events, Mr. Ammel accompanied Defendant on several trips and went with her alone to Napa Valley, California in the fall of 2023. Upon returning home from Napa Valley, Mr. Ammel appeared uncomfortable and informed Plaintiff that if anyone had seen them together on the trip, it would have appeared as if they were on a romantic getaway.",
+                    "aspectRatio": {
+                      "height": 761,
+                      "width": 1037
+                    }
+                  },
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreigq5dvzgpywwrfqtdk7hfrk7xjci2xajfznauhe5inen6ehp7dxiy@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreigq5dvzgpywwrfqtdk7hfrk7xjci2xajfznauhe5inen6ehp7dxiy@jpeg",
+                    "alt": "26. In or around 2023, Defendant traveled to Charlotte, North Carolina, for a work event. Mr. Ammel met Defendant at the airport and provided her security for the event.\n\n27. Beginning in January 2024, while Plaintiff, Mr. Ammel, and the Children were residing in Moore County, North Carolina, Plaintiff discovered Defendant frequently messaging Mr. Ammel on Signal, the messaging app. Defendant had knowledge Mr. Ammel was residing in North Carolina at the time she sent the messages, and Mr. Ammel received the messages while residing at the marital residence in Moore County, North Carolina. The messages exceeded the bounds of a normal working relationship and were of romantic and lascivious natures.\n\n28. Plaintiff discovered messages which included a picture of Defendant wrapped in a towel; Defendant offered to help Mr. Ammel work through his mental health challenges and Mr. Ammel agreed; Mr. Ammel stated to Defendant he was intimidated by her and Defendant asked why because she only wants to be intimidating to her opponents, not to people she likes; Defendant suggested for Mr. Ammel to bring MDMA drugs on a work trip so that she could guide him through a psychedelic experience.",
+                    "aspectRatio": {
+                      "height": 791,
+                      "width": 1003
+                    }
+                  },
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreid5di3eyfzm2nix664xfyj7v3rblvfhlcvb7l2qw5gcwhwk33c5z4@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreid5di3eyfzm2nix664xfyj7v3rblvfhlcvb7l2qw5gcwhwk33c5z4@jpeg",
+                    "alt": "30. Around that same time, Mr. Ammel traveled to Pennsylvania for a work trip with Staccato. During his free time, Mr. Ammel attended a baseball game by himself, but messaged Defendant during the game stating he was going to start a “fuck the troops” chant. Defendant responded stating she would “fuck the hot ones.”\n\n31. Defendant and Mr. Ammel messaged about having sex missionary style with the lights on, and Defendant stated “Boring!”\n\n32. In March 2024, Defendant requested Mr. Ammel serve as her security at the Extra Innings Festival in Phoenix, Arizona. Mr. Ammel acknowledged to Plaintiff that Defendant was handsy with him at this event. Defendant held his hand and touched him. Mr. Ammel expressed to Plaintiff he didn’t know how to get out of the situation without offending Defendant.",
+                    "aspectRatio": {
+                      "height": 558,
+                      "width": 1014
+                    }
+                  },
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreifmzfbeigulpzgorobx7h5suuyvwndwreqa2nkokb2zma6jqhddrm@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pnx2fjuannbdpy3337ggthpp/bafkreifmzfbeigulpzgorobx7h5suuyvwndwreqa2nkokb2zma6jqhddrm@jpeg",
+                    "alt": "In June 2024, Defendant requested Mr. Ammel travel to New York City to be her security and guest for a wedding. From New York City, Defendant and Mr. Ammel flew to Defendant’s house in Scottsdale, Arizona where they stayed together alone.\n\nThat same month, Defendant offered Mr. Ammel a salary position and placed him on her senate staff as a Defense and National Security Fellow. Mr. Ammel then worked as Defendant’s personal security guard as well as her senate staff member.\n\nAround that same time, Plaintiff discovered more messages between Defendant and Mr. Ammel. Defendant expressed to Mr. Ammel she keeps waking up during her sleep and reaching over for his arms to hold her. Plaintiff confronted Mr. Ammel.\n\nIn the following months, Mr. Ammel struggled to admit to Plaintiff he was having an affair with Defendant but was vocal that he was leaving Plaintiff and that they were divorcing.\n\nMr. Ammel continued to work for Defendant as her security guard and senate staff member, traveling to various states and cities within the United States and internationally.\n\nIn July 2024, Mr. Ammel took their minor child, C.A., to Washington, D.C. for a work trip. Mr. Ammel and C.A. attended the Green Day concert with Defendant, and Defendant provided C.A. a tour of the United States Capitol.",
+                    "aspectRatio": {
+                      "height": 883,
+                      "width": 1003
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "bookmarkCount": 12,
+      "replyCount": 14,
+      "repostCount": 74,
+      "likeCount": 386,
+      "quoteCount": 5,
+      "indexedAt": "2026-01-15T17:33:06.795Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mchp4td2x22m",
       "cid": "bafyreibr5w3zcnvhpmj74hdzshj5iqazosuywovzuddzo6gkzjt275zpve",
       "author": {
