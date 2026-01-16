@@ -1,6 +1,338 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckjk6bc722m",
+      "cid": "bafyreifj4hvu4gsffavpl3evzvck6bkzygcwav67ocdcuugpvp637attha",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-16T16:31:40.709Z",
+        "langs": [
+          "en"
+        ],
+        "text": "\"a stud\" \n\nlet me tell you something daddy... \n\n\"Stud\" is a perception ... if you got some honey in your face ... imma chat you up"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 31,
+      "quoteCount": 1,
+      "indexedAt": "2026-01-16T16:31:40.804Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckfwio4p22m",
+      "cid": "bafyreibjinjx6e52ayamp5l4rbmgo5lxvbwykqmwhv2tsxawe6odmtvdva",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-16T15:26:59.300Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiao3wfmg5vg6hxiq2c5vj6e2my7kgx2bzh6orpeflfhalvj4y5pku",
+            "uri": "at://did:plc:ptkn43a4zzxxxoy5ctyrhf7j/app.bsky.feed.post/3mckfph7dsb26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "as a pastor ... there is significant harm in the religiously zealous non readers being the arbiters of compliance"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:ptkn43a4zzxxxoy5ctyrhf7j/app.bsky.feed.post/3mckfph7dsb26",
+          "cid": "bafyreiao3wfmg5vg6hxiq2c5vj6e2my7kgx2bzh6orpeflfhalvj4y5pku",
+          "author": {
+            "did": "did:plc:ptkn43a4zzxxxoy5ctyrhf7j",
+            "handle": "alreporter.com",
+            "displayName": "Alabama Political Reporter",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ptkn43a4zzxxxoy5ctyrhf7j/bafkreiffo3jkulxrsdfhw2l543cko4ncyumvr3r3sxyqgqcjjdyxds4hlu@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-08T13:10:04.613Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-16T15:23:00.857Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "The APLS board voted 3-2 to find the library noncompliant for including \"sexually explicit\" materials in youth sections.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreig2bb2of6rfrsbh5vej2vptxnmrtyetd57he4xh56wfl77uxibzai"
+                  },
+                  "mimeType": "image/webp",
+                  "size": 164836
+                },
+                "title": "APLS rules Fairhope library in violation, won't restore funding",
+                "uri": "https://buff.ly/KMoQzIW"
+              }
+            },
+            "text": "The APLS board voted 3-2 to find the library noncompliant for including “sexually explicit” materials in youth sections."
+          },
+          "labels": [],
+          "likeCount": 1,
+          "replyCount": 2,
+          "repostCount": 2,
+          "quoteCount": 4,
+          "indexedAt": "2026-01-16T15:23:03.693Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://buff.ly/KMoQzIW",
+                "title": "APLS rules Fairhope library in violation, won't restore funding",
+                "description": "The APLS board voted 3-2 to find the library noncompliant for including \"sexually explicit\" materials in youth sections.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ptkn43a4zzxxxoy5ctyrhf7j/bafkreig2bb2of6rfrsbh5vej2vptxnmrtyetd57he4xh56wfl77uxibzai@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 2,
+      "replyCount": 3,
+      "repostCount": 33,
+      "likeCount": 137,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-16T15:26:59.401Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckdieomd22m",
+      "cid": "bafyreiadlbpj4ftse3vdopsmlcoqc3zlcp7ry2ou7a6kkf7jv2q5mew4xa",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-16T14:43:17.876Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreif6t7cexpp4fdh7sqcygy73unswsgibtgpadtdtmfeujlzjl6noou",
+            "uri": "at://did:plc:drfsn65kqlnfwbxvaguckir4/app.bsky.feed.post/3mckded4y622q"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Listen... i am a feature creature ... one might say feature forward.\n\nYou see them big ole Klingon lips... a case can be made"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:drfsn65kqlnfwbxvaguckir4/app.bsky.feed.post/3mckded4y622q",
+          "cid": "bafyreif6t7cexpp4fdh7sqcygy73unswsgibtgpadtdtmfeujlzjl6noou",
+          "author": {
+            "did": "did:plc:drfsn65kqlnfwbxvaguckir4",
+            "handle": "haikuguru.bsky.social",
+            "displayName": "K. Desireé Milwood",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:drfsn65kqlnfwbxvaguckir4/bafkreigh3yreabopndh45s47gte3j6ulhafphwlsqy44lon64zz6k3itxy@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-13T19:06:14.213Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-16T14:41:02.033Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "ALT: Sinner The Chum Slum GIF",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreicgkrcmsqlkt32w6pfuscodd7lh7aw2x6xeszjdngp73gyhmpxgku"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 134696
+                },
+                "title": "Sinner The Chum Slum GIF",
+                "uri": "https://media.tenor.com/NxNPktlYMiYAAAAC/sinner-the-chum-slum.gif?hh=498&ww=303"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreidjgc2jcpqlu4xk6kxx5li2eswkx57e7vnn2xv6amiwik5bccjs2u",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckd7pvpgc2d"
+              },
+              "root": {
+                "cid": "bafyreidjgc2jcpqlu4xk6kxx5li2eswkx57e7vnn2xv6amiwik5bccjs2u",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckd7pvpgc2d"
+              }
+            },
+            "text": ""
+          },
+          "labels": [],
+          "likeCount": 3,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 2,
+          "indexedAt": "2026-01-16T14:41:03.804Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://media.tenor.com/NxNPktlYMiYAAAAC/sinner-the-chum-slum.gif?hh=498&ww=303",
+                "title": "Sinner The Chum Slum GIF",
+                "description": "ALT: Sinner The Chum Slum GIF",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drfsn65kqlnfwbxvaguckir4/bafkreicgkrcmsqlkt32w6pfuscodd7lh7aw2x6xeszjdngp73gyhmpxgku@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 1,
+      "likeCount": 17,
+      "quoteCount": 1,
+      "indexedAt": "2026-01-16T14:43:17.995Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckamoxqcc2m",
+      "cid": "bafyreicn3ttlfhv65opwcbym4yky5fwaamce7d3ct3cuuoxwjscvtfuvre",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-16T13:52:01.654Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Alright ... here's what you should know"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 18,
+      "quoteCount": 2,
+      "indexedAt": "2026-01-16T13:52:05.704Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mci4j32f4c2m",
       "cid": "bafyreifmyb52lmwzca2qcce44wak7gylo7uuogtseyjkdnonclrmvf7gma",
       "author": {
