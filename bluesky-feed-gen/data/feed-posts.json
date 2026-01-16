@@ -1,6 +1,132 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckugqqpnk2m",
+      "cid": "bafyreiamc7rdq7tkrb4xyqmfsuae7pmb3sg4smnoy6aebhgbnm4f35mowe",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-16T19:46:37.029Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifmfvnvwzx5avqisiskj35oo4kjqhgf2xwi5rkwdec2j2opwg3ckm",
+            "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3mcku75ozxe2z"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "i think it is important to parse through the linguistic decisions of \"call for peace\" \n\nThe imagery suggest that two sides equal in force and idea are locked in dispute ... when that is not at all what happened nor happening"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:j4eroku3volozvv6ljsnnfec/app.bsky.feed.post/3mcku75ozxe2z",
+          "cid": "bafyreifmfvnvwzx5avqisiskj35oo4kjqhgf2xwi5rkwdec2j2opwg3ckm",
+          "author": {
+            "did": "did:plc:j4eroku3volozvv6ljsnnfec",
+            "handle": "huffpost.com",
+            "displayName": "HuffPost",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j4eroku3volozvv6ljsnnfec/bafkreidny35lfkql2fpsqoxpqguhnl2ixaj5ou7qw4jprrrflkxtytmxsm@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-05-03T15:24:17.130Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3ltqbevndys24",
+                  "isValid": true,
+                  "createdAt": "2025-07-12T02:03:37.717Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "valid"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-16T19:42:22.106Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "The conservative commentator delivered what critics called an \"unfathomably\" dumb misreading of Gov. Tim Walz's clear call for peace in Minnesota.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreicpo76yyfguwtklsvviouciedgtmsinsctro5gryyux5a5a5spcn4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 81737
+                },
+                "title": "Scott Jennings Mocked For 'F**king Stupid' Take On Tim Walz Statement About Minnesota",
+                "uri": "https://www.huffpost.com/entry/scott-jennings-mocked-take-tim-walz-statement-minnesota_n_696a4f62e4b0eee204af1e34?utm_campaign=bluesky_feed"
+              }
+            },
+            "text": "The conservative commentator delivered what critics called an \"unfathomably\" dumb misreading of Gov. Tim Walz's clear call for peace in Minnesota."
+          },
+          "labels": [],
+          "likeCount": 26,
+          "replyCount": 7,
+          "repostCount": 9,
+          "quoteCount": 2,
+          "indexedAt": "2026-01-16T19:42:22.697Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://www.huffpost.com/entry/scott-jennings-mocked-take-tim-walz-statement-minnesota_n_696a4f62e4b0eee204af1e34?utm_campaign=bluesky_feed",
+                "title": "Scott Jennings Mocked For 'F**king Stupid' Take On Tim Walz Statement About Minnesota",
+                "description": "The conservative commentator delivered what critics called an \"unfathomably\" dumb misreading of Gov. Tim Walz's clear call for peace in Minnesota.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j4eroku3volozvv6ljsnnfec/bafkreicpo76yyfguwtklsvviouciedgtmsinsctro5gryyux5a5a5spcn4@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 4,
+      "replyCount": 2,
+      "repostCount": 39,
+      "likeCount": 161,
+      "quoteCount": 3,
+      "indexedAt": "2026-01-16T19:46:37.215Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mckjk6bc722m",
       "cid": "bafyreifj4hvu4gsffavpl3evzvck6bkzygcwav67ocdcuugpvp637attha",
       "author": {
