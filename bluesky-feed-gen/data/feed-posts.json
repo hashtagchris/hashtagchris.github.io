@@ -1,6 +1,89 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcrte3kcrk23",
+      "cid": "bafyreihh52edymilh7lk37lr43mv5ycvnzrx52c5tvq5423pnpqobkut7i",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-19T14:15:52.119Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibticwkjuj275w2ty3ixdcszyuvnvfjenaeu7it5crgyjro47cz3e"
+              },
+              "mimeType": "image/jpeg",
+              "size": 608310
+            },
+            "title": "Denied Peace Prize, Trump Tells Norway He’ll Push for Greenland",
+            "uri": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html?unlocked_article_code=1.FlA.TJjD.Puaah2GaBvsI&smid=nytcore-ios-share"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html?unlocked_article_code=1.FlA.TJjD.Puaah2GaBvsI&smid=nytcore-ios-share"
+              }
+            ],
+            "index": {
+              "byteEnd": 97,
+              "byteStart": 66
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Denied Peace Prize, Trump Tells Norway He’ll Push for Greenland www.nytimes.com/2026/01/19/w..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.nytimes.com/2026/01/19/world/europe/trump-norway-greenland-nobel.html?unlocked_article_code=1.FlA.TJjD.Puaah2GaBvsI&smid=nytcore-ios-share",
+          "title": "Denied Peace Prize, Trump Tells Norway He’ll Push for Greenland",
+          "description": "",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibticwkjuj275w2ty3ixdcszyuvnvfjenaeu7it5crgyjro47cz3e@jpeg"
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 5,
+      "repostCount": 6,
+      "likeCount": 58,
+      "quoteCount": 3,
+      "indexedAt": "2026-01-19T14:15:53.296Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcpt2mlmzk2o",
       "cid": "bafyreiccdhtakh6mbt5zepgfgtztjqh4txgvxbfgzzhhk7u3fha7pm6jce",
       "author": {
