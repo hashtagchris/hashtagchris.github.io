@@ -1,6 +1,136 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mczfipmz2c2z",
+      "cid": "bafyreicrfcggsuqczaayhdnjngnpimvehla6kieav3rrtb2yfdu7p5ntga",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-22T14:29:12.918Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihhpoqnl5a6r7uf2ntafbi2wq5p7fu6wrunlilv2yypjpx5ybtnum",
+            "uri": "at://did:plc:juqpe2aumvmhhhdwt2yvdffv/app.bsky.feed.post/3mczdrphd6c2e"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "i realized watching OBAA is a completely different experience as a Black person (this will be a read only thread... you know who you are... you know why)"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:juqpe2aumvmhhhdwt2yvdffv/app.bsky.feed.post/3mczdrphd6c2e",
+          "cid": "bafyreihhpoqnl5a6r7uf2ntafbi2wq5p7fu6wrunlilv2yypjpx5ybtnum",
+          "author": {
+            "did": "did:plc:juqpe2aumvmhhhdwt2yvdffv",
+            "handle": "brrandin.bsky.social",
+            "displayName": "",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:juqpe2aumvmhhhdwt2yvdffv/bafkreieyi7urxhuwszcs3m464kxqh77ohs4hghbctzqobeaih2y3coba7q@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-10T20:01:21.111Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-22T13:58:27.237Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "ALT: a man in a suit is looking at another man in a suit in a room .",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiei5xrurziovm2jkybjic3xbofjeucy56guw42chy53rfuzwqlyke"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 24010
+                },
+                "title": "a man in a suit is looking at another man in a suit in a room .",
+                "uri": "https://media.tenor.com/ftMKhq6ilcUAAAAC/the-office-jim-face.gif?hh=160&ww=160"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Was “One Battle After Another” really that good?"
+          },
+          "labels": [],
+          "likeCount": 29,
+          "replyCount": 18,
+          "repostCount": 0,
+          "quoteCount": 55,
+          "indexedAt": "2026-01-22T13:58:28.193Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://media.tenor.com/ftMKhq6ilcUAAAAC/the-office-jim-face.gif?hh=160&ww=160",
+                "title": "a man in a suit is looking at another man in a suit in a room .",
+                "description": "ALT: a man in a suit is looking at another man in a suit in a room .",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:juqpe2aumvmhhhdwt2yvdffv/bafkreiei5xrurziovm2jkybjic3xbofjeucy56guw42chy53rfuzwqlyke@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 25,
+      "replyCount": 1,
+      "repostCount": 95,
+      "likeCount": 320,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-22T14:29:13.096Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "replyDisabled": true,
+        "embeddingDisabled": true
+      },
+      "labels": [],
+      "threadgate": {
+        "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.threadgate/3mczfipmz2c2z",
+        "cid": "bafyreihw6g7mdltsurmjsjzs7go2tb4y46rskghmkpo7faf2kwcnzulxii",
+        "record": {
+          "$type": "app.bsky.feed.threadgate",
+          "allow": [],
+          "createdAt": "2026-01-22T14:29:12.932Z",
+          "hiddenReplies": [],
+          "post": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mczfipmz2c2z"
+        },
+        "lists": []
+      }
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mcxso2qwks2c",
       "cid": "bafyreiercwqxzgtwsrgjmgsvuhxxwjdoxqlsyomtdmzofuhpnthgmxsvxe",
       "author": {
