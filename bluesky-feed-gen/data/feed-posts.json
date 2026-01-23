@@ -1,6 +1,159 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3md4j7mlmdk2a",
+      "cid": "bafyreidjd5pdcsmopo2spcsl5lilueek5urh6qscr7aadsgufqffbiahcu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-23T20:13:41.919Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifqm3yfpcdo6pq7fftociwa2izvft7tt27q4j2q5cm6osqy46cm3e",
+            "uri": "at://did:plc:sl34wbqsez3nbz6sv4sqes5l/app.bsky.feed.post/3md4j47fslc2q"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Y'all \"done\" bought up all the cutwaters... and i wanna have a talk about it"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:sl34wbqsez3nbz6sv4sqes5l/app.bsky.feed.post/3md4j47fslc2q",
+          "cid": "bafyreifqm3yfpcdo6pq7fftociwa2izvft7tt27q4j2q5cm6osqy46cm3e",
+          "author": {
+            "did": "did:plc:sl34wbqsez3nbz6sv4sqes5l",
+            "handle": "brothaskeeper.bsky.social",
+            "displayName": "Poor Righteous Teacher",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sl34wbqsez3nbz6sv4sqes5l/bafkreib7u2o63vosu6b2jp6sj2n7god3ab4d3jmpwsp7ttv5mcy6vk74xq@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:sl34wbqsez3nbz6sv4sqes5l",
+                "uri": "at://did:plc:sl34wbqsez3nbz6sv4sqes5l/app.bsky.actor.profile/self",
+                "cid": "bafyreidcdka4mnfpxzfqy4pp7dpbmv7f6nbuhcvz4tfh4ddaz5gbrekto4",
+                "val": "!no-unauthenticated",
+                "cts": "2024-11-14T02:03:54.009Z"
+              }
+            ],
+            "createdAt": "2024-11-14T02:03:55.309Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-23T20:11:47.433Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreihyx7ztukqwkoyorbxa5mawlfeewp67adyy267qkcq7ggize2lzui",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3md4it5iwa22f"
+              },
+              "root": {
+                "cid": "bafyreidtvi6lnuio3uszfgl4zqgc6oxp3komxnbn6ufq77iedfe4h5utve",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3md4ib3gnvc2a"
+              }
+            },
+            "text": "Ice barely gone touch us, Rev. Pastor. Midaswell spatchcock them birds and swig on some Cutwater."
+          },
+          "labels": [],
+          "likeCount": 9,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-01-23T20:11:47.799Z",
+          "embeds": []
+        }
+      },
+      "bookmarkCount": 2,
+      "replyCount": 2,
+      "repostCount": 2,
+      "likeCount": 33,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-23T20:13:42.195Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3md4ib3gnvc2a",
+      "cid": "bafyreidtvi6lnuio3uszfgl4zqgc6oxp3komxnbn6ufq77iedfe4h5utve",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-23T19:56:37.296Z",
+        "langs": [
+          "en"
+        ],
+        "text": "\"what are you going to do if the power goes out?\"\n\nA lime a rita \n\n\"What are you going to do if the internet goes out?\"\n\nA lime a rita \n\n\"What are you going to do if ....\" \n\nA Lime a rita"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 8,
+      "repostCount": 26,
+      "likeCount": 285,
+      "quoteCount": 2,
+      "indexedAt": "2026-01-23T19:56:37.500Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3md3u3crudc2k",
       "cid": "bafyreihibum4ufcf626ycoe2up5cwofqapmszvtzg3ine6rjyoexctplpq",
       "author": {
