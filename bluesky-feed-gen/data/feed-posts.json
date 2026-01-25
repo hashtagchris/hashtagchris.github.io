@@ -1,6 +1,132 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdblxpdsqk2u",
+      "cid": "bafyreie3aojles7cfscafhvzo6wgopzxyzefwkcpsbojxtaqqshid5ewte",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-25T20:46:16.287Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreidddyjp4juwdbmd4qdeo3z7jf53koirn2mq7j2pmzt6dml4rzmdxm",
+            "uri": "at://did:plc:we7sidyj3b5or2r7trtpfzt7/app.bsky.feed.post/3mdbktisjzc2d"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This is what “faith as an excuse” looks like…"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:we7sidyj3b5or2r7trtpfzt7/app.bsky.feed.post/3mdbktisjzc2d",
+          "cid": "bafyreidddyjp4juwdbmd4qdeo3z7jf53koirn2mq7j2pmzt6dml4rzmdxm",
+          "author": {
+            "did": "did:plc:we7sidyj3b5or2r7trtpfzt7",
+            "handle": "jennycohn.bsky.social",
+            "displayName": "Jenny Cohn",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:we7sidyj3b5or2r7trtpfzt7/bafkreigzjdenyy3uns35qqlso2qavuzhqyjyjbye5smhedobqtijg7huxe@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-05-01T00:29:37.300Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-25T20:26:01.471Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 1182,
+                    "width": 1179
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreicupc5cnklar6a3mqqbtbrkguemyq2ei3e2f673h475pmsjy235oe"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 718399
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Joel Berry, Managing Editor of the Babylon Bee, wrote this AM that: “If we lose heart every time a feral Communist commits suicide by cop, our country isn’t gonna make it *** I’m so beyond letting my Christian compassion get weaponized by Leftist death-worshippers…” (His “Christian compassion”) 1/"
+          },
+          "labels": [],
+          "likeCount": 326,
+          "replyCount": 61,
+          "repostCount": 120,
+          "quoteCount": 76,
+          "indexedAt": "2026-01-25T20:26:07.241Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.images#view",
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:we7sidyj3b5or2r7trtpfzt7/bafkreicupc5cnklar6a3mqqbtbrkguemyq2ei3e2f673h475pmsjy235oe@jpeg",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:we7sidyj3b5or2r7trtpfzt7/bafkreicupc5cnklar6a3mqqbtbrkguemyq2ei3e2f673h475pmsjy235oe@jpeg",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 1182,
+                    "width": 1179
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 0,
+      "replyCount": 11,
+      "repostCount": 28,
+      "likeCount": 179,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-25T20:46:16.495Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3md4j7mlmdk2a",
       "cid": "bafyreidjd5pdcsmopo2spcsl5lilueek5urh6qscr7aadsgufqffbiahcu",
       "author": {
