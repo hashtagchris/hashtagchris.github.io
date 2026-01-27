@@ -1,6 +1,176 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdg4rpygz226",
+      "cid": "bafyreig67v4i5lf54rd67x56mxws6s6oiqwpx4zy7m4nitrjwmfn5d2gmq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-27T15:57:48.204Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreibow3wpdsg7khrovhifz4mk2gglsr7odmc5z2mft3txtqna4zwhay",
+            "uri": "at://did:plc:jszy2fvtipwprnjhe7pxytfv/app.bsky.feed.post/3mdewp5idfu2b"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "You can just be silent"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:jszy2fvtipwprnjhe7pxytfv/app.bsky.feed.post/3mdewp5idfu2b",
+          "cid": "bafyreibow3wpdsg7khrovhifz4mk2gglsr7odmc5z2mft3txtqna4zwhay",
+          "author": {
+            "did": "did:plc:jszy2fvtipwprnjhe7pxytfv",
+            "handle": "chicagotribune.com",
+            "displayName": "Chicago Tribune",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jszy2fvtipwprnjhe7pxytfv/bafkreibtywgxdgg4wstf6s5tj2rzyxqaunlml4xovhgraj3xmvwp2izwem@jpeg",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-10-23T15:54:15.904Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lunvmpssux2z",
+                  "isValid": true,
+                  "createdAt": "2025-07-23T20:53:07.194Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-01-27T04:36:06.260560Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "A new life is a reason for hope, a moment that invites optimism about the future. We wish Usha and the Vance family well.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidqkcvpzbaytwsv5i4snpgfao6logbwfes7t6ciaowvivzhaeoota"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 102097
+                },
+                "title": "Editorial: A baby at 1 Observatory Circle",
+                "uri": "https://trib.al/I9UjoGF"
+              }
+            },
+            "text": "From the Editorial Board: You don’t need to share the Vances’ political views to be happy for them."
+          },
+          "labels": [],
+          "likeCount": 30,
+          "replyCount": 1555,
+          "repostCount": 5,
+          "quoteCount": 674,
+          "indexedAt": "2026-01-27T04:36:24.197Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.external#view",
+              "external": {
+                "uri": "https://trib.al/I9UjoGF",
+                "title": "Editorial: A baby at 1 Observatory Circle",
+                "description": "A new life is a reason for hope, a moment that invites optimism about the future. We wish Usha and the Vance family well.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jszy2fvtipwprnjhe7pxytfv/bafkreidqkcvpzbaytwsv5i4snpgfao6logbwfes7t6ciaowvivzhaeoota@jpeg"
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 1,
+      "replyCount": 8,
+      "repostCount": 29,
+      "likeCount": 332,
+      "quoteCount": 3,
+      "indexedAt": "2026-01-27T15:57:48.393Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdfzencj3s26",
+      "cid": "bafyreicdx467jz5p6rd6n2f5q6jenxrih2bq6fercrls4t56f46yzto37a",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-27T14:56:47.955Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Stop asking questions ... start making declarations"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 23,
+      "likeCount": 120,
+      "quoteCount": 0,
+      "indexedAt": "2026-01-27T14:56:48.097Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mddfrvjolc2h",
       "cid": "bafyreidt7uizlu36zzfo4w2m624g6aqxtejs475a5dddd5r2vyy5hzyewe",
       "author": {
