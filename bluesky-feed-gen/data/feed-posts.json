@@ -1,6 +1,133 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdip4kohak2j",
+      "cid": "bafyreibuy2ffoysf2fg66oegfpd6behqtevfednlga524f5p2r46nakfg4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-28T16:31:18.563Z",
+        "langs": [
+          "en"
+        ],
+        "text": "if \nyou \nwant \na \nboyfriend\nI'll\nwear\na\nwig"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 4,
+      "repostCount": 3,
+      "likeCount": 60,
+      "quoteCount": 2,
+      "indexedAt": "2026-01-28T16:31:18.796Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdiltky2ac2p",
+      "cid": "bafyreig7p7z6sa2hzx3qt3uy2o2cmru4gocpewezivvcxrnhnhycfwrdha",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-28T15:32:35.661Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaay2nlsvvldf4wxbqqvbx3rwnv6si2vk63zadjjg63cdpmyyikmi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 301716
+            },
+            "title": "I Let My Wife Have an Affair. Do I Have to Console Her Now That It’s Over?",
+            "uri": "https://www.nytimes.com/2026/01/24/magazine/wife-affair-ethics.html?smid=nytcore-ios-share"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nytimes.com/2026/01/24/magazine/wife-affair-ethics.html?smid=nytcore-ios-share"
+              }
+            ],
+            "index": {
+              "byteEnd": 118,
+              "byteStart": 87
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Chile…\n\nI Let My Wife Have an Affair. Do I Have to Console Her Now That It’s Over? www.nytimes.com/2026/01/24/m..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.nytimes.com/2026/01/24/magazine/wife-affair-ethics.html?smid=nytcore-ios-share",
+          "title": "I Let My Wife Have an Affair. Do I Have to Console Her Now That It’s Over?",
+          "description": "",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiaay2nlsvvldf4wxbqqvbx3rwnv6si2vk63zadjjg63cdpmyyikmi@jpeg"
+        }
+      },
+      "bookmarkCount": 25,
+      "replyCount": 30,
+      "repostCount": 32,
+      "likeCount": 263,
+      "quoteCount": 75,
+      "indexedAt": "2026-01-28T15:32:36.599Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdieper3js2p",
       "cid": "bafyreibyaizfqixy2tientaltrz5gnkdoic7g7brn4sm2l4tscee5beivq",
       "author": {
