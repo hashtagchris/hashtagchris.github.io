@@ -1,6 +1,80 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdlpkpasos2x",
+      "cid": "bafyreigbb2caqvhw7hqm3ff42va6v3rlygdz7sxxgcsz6pf4plxejb5w2a",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-01-29T21:17:12.335Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Kinston City Council has called a special meeting for Friday afternoon in the wake of the interim city manager quitting.",
+            "title": "City confirms interim Kinston manager walks out on job",
+            "uri": "https://www.witn.com/2026/01/28/city-confirms-interim-kinston-manager-walks-out-job/?outputType=amp"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.witn.com/2026/01/28/city-confirms-interim-kinston-manager-walks-out-job/?outputType=amp"
+              }
+            ],
+            "index": {
+              "byteEnd": 28,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "www.witn.com/2026/01/28/c..."
+      },
+      "embed": {
+        "$type": "app.bsky.embed.external#view",
+        "external": {
+          "uri": "https://www.witn.com/2026/01/28/city-confirms-interim-kinston-manager-walks-out-job/?outputType=amp",
+          "title": "City confirms interim Kinston manager walks out on job",
+          "description": "Kinston City Council has called a special meeting for Friday afternoon in the wake of the interim city manager quitting."
+        }
+      },
+      "bookmarkCount": 2,
+      "replyCount": 4,
+      "repostCount": 4,
+      "likeCount": 28,
+      "quoteCount": 1,
+      "indexedAt": "2026-01-29T21:17:12.495Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdlluyblus2t",
       "cid": "bafyreifuzcc25vp4lzdcn3kfp64d6zswnwg7lqnfyatg57god6zcdjvcnm",
       "author": {
