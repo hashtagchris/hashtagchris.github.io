@@ -1,6 +1,234 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdsnwvifcc2h",
+      "cid": "bafyreidvqeu6cm7rdhrjq2c4rf77gdnggjcwhczswsv7jfxccsbnillzpy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-01T15:36:52.214Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifejdb344xla4xtoayibrepqpphetcvb4lnpjau4l5jfskfxpf45u",
+            "uri": "at://did:plc:a5fwvpvub5e7mxaebuxn3tuu/app.bsky.feed.post/3mdr3op6a7k2u"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Whew…"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:a5fwvpvub5e7mxaebuxn3tuu/app.bsky.feed.post/3mdr3op6a7k2u",
+          "cid": "bafyreifejdb344xla4xtoayibrepqpphetcvb4lnpjau4l5jfskfxpf45u",
+          "author": {
+            "did": "did:plc:a5fwvpvub5e7mxaebuxn3tuu",
+            "handle": "froomkin.bsky.social",
+            "displayName": "Dan Froomkin/Press Watch/Heads Up News",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a5fwvpvub5e7mxaebuxn3tuu/bafkreifg5ugkijurwqznvjrz7s3rg266t7wlii3cy2t37lmwpp6w2agzxu@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-07-06T17:39:26.320Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-02-01T00:37:30.062Z",
+            "embed": {
+              "$type": "app.bsky.embed.recordWithMedia",
+              "media": {
+                "$type": "app.bsky.embed.external",
+                "external": {
+                  "description": "Press freedom is at stake, and news organizations need to say so",
+                  "thumb": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreigo7lvojzesemnxwzbpph6o7b6yupn22ovxvidkbpmjwl2z4a3mg4"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 360237
+                  },
+                  "title": "Journalists must forcefully decry the arrests of Don Lemon and Georgia Fort | Press Watch",
+                  "uri": "https://presswatchers.org/2026/01/journalists-must-forcefully-decry-the-arrests-of-don-lemon-and-georgia-fort/"
+                }
+              },
+              "record": {
+                "$type": "app.bsky.embed.record",
+                "record": {
+                  "cid": "bafyreib5gkizdctq36iel5fak3ajwllzgaul6xfrw76u5g5wgzmwgxssl4",
+                  "uri": "at://did:plc:a5fwvpvub5e7mxaebuxn3tuu/app.bsky.feed.post/3mdq5aggiss2e"
+                }
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://presswatchers.org/2026/01/journalists-must-forcefully-decry-the-arrests-of-don-lemon-and-georgia-fort/"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 122,
+                  "byteStart": 89
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "I almost didn’t write this post because it was so obvious. But apparently it wasn’t. presswatchers.org/2026/01/jour..."
+          },
+          "labels": [],
+          "likeCount": 182,
+          "replyCount": 3,
+          "repostCount": 76,
+          "quoteCount": 4,
+          "indexedAt": "2026-02-01T00:37:31.294Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.recordWithMedia#view",
+              "media": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                  "uri": "https://presswatchers.org/2026/01/journalists-must-forcefully-decry-the-arrests-of-don-lemon-and-georgia-fort/",
+                  "title": "Journalists must forcefully decry the arrests of Don Lemon and Georgia Fort | Press Watch",
+                  "description": "Press freedom is at stake, and news organizations need to say so",
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a5fwvpvub5e7mxaebuxn3tuu/bafkreigo7lvojzesemnxwzbpph6o7b6yupn22ovxvidkbpmjwl2z4a3mg4@jpeg"
+                }
+              },
+              "record": {
+                "record": {
+                  "$type": "app.bsky.embed.record#viewRecord",
+                  "uri": "at://did:plc:a5fwvpvub5e7mxaebuxn3tuu/app.bsky.feed.post/3mdq5aggiss2e",
+                  "cid": "bafyreib5gkizdctq36iel5fak3ajwllzgaul6xfrw76u5g5wgzmwgxssl4",
+                  "author": {
+                    "did": "did:plc:a5fwvpvub5e7mxaebuxn3tuu",
+                    "handle": "froomkin.bsky.social",
+                    "displayName": "Dan Froomkin/Press Watch/Heads Up News",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a5fwvpvub5e7mxaebuxn3tuu/bafkreifg5ugkijurwqznvjrz7s3rg266t7wlii3cy2t37lmwpp6w2agzxu@jpeg",
+                    "associated": {
+                      "chat": {
+                        "allowIncoming": "following"
+                      },
+                      "activitySubscription": {
+                        "allowSubscriptions": "followers"
+                      }
+                    },
+                    "viewer": {
+                      "muted": false,
+                      "blockedBy": false
+                    },
+                    "labels": [],
+                    "createdAt": "2023-07-06T17:39:26.320Z"
+                  },
+                  "value": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2026-01-31T15:32:38.870Z",
+                    "embed": {
+                      "$type": "app.bsky.embed.recordWithMedia",
+                      "media": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                          "description": "",
+                          "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                              "$link": "bafkreiftf7kixfbtxt3npiybhmf2c4ozlpicobd3pw6vioqrmve5dcbhsu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 675848
+                          },
+                          "title": "What to Know About the ‘Abortion Clinic’ Law Being Used to Charge Don Lemon",
+                          "uri": "https://www.nytimes.com/2026/01/30/us/politics/face-act-lemon-explainer.html"
+                        }
+                      },
+                      "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                          "cid": "bafyreicgvebfwfohbzptj3qhj4yv7qcnt5kxsqiltcza62boyii4m325p4",
+                          "uri": "at://did:plc:a5fwvpvub5e7mxaebuxn3tuu/app.bsky.feed.post/3mdpyj44kh22z"
+                        }
+                      }
+                    },
+                    "facets": [
+                      {
+                        "features": [
+                          {
+                            "$type": "app.bsky.richtext.facet#link",
+                            "uri": "https://www.nytimes.com/2026/01/30/us/politics/face-act-lemon-explainer.html"
+                          }
+                        ],
+                        "index": {
+                          "byteEnd": 192,
+                          "byteStart": 161
+                        }
+                      }
+                    ],
+                    "langs": [
+                      "en"
+                    ],
+                    "text": "DOJ and Stephen Miller are surely thrilled to bits that this is the NYT’s second-day story on the most dangerous attack on US press freedom in the modern era. www.nytimes.com/2026/01/30/u..."
+                  },
+                  "labels": [],
+                  "likeCount": 78,
+                  "replyCount": 1,
+                  "repostCount": 25,
+                  "quoteCount": 1,
+                  "indexedAt": "2026-01-31T15:32:40.393Z"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 2,
+      "replyCount": 2,
+      "repostCount": 19,
+      "likeCount": 106,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-01T15:36:52.496Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdqln3bqnk2h",
       "cid": "bafyreiaurpfaak5tbqbpqludrjpfogkq5brfpwwrwgc7gsch6b7rnr2u2q",
       "author": {
