@@ -1,6 +1,170 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdv5jk52zk2t",
+      "cid": "bafyreiflse7qcohzppc5zohr7uljhe5k2otxj3cerwtiyk7h5vre2j6na4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-02T15:21:03.446Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifjiltcmtuwwlepr2xgyjnbnrvfezpzwfwid34bgt4ltavqs2gjxu",
+            "uri": "at://did:plc:zsjcj2fopbu2b67yzufbw4ik/app.bsky.feed.post/3mdv3wppync2g"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "You went to the bar and was kissing random women on the mouth…\n\nSHE WENT TO THE GRAMMY’S !!!!"
+      },
+      "embed": {
+        "$type": "app.bsky.embed.record#view",
+        "record": {
+          "$type": "app.bsky.embed.record#viewRecord",
+          "uri": "at://did:plc:zsjcj2fopbu2b67yzufbw4ik/app.bsky.feed.post/3mdv3wppync2g",
+          "cid": "bafyreifjiltcmtuwwlepr2xgyjnbnrvfezpzwfwid34bgt4ltavqs2gjxu",
+          "author": {
+            "did": "did:plc:zsjcj2fopbu2b67yzufbw4ik",
+            "handle": "brillianceproper.blackskycomra.de",
+            "displayName": "Brilliance Proper",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zsjcj2fopbu2b67yzufbw4ik/bafkreid2wzqwkr4zzjgu6hxv3c46kngjqm7aoj7rtiyiou5gbivrljzv4e@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-09-20T13:08:32.652Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-02-02T14:52:38.024Z",
+            "embed": {
+              "$type": "app.bsky.embed.video",
+              "aspectRatio": {
+                "height": 1920,
+                "width": 1080
+              },
+              "video": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiana3qxj5p6fw2ti3ovzdv252jfilwkbpuw5oibh3q5nwzjvg4mpe"
+                },
+                "mimeType": "video/mp4",
+                "size": 2989530
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Kristy Sarah has been on a run since filing for divorce. She's making sure Desmond never stops seeing her on his phone or TV."
+          },
+          "labels": [],
+          "likeCount": 52,
+          "replyCount": 5,
+          "repostCount": 15,
+          "quoteCount": 34,
+          "indexedAt": "2026-02-02T14:52:38.091Z",
+          "embeds": [
+            {
+              "$type": "app.bsky.embed.video#view",
+              "cid": "bafkreiana3qxj5p6fw2ti3ovzdv252jfilwkbpuw5oibh3q5nwzjvg4mpe",
+              "playlist": "https://video.bsky.app/watch/did%3Aplc%3Azsjcj2fopbu2b67yzufbw4ik/bafkreiana3qxj5p6fw2ti3ovzdv252jfilwkbpuw5oibh3q5nwzjvg4mpe/playlist.m3u8",
+              "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Azsjcj2fopbu2b67yzufbw4ik/bafkreiana3qxj5p6fw2ti3ovzdv252jfilwkbpuw5oibh3q5nwzjvg4mpe/thumbnail.jpg",
+              "aspectRatio": {
+                "height": 1920,
+                "width": 1080
+              }
+            }
+          ]
+        }
+      },
+      "bookmarkCount": 3,
+      "replyCount": 3,
+      "repostCount": 21,
+      "likeCount": 113,
+      "quoteCount": 0,
+      "indexedAt": "2026-02-02T15:21:05.400Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdv26yctqs2t",
+      "cid": "bafyreibn3zvpavr6i2ilbthzk4zymrhwhiulh6v55lm55ectv4wily5izy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonmissouri.bsky.social",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidwxej7j6iyqytxq4ehhgnr2bn26ugkkfpi5wbsmneuui6ypk4nri@jpeg",
+        "associated": {
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-02-02T14:21:27.992Z",
+        "langs": [
+          "en"
+        ],
+        "text": "“When are they coming to clear the roads ?”\n\nI know you from up yonder and you used to people caring about your well being… so forth and so on\n\nBut “they” are not coming"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 12,
+      "repostCount": 36,
+      "likeCount": 211,
+      "quoteCount": 10,
+      "indexedAt": "2026-02-02T14:21:28.293Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    }
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mdt5zpz4gk2y",
       "cid": "bafyreig36i6qg2qcd5xkywcnsmyl6jm2ilahlk3ld3pule7t7t72ftmmim",
       "author": {
