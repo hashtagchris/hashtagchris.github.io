@@ -1,6 +1,140 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3muudb4b6mk2f",
+      "cid": "bafyreiabldhf6nuo646i3shx3qirbwrbo7f5gtzedwefoi6ti6q3j7scay",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-06T15:39:20.850Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreidsmgc3qyjq6bqetwgudxdpz76uenp5ih4tr56qiluz2am2vstagm",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3muty7kmrlc2p"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Let me tell you something daddy…\n\nWear\nIt\nAnyway"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3muty7kmrlc2p",
+          "cid": "bafyreidsmgc3qyjq6bqetwgudxdpz76uenp5ih4tr56qiluz2am2vstagm",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonrmissouri.com",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-06T12:21:37.642Z",
+            "embed": {
+              "$type": "app.bsky.embed.video",
+              "aspectRatio": {
+                "height": 1280,
+                "width": 720
+              },
+              "presentation": "default",
+              "video": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreih75tbayrr2amkcdppes3ye6pvedo6q6iybpno4edpb77hje7mnci"
+                },
+                "mimeType": "video/mp4",
+                "size": 13270259
+              }
+            },
+            "langs": [
+              "as",
+              "av",
+              "pt"
+            ],
+            "text": ""
+          },
+          "labels": [],
+          "likeCount": 49,
+          "replyCount": 4,
+          "repostCount": 7,
+          "quoteCount": 5,
+          "indexedAt": "2026-09-06T12:21:39.083Z",
+          "embeds": [
+            {
+              "cid": "bafkreih75tbayrr2amkcdppes3ye6pvedo6q6iybpno4edpb77hje7mnci",
+              "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreih75tbayrr2amkcdppes3ye6pvedo6q6iybpno4edpb77hje7mnci/playlist.m3u8",
+              "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreih75tbayrr2amkcdppes3ye6pvedo6q6iybpno4edpb77hje7mnci/thumbnail.jpg",
+              "aspectRatio": {
+                "height": 1280,
+                "width": 720
+              },
+              "presentation": "default",
+              "$type": "app.bsky.embed.video#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 4,
+      "repostCount": 2,
+      "likeCount": 38,
+      "quoteCount": 1,
+      "indexedAt": "2026-09-06T15:39:21.281Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3muqep43pgc26",
       "cid": "bafyreibyk4cavnv3in6iytjow5plrxt6ffdupj2qq2pgv6gs2emvxk56aq",
       "author": {
