@@ -1,6 +1,202 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mv6frayxsk26",
+      "cid": "bafyreiddwridgvb6iys5wt7ic7r4ryc26akqqgv3mcyxw7iefyuq6gybpi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-10T15:50:47.562Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 225,
+                "width": 225
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigdiuzrvztszn5myvohnnyke7bxevaznchdvro5dwixquzzglgqw4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 52771
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I feel like this is not supporting the case that conservatives are not secret gays"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreigdiuzrvztszn5myvohnnyke7bxevaznchdvro5dwixquzzglgqw4",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreigdiuzrvztszn5myvohnnyke7bxevaznchdvro5dwixquzzglgqw4",
+            "alt": "",
+            "aspectRatio": {
+              "height": 225,
+              "width": 225
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 6,
+      "repostCount": 5,
+      "likeCount": 75,
+      "quoteCount": 4,
+      "indexedAt": "2026-09-10T15:50:48.577Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": [
+        {
+          "cid": "bafyreiddwridgvb6iys5wt7ic7r4ryc26akqqgv3mcyxw7iefyuq6gybpi",
+          "cts": "2026-09-10T15:50:52.053Z",
+          "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mv6frayxsk26",
+          "val": "sexual",
+          "ver": 1
+        }
+      ]
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mv6e3buhz22d",
+      "cid": "bafyreic2a4gntatno3agcte2vio4aqf7cqpmzihkfrcdwwfsad6huakkcq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-10T15:20:36.525Z",
+        "langs": [
+          "en"
+        ],
+        "text": "i hate how rising rental prices led to the advent of food truck culture....\n\nnow i'm running around the got damn city from parking lot to parking lot trying to get some brisket"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 9,
+      "repostCount": 23,
+      "likeCount": 231,
+      "quoteCount": 3,
+      "indexedAt": "2026-09-10T15:20:36.884Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mv6awvm6ik2d",
+      "cid": "bafyreibhej652dsocorpog7dbvypncyuchofaafjvt5h46h5snqmmulcp4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-10T14:24:28.227Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Baby let me tell you something ..."
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 1,
+      "likeCount": 29,
+      "quoteCount": 1,
+      "indexedAt": "2026-09-10T14:24:28.381Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mv3sacvxp22e",
       "cid": "bafyreidfwsi7esftsbp6iwrpy2ieyasvnqgh4jrvgpu6v5pptuhbiz6x3y",
       "author": {
