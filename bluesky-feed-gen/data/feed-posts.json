@@ -1,6 +1,119 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvicfjvszc2o",
+      "cid": "bafyreihzzxsisefhisrlf3lwbnxcddecseqtuh3hvkax4ok3wm2yazyjpq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-14T14:17:10.401Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreicqp7lg4pixlaujxuazon6zioolhzmxmc2wbobohrftdhs2pqg73a",
+            "uri": "at://did:plc:y6zyyeu4pq4geligjt5cw4xo/app.bsky.feed.post/3mvi7k3zar22p"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I could do it"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:y6zyyeu4pq4geligjt5cw4xo/app.bsky.feed.post/3mvi7k3zar22p",
+          "cid": "bafyreicqp7lg4pixlaujxuazon6zioolhzmxmc2wbobohrftdhs2pqg73a",
+          "author": {
+            "did": "did:plc:y6zyyeu4pq4geligjt5cw4xo",
+            "handle": "gamecockcolonel.bsky.social",
+            "displayName": "Gamecock Colonel",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6zyyeu4pq4geligjt5cw4xo/bafkreicpqru6cyobnie7rca6pn7apifdvtwqxgr5i2c5wbdtroctjoslcy",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-06-22T01:26:06.824Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-14T13:26:02.381Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreic66iank47qxdewyxwgy3p6yh3cxibajill6oewig6rgptmkp4aoa",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvi6lqe5bc2q"
+              },
+              "root": {
+                "cid": "bafyreic66iank47qxdewyxwgy3p6yh3cxibajill6oewig6rgptmkp4aoa",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvi6lqe5bc2q"
+              }
+            },
+            "text": "Solomon Finebaum!"
+          },
+          "labels": [],
+          "likeCount": 2,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-09-14T13:26:06.184Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "indexedAt": "2026-09-14T14:17:10.680Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvfzqs7s5k2r",
       "cid": "bafyreidxrv5plhyq7scech47gci37ttpgvqytlnqnh4fswehjhhpm6yyzq",
       "author": {
