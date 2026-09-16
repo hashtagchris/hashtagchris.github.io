@@ -1,6 +1,57 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvnwm72obs2m",
+      "cid": "bafyreigfgythrg4b7k7mrvou7nxsoievxdodqnr74egtev2fo3ghc3pb6a",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-16T20:02:07.436Z",
+        "langs": [
+          "en"
+        ],
+        "text": "White people get hair cuts quarterly… and from Walmart\n\nOnce you understand this a lot of things start to make sense"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 28,
+      "repostCount": 15,
+      "likeCount": 111,
+      "quoteCount": 19,
+      "indexedAt": "2026-09-16T20:02:07.779Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvkshr2te22q",
       "cid": "bafyreielbazbqo2z2j5ekq6svzcyet3fq5jsm5qdshkkgn7d26albyldfq",
       "author": {
