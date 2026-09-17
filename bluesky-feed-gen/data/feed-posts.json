@@ -1,6 +1,159 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvpprokjds2q",
+      "cid": "bafyreiankxxd6dqsl3fxvchh3cbapeqrbmvpwcng4l2qgfcksdwniyelrm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-17T13:05:14.740Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifrp3sve3kbjjmn5rbpmosanjbruozugd3kx5omjq4wwbh6misvgy",
+            "uri": "at://did:plc:e3cyxeqboiqsybc3u6wvzysz/app.bsky.feed.post/3mvpo2ut33c2l"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I love this journey for him"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:e3cyxeqboiqsybc3u6wvzysz/app.bsky.feed.post/3mvpo2ut33c2l",
+          "cid": "bafyreifrp3sve3kbjjmn5rbpmosanjbruozugd3kx5omjq4wwbh6misvgy",
+          "author": {
+            "did": "did:plc:e3cyxeqboiqsybc3u6wvzysz",
+            "handle": "edsbs.bsky.social",
+            "displayName": "BUM CHILLUPS AKA SPENCER HALL AKA PRESIDENT FOOTBALL",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e3cyxeqboiqsybc3u6wvzysz/bafkreibvb7hvov4rvnve3eqbjefvq4b6pc2sp3z4qnpnz4tgrxdsnkqkya",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following",
+                "allowGroupInvites": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-05-02T17:55:16.076Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-17T12:34:35.809Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "“Usually, when I would express an opinion about what LSU was doing“ Blaine would reply with a screenshot from ChatGPT that supported LSU‘s position, which was almost always wrong,“ said Mars. “Lane ignored most of my unsolicited advice“ but I don’t think he’ll be using ChatGPT anymore for legal advice“",
+                  "aspectRatio": {
+                    "height": 477,
+                    "width": 1284
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreifvkhzrz4rjvjhanftufhrcsk2f6zzyahwgiyrac4ypk3tkrl2qsu"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 417513
+                  }
+                }
+              ]
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://www.espn.com/college-football/story/_/id/49957822/inside-sec-legal-battle-lsu-lane-kiffin"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 82,
+                  "byteStart": 54
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "your boy is an offensive genius and also dumb as shit www.espn.com/college-foot..."
+          },
+          "labels": [],
+          "likeCount": 312,
+          "replyCount": 19,
+          "repostCount": 45,
+          "quoteCount": 22,
+          "indexedAt": "2026-09-17T12:34:55.878Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e3cyxeqboiqsybc3u6wvzysz/bafkreifvkhzrz4rjvjhanftufhrcsk2f6zzyahwgiyrac4ypk3tkrl2qsu",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:e3cyxeqboiqsybc3u6wvzysz/bafkreifvkhzrz4rjvjhanftufhrcsk2f6zzyahwgiyrac4ypk3tkrl2qsu",
+                  "alt": "“Usually, when I would express an opinion about what LSU was doing“ Blaine would reply with a screenshot from ChatGPT that supported LSU‘s position, which was almost always wrong,“ said Mars. “Lane ignored most of my unsolicited advice“ but I don’t think he’ll be using ChatGPT anymore for legal advice“",
+                  "aspectRatio": {
+                    "height": 477,
+                    "width": 1284
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 5,
+      "likeCount": 50,
+      "quoteCount": 1,
+      "indexedAt": "2026-09-17T13:05:14.881Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mvnwm72obs2m",
       "cid": "bafyreigfgythrg4b7k7mrvou7nxsoievxdodqnr74egtev2fo3ghc3pb6a",
       "author": {
