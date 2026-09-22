@@ -1,6 +1,324 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4tvpwkpk2l",
+      "cid": "bafyreie4ay6fnvmrmbo34gdjr6fotwwd7q4srcmyv6z6pxubtf2nszdjh4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-22T18:23:41.967Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "ALT: Ryan Reynolds: Goddammit!",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiaj3qrwho2qryyb7dylnzbtgcup32tlmq24sjsqtd4md54ee77hwe"
+                },
+                "mimeType": "image/jpeg",
+                "size": 75566
+              },
+              "title": "Ryan Reynolds: Goddammit!",
+              "uri": "https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/bd/5f/lpg8LlGx.gif?hh=311&ww=498&mp4=nIb0mMyk&webm=sOgd2IhGu5LrzPAWG4"
+            }
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreid6jyidu3tcy5fzzbee73zbftiev5sznr6jzgzgxve3cnnzojmz3y",
+              "uri": "at://did:plc:vmmpwsj6icgsr6cv6fpfbgeb/app.bsky.feed.post/3mw4t6xrto22k"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "media": {
+          "external": {
+            "uri": "https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/bd/5f/lpg8LlGx.gif?hh=311&ww=498&mp4=nIb0mMyk&webm=sOgd2IhGu5LrzPAWG4",
+            "title": "Ryan Reynolds: Goddammit!",
+            "description": "ALT: Ryan Reynolds: Goddammit!",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiaj3qrwho2qryyb7dylnzbtgcup32tlmq24sjsqtd4md54ee77hwe"
+          },
+          "$type": "app.bsky.embed.external#view"
+        },
+        "record": {
+          "record": {
+            "uri": "at://did:plc:vmmpwsj6icgsr6cv6fpfbgeb/app.bsky.feed.post/3mw4t6xrto22k",
+            "cid": "bafyreid6jyidu3tcy5fzzbee73zbftiev5sznr6jzgzgxve3cnnzojmz3y",
+            "author": {
+              "did": "did:plc:vmmpwsj6icgsr6cv6fpfbgeb",
+              "handle": "teonykkiastarr.bsky.social",
+              "displayName": "Teonykkia Starr",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmmpwsj6icgsr6cv6fpfbgeb/bafkreih2hye6rxjx4ppkjfsmhbjed5vutwp7hyzgtxlju2frhatwulpfwm",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-12-06T03:24:44.405Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-09-22T18:10:58.448Z",
+              "embed": {
+                "$type": "app.bsky.embed.record",
+                "record": {
+                  "cid": "bafyreiaqhy25pzcyghvtoy4yruk64j7zkptvbonrfcqyhxdmrci3wssdfe",
+                  "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4stiv7hs2l"
+                }
+              },
+              "langs": [
+                "en"
+              ],
+              "text": "make the shirts Pastor! Please include plus sizes"
+            },
+            "labels": [],
+            "likeCount": 17,
+            "replyCount": 0,
+            "repostCount": 1,
+            "quoteCount": 2,
+            "indexedAt": "2026-09-22T18:10:58.779Z",
+            "embeds": [
+              {
+                "record": {
+                  "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4stiv7hs2l",
+                  "cid": "bafyreiaqhy25pzcyghvtoy4yruk64j7zkptvbonrfcqyhxdmrci3wssdfe",
+                  "author": {
+                    "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+                    "handle": "solomonrmissouri.com",
+                    "displayName": "Solomon",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+                    "associated": {
+                      "chat": {
+                        "allowIncoming": "none"
+                      },
+                      "activitySubscription": {
+                        "allowSubscriptions": "followers"
+                      }
+                    },
+                    "viewer": {
+                      "muted": false,
+                      "mutedOnlyReposts": false,
+                      "mutedOnlyQuoteposts": false,
+                      "blockedBy": false,
+                      "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+                    },
+                    "labels": [],
+                    "createdAt": "2023-04-23T21:41:12.949Z"
+                  },
+                  "value": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2026-09-22T18:04:33.732Z",
+                    "langs": [
+                      "en"
+                    ],
+                    "reply": {
+                      "parent": {
+                        "cid": "bafyreid3myono7cgwlnmatbjrm4oyfruwnjx2sn7st626fb6kdwtsg5rfi",
+                        "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4ssqg3vk2l"
+                      },
+                      "root": {
+                        "cid": "bafyreihplgz7lihkmihjrsa6z7dqnorjakv2ys4yigyg5i2dop7xdei5t4",
+                        "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4sncstds2l"
+                      }
+                    },
+                    "text": "“We need evil snack t shirts”\n\nCONTROL IT"
+                  },
+                  "labels": [],
+                  "likeCount": 41,
+                  "replyCount": 4,
+                  "repostCount": 2,
+                  "quoteCount": 3,
+                  "indexedAt": "2026-09-22T18:04:33.984Z",
+                  "$type": "app.bsky.embed.record#viewRecord"
+                },
+                "$type": "app.bsky.embed.record#view"
+              }
+            ],
+            "$type": "app.bsky.embed.record#viewRecord"
+          }
+        },
+        "$type": "app.bsky.embed.recordWithMedia#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 4,
+      "repostCount": 3,
+      "likeCount": 54,
+      "quoteCount": 0,
+      "indexedAt": "2026-09-22T18:23:43.285Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4rwso6n22l",
+      "cid": "bafyreic5kxlb22nz4c5gfaspd5q5vwt4hr4ehk7objdp4bkit23ymtakry",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-22T17:48:30.908Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiheouapf4ikxbsj2e33nzamh24avjpqolw2vutmzybpieug5whd64",
+            "uri": "at://did:plc:mghlzkcujenrt5tvkcjqk2oy/app.bsky.feed.post/3mw4ruwbykk24"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "WE ARE NOT DOING IT FOR THE PLOT 😭"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:mghlzkcujenrt5tvkcjqk2oy/app.bsky.feed.post/3mw4ruwbykk24",
+          "cid": "bafyreiheouapf4ikxbsj2e33nzamh24avjpqolw2vutmzybpieug5whd64",
+          "author": {
+            "did": "did:plc:mghlzkcujenrt5tvkcjqk2oy",
+            "handle": "ilyvonn1.blacksky.app",
+            "displayName": "✨ Bottle Girl In The Sky 🍾✨",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mghlzkcujenrt5tvkcjqk2oy/bafkreif234zajbpqnwluq52l3pmsckwase3toqh2qlz3eop3vkfny7ixza",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none",
+                "allowGroupInvites": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "none"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:mghlzkcujenrt5tvkcjqk2oy",
+                "uri": "at://did:plc:mghlzkcujenrt5tvkcjqk2oy/app.bsky.actor.profile/self",
+                "cid": "bafyreibkway7ilr73j3toaulh7usl26nbihzcyept32tke2ekx25bb54ce",
+                "val": "!no-unauthenticated",
+                "cts": "2024-11-10T19:00:20.827Z"
+              }
+            ],
+            "createdAt": "2024-11-10T19:00:21.619Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-22T17:47:27.595Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreibchiy6cjyufbl4poff5nxuxplaswg72jig3v6j72nt7fu6rkspwa",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4rq6tau22l"
+              },
+              "root": {
+                "cid": "bafyreibchiy6cjyufbl4poff5nxuxplaswg72jig3v6j72nt7fu6rkspwa",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4rq6tau22l"
+              }
+            },
+            "text": "Gotta fina a new store or ask the lady for her number for the plot"
+          },
+          "labels": [],
+          "likeCount": 6,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-09-22T17:47:28.181Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 33,
+      "quoteCount": 1,
+      "indexedAt": "2026-09-22T17:48:31.178Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4nckaufs27",
       "cid": "bafyreiaeuc7uyyckaimfpay672jossrhwxs4dzqkuevssrtfpe43lliy5q",
       "author": {
