@@ -1,6 +1,91 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw6qhnndq22l",
+      "cid": "bafyreif5grdgjjwxpqvsypbgww7irs23nijpeik7ksejsw4nk6f3u5bcpi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-23T12:27:28.050Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Prince i wanna be your lover was written about patrice rushen",
+              "aspectRatio": {
+                "height": 1504,
+                "width": 1170
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigdgzuhexgvzxsw4p3okok44oompspsm7gezddx47qm2bqvozytkm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 638596
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Love that journey for him"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreigdgzuhexgvzxsw4p3okok44oompspsm7gezddx47qm2bqvozytkm",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreigdgzuhexgvzxsw4p3okok44oompspsm7gezddx47qm2bqvozytkm",
+            "alt": "Prince i wanna be your lover was written about patrice rushen",
+            "aspectRatio": {
+              "height": 1504,
+              "width": 1170
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 7,
+      "repostCount": 10,
+      "likeCount": 98,
+      "quoteCount": 3,
+      "indexedAt": "2026-09-23T12:27:29.682Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw4tvpwkpk2l",
       "cid": "bafyreie4ay6fnvmrmbo34gdjr6fotwwd7q4srcmyv6z6pxubtf2nszdjh4",
       "author": {
