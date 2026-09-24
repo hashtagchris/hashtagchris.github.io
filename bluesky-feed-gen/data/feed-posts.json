@@ -1,6 +1,84 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw7ih5px622l",
+      "cid": "bafyreihkfeuwjz5cx5cw6bwyyc76zh57wfj5ouryijl27afiyzq2le47ta",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-23T19:36:41.169Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiai7rbcsz3oc2sdfvtab23ifkcqs7vt23pfgcs2nkv47em3kjzlpu"
+            },
+            "mimeType": "video/mp4",
+            "size": 42235824
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I’ve never seen anyone eat at chicken from the BYKE"
+      },
+      "embed": {
+        "cid": "bafkreiai7rbcsz3oc2sdfvtab23ifkcqs7vt23pfgcs2nkv47em3kjzlpu",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreiai7rbcsz3oc2sdfvtab23ifkcqs7vt23pfgcs2nkv47em3kjzlpu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreiai7rbcsz3oc2sdfvtab23ifkcqs7vt23pfgcs2nkv47em3kjzlpu/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 34,
+      "replyCount": 17,
+      "repostCount": 42,
+      "likeCount": 228,
+      "quoteCount": 25,
+      "indexedAt": "2026-09-23T19:36:43.284Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw7bj6tcvs2l",
       "cid": "bafyreibzv2jax6kwfsaikzjnrqealqul7uotbqxuhmyr7drq2dsw4us2i4",
       "author": {
