@@ -1,6 +1,263 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwbqrwn4cc2j",
+      "cid": "bafyreid5eu3eugzpan2cmptd2h7oea4p3gc3npvacr7zrdy23ywt4y2h3e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-24T17:11:12.245Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiftl55ivvtackbaoqco34cmipw36y3ypvearifdbzb6q4xrk7fjt4",
+            "uri": "at://did:plc:ppcpwmrxxyi7k46ajkko2iuk/app.bsky.feed.post/3mwbjb5bbhs2i"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "People don’t truly grasp how deeply drug addiction impacted the Black community"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:ppcpwmrxxyi7k46ajkko2iuk/app.bsky.feed.post/3mwbjb5bbhs2i",
+          "cid": "bafyreiftl55ivvtackbaoqco34cmipw36y3ypvearifdbzb6q4xrk7fjt4",
+          "author": {
+            "did": "did:plc:ppcpwmrxxyi7k46ajkko2iuk",
+            "handle": "bamaslymm.blacksky.app",
+            "displayName": "Big Bad Booty Daddy",
+            "pronouns": "",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppcpwmrxxyi7k46ajkko2iuk/bafkreidq5aszkkc66v2ypanrl75wwci54a5suavtzmmxg4s4se2o4nn7cu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:ppcpwmrxxyi7k46ajkko2iuk",
+                "uri": "at://did:plc:ppcpwmrxxyi7k46ajkko2iuk/app.bsky.actor.profile/self",
+                "cid": "bafyreifpveqni7r5xqr25wtfkas5ttp3pk2wivqvlatypdyw2stuuk4zxy",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-07-27T15:50:24.278Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-24T14:56:32.580Z",
+            "langs": [
+              "en"
+            ],
+            "text": "Millennials barely use pipes to smoke weed cuz the stigma of crack usage."
+          },
+          "labels": [],
+          "likeCount": 44,
+          "replyCount": 1,
+          "repostCount": 16,
+          "quoteCount": 11,
+          "indexedAt": "2026-09-24T14:56:33.483Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 3,
+      "repostCount": 10,
+      "likeCount": 64,
+      "quoteCount": 1,
+      "indexedAt": "2026-09-24T17:11:12.581Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 12
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwbe2ocexs2b",
+      "cid": "bafyreidizcyxeaos5w7ok5xy2jcswhi2bajnvzyn56rsgrrqdxnbnpm3wi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-24T13:23:26.852Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreibztvnbbiygxds5s7fqakpu5rtejvgugahwqkztlhg72qxrnuute4",
+            "uri": "at://did:plc:xsrwejzcdq2tp4mzbclstdj6/app.bsky.feed.post/3mwbdpnhlck23"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Now when i do this just remember… you 🫵🏿 asked for this life"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:xsrwejzcdq2tp4mzbclstdj6/app.bsky.feed.post/3mwbdpnhlck23",
+          "cid": "bafyreibztvnbbiygxds5s7fqakpu5rtejvgugahwqkztlhg72qxrnuute4",
+          "author": {
+            "did": "did:plc:xsrwejzcdq2tp4mzbclstdj6",
+            "handle": "aczu4.bsky.social",
+            "displayName": "✨️🧡The Q-tip haired lady ✨️🧡",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xsrwejzcdq2tp4mzbclstdj6/bafkreiginyhob3dova3rdgpnbpr7ums7nxibogr7b2dvweycujlsbrijti",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-13T19:51:59.805Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-24T13:17:16.871Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 905,
+                    "width": 1179
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreiacl7ksxrus2gvx5wdqtbq5eduou4armft3rnfzttmibx4twvm4xu"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 184126
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreiaydewjjaghozi64cc5svpc4rxrz7sdiiw5rbd7sp4hrsqd5c76hi",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwbdnhgkg22b"
+              },
+              "root": {
+                "cid": "bafyreiaydewjjaghozi64cc5svpc4rxrz7sdiiw5rbd7sp4hrsqd5c76hi",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwbdnhgkg22b"
+              }
+            },
+            "text": "Give me your smell good plug."
+          },
+          "labels": [],
+          "likeCount": 10,
+          "replyCount": 1,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-09-24T13:17:18.980Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xsrwejzcdq2tp4mzbclstdj6/bafkreiacl7ksxrus2gvx5wdqtbq5eduou4armft3rnfzttmibx4twvm4xu",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xsrwejzcdq2tp4mzbclstdj6/bafkreiacl7ksxrus2gvx5wdqtbq5eduou4armft3rnfzttmibx4twvm4xu",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 905,
+                    "width": 1179
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 1,
+      "likeCount": 38,
+      "quoteCount": 0,
+      "indexedAt": "2026-09-24T13:23:27.077Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 11
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mw7ih5px622l",
       "cid": "bafyreihkfeuwjz5cx5cw6bwyyc76zh57wfj5ouryijl27afiyzq2le47ta",
       "author": {
