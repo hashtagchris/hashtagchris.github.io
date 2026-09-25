@@ -1,6 +1,173 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwej6sy23c2a",
+      "cid": "bafyreicqz6g4jwafa2cs2yti2mfxta3l2nglircdnjhqewqvbkec2qusju",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-25T19:33:13.898Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreieebjdz2zp5l4gm4bbcg3t7oh4mdtqgcn46burrmm4xhzhuh3gvsq",
+            "uri": "at://did:plc:r53fqm2ps52mf2nqubqxed25/app.bsky.feed.post/3mwej3wmqqk26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "HELLO?????????"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:r53fqm2ps52mf2nqubqxed25/app.bsky.feed.post/3mwej3wmqqk26",
+          "cid": "bafyreieebjdz2zp5l4gm4bbcg3t7oh4mdtqgcn46burrmm4xhzhuh3gvsq",
+          "author": {
+            "did": "did:plc:r53fqm2ps52mf2nqubqxed25",
+            "handle": "solochills.blacksky.app",
+            "displayName": "The Baldfather",
+            "pronouns": "",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r53fqm2ps52mf2nqubqxed25/bafkreihjobzvgiph3dsm3epbtwxb65zux3oqfm6fq3vezvfr3guzh3js7a",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "mutuals"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:r53fqm2ps52mf2nqubqxed25",
+                "uri": "at://did:plc:r53fqm2ps52mf2nqubqxed25/app.bsky.actor.profile/self",
+                "cid": "bafyreieu3wid2zfelco27jhjexjaio5u55o6qspzq3fys5xir6kly5ieca",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-05-04T18:55:53.737Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-25T19:31:37.058Z",
+            "embed": {
+              "$type": "app.bsky.embed.record",
+              "record": {
+                "cid": "bafyreigcbrjdl5mrssdst2yykrlh377agfzqvshktmfiktfny5uopdf43u",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwei3oian22s"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "A LOT"
+          },
+          "labels": [],
+          "likeCount": 9,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 2,
+          "indexedAt": "2026-09-25T19:31:37.276Z",
+          "embeds": [
+            {
+              "record": {
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwei3oian22s",
+                "cid": "bafyreigcbrjdl5mrssdst2yykrlh377agfzqvshktmfiktfny5uopdf43u",
+                "author": {
+                  "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+                  "handle": "solomonrmissouri.com",
+                  "displayName": "Solomon",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+                  "associated": {
+                    "chat": {
+                      "allowIncoming": "none"
+                    },
+                    "activitySubscription": {
+                      "allowSubscriptions": "followers"
+                    }
+                  },
+                  "viewer": {
+                    "muted": false,
+                    "mutedOnlyReposts": false,
+                    "mutedOnlyQuoteposts": false,
+                    "blockedBy": false,
+                    "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+                  },
+                  "labels": [],
+                  "createdAt": "2023-04-23T21:41:12.949Z"
+                },
+                "value": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2026-09-25T19:13:34.780Z",
+                  "langs": [
+                    "as",
+                    "av",
+                    "pt"
+                  ],
+                  "text": "I didn’t know yall were meme quoting me… and saving them\n\nThat’s crazy\n\nIt’s so much evidence against me"
+                },
+                "labels": [],
+                "likeCount": 81,
+                "replyCount": 8,
+                "repostCount": 2,
+                "quoteCount": 9,
+                "indexedAt": "2026-09-25T19:13:34.982Z",
+                "$type": "app.bsky.embed.record#viewRecord"
+              },
+              "$type": "app.bsky.embed.record#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 12,
+      "quoteCount": 0,
+      "indexedAt": "2026-09-25T19:33:13.982Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwbwomvtpc2j",
       "cid": "bafyreihxnvlvaqswo7uq62aaen3aawxl2sq5f2tn5nrmk4sh5p5oxcoj24",
       "author": {
