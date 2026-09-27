@@ -1,6 +1,215 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwjp62l6yc25",
+      "cid": "bafyreihtr45zsfjx2mhdgjyu6y2mes5rlwy7lsrkdabqymiattppvkbnwa",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-27T21:03:29.453Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibgoo5nhukr3sohsqnjlv26ce5cpbjofbaql63tgvfqoriswgrjgq"
+            },
+            "mimeType": "video/mp4",
+            "size": 43195679
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "For a “movement” to end… it would have to first begin"
+      },
+      "embed": {
+        "cid": "bafkreibgoo5nhukr3sohsqnjlv26ce5cpbjofbaql63tgvfqoriswgrjgq",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreibgoo5nhukr3sohsqnjlv26ce5cpbjofbaql63tgvfqoriswgrjgq/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreibgoo5nhukr3sohsqnjlv26ce5cpbjofbaql63tgvfqoriswgrjgq/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 17,
+      "replyCount": 9,
+      "repostCount": 17,
+      "likeCount": 136,
+      "quoteCount": 14,
+      "indexedAt": "2026-09-27T21:03:31.185Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 12
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwjdzdvwrk2c",
+      "cid": "bafyreidmvsukj3yxbytyu52uqdp6pg6gs3wwagby4fis2lqpgurblqkgam",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-27T17:44:00.311Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreictuexrth2cdvggnv266nskumxw5megkib4oyj73fjbq3wv26to6y",
+            "uri": "at://did:plc:mbr4badgf6yu56mquzackzew/app.bsky.feed.post/3mwjdy6pizk2m"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This is amazing"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:mbr4badgf6yu56mquzackzew/app.bsky.feed.post/3mwjdy6pizk2m",
+          "cid": "bafyreictuexrth2cdvggnv266nskumxw5megkib4oyj73fjbq3wv26to6y",
+          "author": {
+            "did": "did:plc:mbr4badgf6yu56mquzackzew",
+            "handle": "insidenflnews.bsky.social",
+            "displayName": "NFL Daily News",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbr4badgf6yu56mquzackzew/bafkreiddog33nmofzyq3p37f2kpoc5gxaevyloeihkiq22x5cdmp4wjmiq",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-14T21:59:11.067Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-27T17:43:21.303Z",
+            "embed": {
+              "$type": "app.bsky.embed.video",
+              "aspectRatio": {
+                "height": 1080,
+                "width": 1920
+              },
+              "presentation": "default",
+              "video": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibuq7nnqxtfqm67pipldjjfap6ia4jzegiiq6hivvhulmczey6scq"
+                },
+                "mimeType": "video/mp4",
+                "size": 4057875
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Jameis Winston tackles Cam Skattebo"
+          },
+          "labels": [],
+          "likeCount": 364,
+          "replyCount": 15,
+          "repostCount": 74,
+          "quoteCount": 101,
+          "indexedAt": "2026-09-27T17:43:22.386Z",
+          "embeds": [
+            {
+              "cid": "bafkreibuq7nnqxtfqm67pipldjjfap6ia4jzegiiq6hivvhulmczey6scq",
+              "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ambr4badgf6yu56mquzackzew/bafkreibuq7nnqxtfqm67pipldjjfap6ia4jzegiiq6hivvhulmczey6scq/playlist.m3u8",
+              "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ambr4badgf6yu56mquzackzew/bafkreibuq7nnqxtfqm67pipldjjfap6ia4jzegiiq6hivvhulmczey6scq/thumbnail.jpg",
+              "aspectRatio": {
+                "height": 1080,
+                "width": 1920
+              },
+              "presentation": "default",
+              "$type": "app.bsky.embed.video#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 7,
+      "repostCount": 17,
+      "likeCount": 88,
+      "quoteCount": 0,
+      "indexedAt": "2026-09-27T17:44:00.581Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwgtojblmk2k",
       "cid": "bafyreigillsjyxuwdotnmmby7tlxggkpkslxonscnj2e34klmyfwrjhv7i",
       "author": {
