@@ -1,6 +1,182 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwltdmbnqs22",
+      "cid": "bafyreid5k6pg4tbfayi5ddvtshxg4hprqj5lz2vff2egs3bta4igyf7z5e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-28T17:23:30.230Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreidrhwznoswvbzhi73tlroisr3seeeg5saz645tpkqfd3uobmqhst4",
+            "uri": "at://did:plc:uzkthbeimpugecznybipkzzj/app.bsky.feed.post/3mwlshzdmts26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Watching it in real time"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:uzkthbeimpugecznybipkzzj/app.bsky.feed.post/3mwlshzdmts26",
+          "cid": "bafyreidrhwznoswvbzhi73tlroisr3seeeg5saz645tpkqfd3uobmqhst4",
+          "author": {
+            "did": "did:plc:uzkthbeimpugecznybipkzzj",
+            "handle": "joybella.blacksky.app",
+            "displayName": "Joy",
+            "pronouns": "she/yerr",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uzkthbeimpugecznybipkzzj/bafkreicwobt5nizumxzpnjjswg7g3d5rijeh5ifzowyrcst6tcrtqbb74q",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:uzkthbeimpugecznybipkzzj",
+                "uri": "at://did:plc:uzkthbeimpugecznybipkzzj/app.bsky.actor.profile/self",
+                "cid": "bafyreigfpxqq2mbgxe2lfzlgdiq42qxela7hre5m4abftymkmzrpi447ke",
+                "val": "!no-unauthenticated",
+                "cts": "2024-11-07T13:21:05.727Z"
+              }
+            ],
+            "createdAt": "2024-11-07T13:21:07.119Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-09-28T17:08:04.404Z",
+            "embed": {
+              "$type": "app.bsky.embed.record",
+              "record": {
+                "cid": "bafyreiakprfeggxd3jowiz5fqps36albm3fyi5v3oebl2c4yvcuhtpegb4",
+                "uri": "at://did:plc:kit3wc7vobq52rvfvvp5gvum/app.bsky.feed.post/3mwls7zqt622s"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Where were you when Left-Eye set Andre house on fire...?"
+          },
+          "labels": [],
+          "likeCount": 47,
+          "replyCount": 4,
+          "repostCount": 7,
+          "quoteCount": 19,
+          "indexedAt": "2026-09-28T17:08:04.784Z",
+          "embeds": [
+            {
+              "record": {
+                "uri": "at://did:plc:kit3wc7vobq52rvfvvp5gvum/app.bsky.feed.post/3mwls7zqt622s",
+                "cid": "bafyreiakprfeggxd3jowiz5fqps36albm3fyi5v3oebl2c4yvcuhtpegb4",
+                "author": {
+                  "did": "did:plc:kit3wc7vobq52rvfvvp5gvum",
+                  "handle": "jordan-777.bsky.social",
+                  "displayName": "Jordan",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kit3wc7vobq52rvfvvp5gvum/bafkreibun2f2ygoll7edkfonxus3u2b5qglmwhoyd4vii3pcexzu2u5tkq",
+                  "associated": {
+                    "chat": {
+                      "allowIncoming": "all"
+                    },
+                    "activitySubscription": {
+                      "allowSubscriptions": "followers"
+                    }
+                  },
+                  "viewer": {
+                    "muted": false,
+                    "mutedOnlyReposts": false,
+                    "mutedOnlyQuoteposts": false,
+                    "blockedBy": false
+                  },
+                  "labels": [
+                    {
+                      "src": "did:plc:kit3wc7vobq52rvfvvp5gvum",
+                      "uri": "at://did:plc:kit3wc7vobq52rvfvvp5gvum/app.bsky.actor.profile/self",
+                      "cid": "bafyreidamavnfs4qbdy34vmvnf6nfdtarmn6mni5qm57ucbst2f75nns64",
+                      "val": "!no-unauthenticated",
+                      "cts": "2026-05-11T21:25:13.634Z"
+                    }
+                  ],
+                  "createdAt": "2026-05-11T21:25:13.872Z"
+                },
+                "value": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2026-09-28T17:03:36.401Z",
+                  "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                      "cid": "bafyreibmsjovtdjt3sokchiihc5yitmcue3wbabwpzyxewh2oqy7iyw7vi",
+                      "uri": "at://did:plc:nxj47c5vv5isxgndvdq2yfnm/app.bsky.feed.post/3mwlraz2frk2x"
+                    }
+                  },
+                  "langs": [
+                    "en"
+                  ],
+                  "text": "I got 2 a side hoe and my main. Ian checking on the side coz I her side nigga and we just playing. U feel me ?"
+                },
+                "labels": [],
+                "likeCount": 0,
+                "replyCount": 0,
+                "repostCount": 0,
+                "quoteCount": 3,
+                "indexedAt": "2026-09-28T17:03:35.915Z",
+                "$type": "app.bsky.embed.record#viewRecord"
+              },
+              "$type": "app.bsky.embed.record#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 5,
+      "repostCount": 11,
+      "likeCount": 131,
+      "quoteCount": 5,
+      "indexedAt": "2026-09-28T17:23:30.586Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 14
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwjro4gyis25",
       "cid": "bafyreidstb2i5ohbfj6opcdf2egokro6u7gpcg6fdri7zf2jfaibq35awi",
       "author": {
