@@ -1,6 +1,84 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwnsrs45ks2u",
+      "cid": "bafyreieloz6dcivojflksa2wjanhenuieqstgng37oypmtzblelhtgwvmy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-29T12:18:51.838Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 2868,
+            "width": 1320
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreih6t5w2ksoryemnu77scx362rhsudkgsmy6p4e4z6jn5oydvdyw5q"
+            },
+            "mimeType": "video/mp4",
+            "size": 2679695
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Who gone work them????"
+      },
+      "embed": {
+        "cid": "bafkreih6t5w2ksoryemnu77scx362rhsudkgsmy6p4e4z6jn5oydvdyw5q",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreih6t5w2ksoryemnu77scx362rhsudkgsmy6p4e4z6jn5oydvdyw5q/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreih6t5w2ksoryemnu77scx362rhsudkgsmy6p4e4z6jn5oydvdyw5q/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 2868,
+          "width": 1320
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 10,
+      "repostCount": 13,
+      "likeCount": 69,
+      "quoteCount": 7,
+      "indexedAt": "2026-09-29T12:18:57.194Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 12
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwm5c7fx5222",
       "cid": "bafyreiegkezp2avjcbxpndkmndyilep5xens5afjb5w6fa25amwjkcgozm",
       "author": {
