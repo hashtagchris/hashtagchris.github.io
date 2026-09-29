@@ -1,6 +1,57 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwob2bs33s2s",
+      "cid": "bafyreidhdw6wabg5ifyocpodpop647qx5j4ak2hb4j5qzybf5m5clnv32e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-29T16:34:09.107Z",
+        "langs": [
+          "en"
+        ],
+        "text": "“Costco is a cult “\n\nA cult of livable wages and surprising deals \n\nSign me TF up!!!"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 13,
+      "repostCount": 39,
+      "likeCount": 357,
+      "quoteCount": 11,
+      "indexedAt": "2026-09-29T16:34:09.283Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwnsrs45ks2u",
       "cid": "bafyreieloz6dcivojflksa2wjanhenuieqstgng37oypmtzblelhtgwvmy",
       "author": {
