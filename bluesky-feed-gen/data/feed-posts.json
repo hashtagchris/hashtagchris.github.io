@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwm5c7fx5222",
+      "cid": "bafyreiegkezp2avjcbxpndkmndyilep5xens5afjb5w6fa25amwjkcgozm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-28T20:21:40.604Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "The victim was found with multiple gunshot wounds in a parking lot near a Dublin park. Police arrested his parents-in-law on suspicion of murder.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibwczuoszzfx5upmwzn7vb3kceelnvzpdg4acnzqgv5jz76nvfqvq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 473447
+            },
+            "title": "New York Times games engineering director allegedly shot in Dublin by in-laws",
+            "uri": "https://www.sfchronicle.com/bayarea/article/man-shot-killed-dublin-in-laws-suspects-22451686.php"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.sfchronicle.com/bayarea/article/man-shot-killed-dublin-in-laws-suspects-22451686.php"
+              }
+            ],
+            "index": {
+              "byteEnd": 35,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "www.sfchronicle.com/bayarea/arti..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.sfchronicle.com/bayarea/article/man-shot-killed-dublin-in-laws-suspects-22451686.php",
+          "title": "New York Times games engineering director allegedly shot in Dublin by in-laws",
+          "description": "The victim was found with multiple gunshot wounds in a parking lot near a Dublin park. Police arrested his parents-in-law on suspicion of murder.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibwczuoszzfx5upmwzn7vb3kceelnvzpdg4acnzqgv5jz76nvfqvq"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 4,
+      "repostCount": 3,
+      "likeCount": 20,
+      "quoteCount": 2,
+      "indexedAt": "2026-09-28T20:21:42.077Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwltdmbnqs22",
       "cid": "bafyreid5k6pg4tbfayi5ddvtshxg4hprqj5lz2vff2egs3bta4igyf7z5e",
       "author": {
