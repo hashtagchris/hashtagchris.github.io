@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwqh5my73c2k",
+      "cid": "bafyreidexe2kfia4wcqlkumxrpeyfquadwlmk762cdq4p7kslj2clbipyy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-30T13:28:43.434Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Babyface is one of the great producers, but an overrated ...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibqu7rmiagspjfwjdbjdnp3uijq7tm7frcnp4wxyzorr4nle2duwa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 990665
+            },
+            "title": "Babyface Fans Need to Hear This Bomani Jones Take | Complex Bets Presents Worst Take",
+            "uri": "https://www.complex.com/v/worst-take/ztmdEVge"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.complex.com/v/worst-take/ztmdEVge"
+              }
+            ],
+            "index": {
+              "byteEnd": 90,
+              "byteStart": 59
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "What you should know is… a lie don’t care who tell it\n\nwww.complex.com/v/worst-take..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.complex.com/v/worst-take/ztmdEVge",
+          "title": "Babyface Fans Need to Hear This Bomani Jones Take | Complex Bets Presents Worst Take",
+          "description": "Babyface is one of the great producers, but an overrated ...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibqu7rmiagspjfwjdbjdnp3uijq7tm7frcnp4wxyzorr4nle2duwa"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 14,
+      "replyCount": 9,
+      "repostCount": 20,
+      "likeCount": 102,
+      "quoteCount": 20,
+      "indexedAt": "2026-09-30T13:28:44.480Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 28
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwob2bs33s2s",
       "cid": "bafyreidhdw6wabg5ifyocpodpop647qx5j4ak2hb4j5qzybf5m5clnv32e",
       "author": {
