@@ -1,6 +1,202 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwt7kd7yps2a",
+      "cid": "bafyreidbkkddoeuxnchxdpkh43gdw3km64o7ubts4t7kfjprcvsmvvp6ja",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-01T15:50:38.692Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreigduukc6kh247lus5mipz4zb7ltoqaounnk72j6u4x5lxosyz357y",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwt6v7oqrc2a"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This is what gets me about America... \n\nit's a land full of premium 💩"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwt6v7oqrc2a",
+          "cid": "bafyreigduukc6kh247lus5mipz4zb7ltoqaounnk72j6u4x5lxosyz357y",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonrmissouri.com",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-01T15:38:50.338Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "Join our premier sports fishing school to learn expert casting, tackle setup, and tactics. Perfect for beginners and pros loving recreational fishing!",
+                "title": "Sports Fishing School | Recreational Fishing | NC State University",
+                "uri": "https://lifelonglearning.ncsu.edu/sport-fishing-school/"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://lifelonglearning.ncsu.edu/sport-fishing-school/"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 92,
+                  "byteStart": 51
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreif622imb3id4acacazjoz4o4wmfy2kxpdtnfkghrpbgdkh7mtaw5i",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwt6om2iu22a"
+              },
+              "root": {
+                "cid": "bafyreif622imb3id4acacazjoz4o4wmfy2kxpdtnfkghrpbgdkh7mtaw5i",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwt6om2iu22a"
+              }
+            },
+            "text": "Don't you wanna take a class on sport fishing????\n\nlifelonglearning.ncsu.edu/sport-fishin..."
+          },
+          "labels": [],
+          "likeCount": 24,
+          "replyCount": 4,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-01T15:38:50.679Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://lifelonglearning.ncsu.edu/sport-fishing-school/",
+                "title": "Sports Fishing School | Recreational Fishing | NC State University",
+                "description": "Join our premier sports fishing school to learn expert casting, tackle setup, and tactics. Perfect for beginners and pros loving recreational fishing!"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 2,
+      "repostCount": 1,
+      "likeCount": 26,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-01T15:50:38.881Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwt4va6jck2a",
+      "cid": "bafyreibx3zd3g732cxuvtktgqwgpjo7ajgwshfukbttlygkjh775gbkr5y",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-01T15:03:03.371Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I have a tab open ... with a PHD application \n\nI need to close that tab"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 14,
+      "repostCount": 5,
+      "likeCount": 162,
+      "quoteCount": 6,
+      "indexedAt": "2026-10-01T15:03:04.784Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwswzhzuic2a",
       "cid": "bafyreigh7vj6pvfh7ftzde3gut6qlax6kj6qmnyhkgycg62khtmnmm34n4",
       "author": {
