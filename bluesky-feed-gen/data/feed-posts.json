@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwoqlg4kzk25",
+      "cid": "bafyreifh5jo2yzv66ghfkx77tzt6utbcryhizwae26m2wm75y2lhsrjzzi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-09-29T21:12:10.193Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Several questions are being raised because of Sneed's involvement in the proposal.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid5c3qvc4e74lnxsphtyzvysyfbvvapdtcaboj2gb7f4ds3omuryy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 552037
+            },
+            "title": "Stephanie Sneed, Raki McGregor sought $400K contract from sheriff’s office",
+            "uri": "https://www.wsoctv.com/news/local/stephanie-sneed-raki-mcgregor-sought-400k-contract-sheriffs-office/GAGSRNX5AFA2DMELZYM7TTXQSA/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.wsoctv.com/news/local/stephanie-sneed-raki-mcgregor-sought-400k-contract-sheriffs-office/GAGSRNX5AFA2DMELZYM7TTXQSA/"
+              }
+            ],
+            "index": {
+              "byteEnd": 38,
+              "byteStart": 8
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "A mess\n\nwww.wsoctv.com/news/local/s..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.wsoctv.com/news/local/stephanie-sneed-raki-mcgregor-sought-400k-contract-sheriffs-office/GAGSRNX5AFA2DMELZYM7TTXQSA/",
+          "title": "Stephanie Sneed, Raki McGregor sought $400K contract from sheriff’s office",
+          "description": "Several questions are being raised because of Sneed's involvement in the proposal.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreid5c3qvc4e74lnxsphtyzvysyfbvvapdtcaboj2gb7f4ds3omuryy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 3,
+      "repostCount": 1,
+      "likeCount": 13,
+      "quoteCount": 0,
+      "indexedAt": "2026-09-29T21:12:18.882Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwqv2y7yjc2j",
       "cid": "bafyreidwffwwd2v3sjjjxikizuas44ehxa2upmgysbvmagmsvxztivojyy",
       "author": {
