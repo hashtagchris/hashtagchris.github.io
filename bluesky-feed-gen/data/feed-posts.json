@@ -1,6 +1,108 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mx2k3e7oac2y",
+      "cid": "bafyreicfqpth42wiegrgidf7hs5hsoo6bg5s7idszhkk6pc4kwu6ceusum",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-04T13:47:45.742Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I think Stevie Wonder is a maniac\n\nBecause why …. \n\nWhere did this Cookie Monster voice come from????"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 11,
+      "repostCount": 6,
+      "likeCount": 117,
+      "quoteCount": 17,
+      "indexedAt": "2026-10-04T13:47:45.978Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 16
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mx2hhqfg722y",
+      "cid": "bafyreiaeg4qhy7xeumojijq2lvbvpgiyxkvhcu37j2xxyilnbifv76lena",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-04T13:00:59.941Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Mans said … \n\n“First thing Monday morning imma pack my tears away … got by cause to look back I’m looking for me a better day”"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 2,
+      "likeCount": 21,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-04T13:01:00.183Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mwxlbflhcc24",
       "cid": "bafyreieiieu55xhlm3q2pxfh2sibkobvr3onsmbzb4tu4farwgbnbaf5eu",
       "author": {
