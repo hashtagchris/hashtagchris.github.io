@@ -1,6 +1,84 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mx7sqrm7mc2u",
+      "cid": "bafyreif6vtggr3u4f32kdnaefagnqt3gybafq4wkwvlorcd7wynu73xqcy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-06T16:06:13.054Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigwmvyxz2ddycdan6hntgra6zhu3rtk2lo66afr6dfgwl2p6r6j7q"
+            },
+            "mimeType": "video/mp4",
+            "size": 2993194
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This it’s important… do i support Auburn???\n\nABSOLUTELY NOT! \n\nBut i do support regional baddies!!!!"
+      },
+      "embed": {
+        "cid": "bafkreigwmvyxz2ddycdan6hntgra6zhu3rtk2lo66afr6dfgwl2p6r6j7q",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreigwmvyxz2ddycdan6hntgra6zhu3rtk2lo66afr6dfgwl2p6r6j7q/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreigwmvyxz2ddycdan6hntgra6zhu3rtk2lo66afr6dfgwl2p6r6j7q/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 2,
+      "likeCount": 67,
+      "quoteCount": 4,
+      "indexedAt": "2026-10-06T16:06:14.677Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mx4wqbn2y22q",
       "cid": "bafyreigc4m3s47bhmc2tyslbxz3mtg74wmezwscwo4hwwe3i5igtf76dd4",
       "author": {
