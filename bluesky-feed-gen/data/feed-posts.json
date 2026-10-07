@@ -1,6 +1,299 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcs4feiy22m",
+      "cid": "bafyreibs3x4oprppx5hcw6qchq7uzgqd6qwarmv5sqnmldqfbpvwlji2ia",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-07T20:32:48.345Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibrh2iayudxdms2wrfgbxvfdbvtghow4e3a4ozsi6hwjq3aohhgum"
+              },
+              "mimeType": "image/jpeg",
+              "size": 894375
+            },
+            "title": "Woman ‘posed as substitute teacher to insult students because she hates kids’",
+            "uri": "https://metro.co.uk/2026/10/07/woman-posed-substitute-teacher-insult-students-hates-kids-29688310/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://metro.co.uk/2026/10/07/woman-posed-substitute-teacher-insult-students-hates-kids-29688310/"
+              }
+            ],
+            "index": {
+              "byteEnd": 32,
+              "byteStart": 5
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "OMG\n\nmetro.co.uk/2026/10/07/w..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://metro.co.uk/2026/10/07/woman-posed-substitute-teacher-insult-students-hates-kids-29688310/",
+          "title": "Woman ‘posed as substitute teacher to insult students because she hates kids’",
+          "description": "",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibrh2iayudxdms2wrfgbxvfdbvtghow4e3a4ozsi6hwjq3aohhgum"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 16,
+      "replyCount": 24,
+      "repostCount": 51,
+      "likeCount": 365,
+      "quoteCount": 95,
+      "indexedAt": "2026-10-07T20:32:49.683Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcqg7sb722f",
+      "cid": "bafyreiep4mkwrrllj4rynpud3ez5kljejkdi63rvavs5avewjynrarpc7e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-07T20:02:30.565Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreibfo65w2mff6wdebhn6hvgx3d4av6aboxqgrvumstc6nhof4oae7q",
+            "uri": "at://did:plc:lm7zzkqffjndycip3siewb6y/app.bsky.feed.post/3mxcq75dugk2q"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "NOT MY SAVIOR 😭😭😭"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:lm7zzkqffjndycip3siewb6y/app.bsky.feed.post/3mxcq75dugk2q",
+          "cid": "bafyreibfo65w2mff6wdebhn6hvgx3d4av6aboxqgrvumstc6nhof4oae7q",
+          "author": {
+            "did": "did:plc:lm7zzkqffjndycip3siewb6y",
+            "handle": "ashirley.bsky.social",
+            "displayName": "An Okie",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lm7zzkqffjndycip3siewb6y/bafkreibpxwrldap4o57dxkrpnlgbjxy4sv5p3jas6uv3d7dnxcorxygenu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-07-01T20:32:03.931Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-07T19:58:33.114Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreifntoprzxvxcbmatr33a6zjih2mdkbcvjd2ted4v63ma5cw7gkkq4",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcpjm5rxk2n"
+              },
+              "root": {
+                "cid": "bafyreifntoprzxvxcbmatr33a6zjih2mdkbcvjd2ted4v63ma5cw7gkkq4",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcpjm5rxk2n"
+              }
+            },
+            "text": "Jesus Christ: feet guy"
+          },
+          "labels": [],
+          "likeCount": 11,
+          "replyCount": 3,
+          "repostCount": 1,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-07T19:58:33.779Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 0,
+      "likeCount": 18,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-07T20:02:30.786Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcnm7a2322n",
+      "cid": "bafyreiail232cl3vrlnwarjnhwtdherjy6dnbznu5bkwaboaik2py23jba",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-07T19:12:10.069Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "11:57 AM PT -- TMZ has obtained video of the incident.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibhrpkgfzebvdaouh5izqu4voyfq5xc5mvmcc3ahkpgpibnjrdvoa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 974885
+            },
+            "title": "American Airlines Passenger Allegedly Put Her Legs Against Window As She Masturbated",
+            "uri": "https://www.tmz.com/2026/10/06/american-airlines-passenger-allegedly-masturbated-on-flight-legs-on-window/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.tmz.com/2026/10/06/american-airlines-passenger-allegedly-masturbated-on-flight-legs-on-window/"
+              }
+            ],
+            "index": {
+              "byteEnd": 50,
+              "byteStart": 23
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "New sentence dropped \n\nwww.tmz.com/2026/10/06/a..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.tmz.com/2026/10/06/american-airlines-passenger-allegedly-masturbated-on-flight-legs-on-window/",
+          "title": "American Airlines Passenger Allegedly Put Her Legs Against Window As She Masturbated",
+          "description": "11:57 AM PT -- TMZ has obtained video of the incident.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibhrpkgfzebvdaouh5izqu4voyfq5xc5mvmcc3ahkpgpibnjrdvoa"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 9,
+      "replyCount": 64,
+      "repostCount": 44,
+      "likeCount": 354,
+      "quoteCount": 176,
+      "indexedAt": "2026-10-07T19:12:11.880Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxa2dwfvm22i",
       "cid": "bafyreiaypjy7reqtqezdynzz7ccwfcrdwlqhppv6manfwn2h4ssp2o3vrq",
       "author": {
