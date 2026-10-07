@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxa2dwfvm22i",
+      "cid": "bafyreiaypjy7reqtqezdynzz7ccwfcrdwlqhppv6manfwn2h4ssp2o3vrq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-06T18:22:11.817Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Wake Forest police say the former detective assaulted people at the Carolina Ale House, including the manager.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibtkmbl4jtakznvirg232qp5kmlawdtbb4lejum7mnsaa5yf5jzsy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 757312
+            },
+            "title": "Raleigh police detective terminated after being arrested, charged with several assaults, including another officer, an EMT",
+            "uri": "https://abc11.com/story/raleigh-police-detective-christopher-reed-fired-being-arrested-connection-incidents-carolina-ale-house/19913619/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://abc11.com/story/raleigh-police-detective-christopher-reed-fired-being-arrested-connection-incidents-carolina-ale-house/19913619/"
+              }
+            ],
+            "index": {
+              "byteEnd": 86,
+              "byteStart": 61
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Fighting down to the Carolina ale house is unnecessary ... \n\nabc11.com/story/raleig..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://abc11.com/story/raleigh-police-detective-christopher-reed-fired-being-arrested-connection-incidents-carolina-ale-house/19913619/",
+          "title": "Raleigh police detective terminated after being arrested, charged with several assaults, including another officer, an EMT",
+          "description": "Wake Forest police say the former detective assaulted people at the Carolina Ale House, including the manager.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibtkmbl4jtakznvirg232qp5kmlawdtbb4lejum7mnsaa5yf5jzsy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 6,
+      "repostCount": 10,
+      "likeCount": 41,
+      "quoteCount": 2,
+      "indexedAt": "2026-10-06T18:22:13.178Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxa2oqpgy22i",
       "cid": "bafyreig2asrqa3zoehugv3m3hm5bjvft5hqtn2lh4h45qqng2vyuwrv5pq",
       "author": {
