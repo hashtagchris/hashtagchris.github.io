@@ -1,6 +1,210 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcwiwyfgk2m",
+      "cid": "bafyreibvnd6arvxikbsh43j3vrajyqbhhmx3t2bw6npwqze42raykwxbuq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-07T21:51:24.442Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreibwebfpnryb4l5bztjsksa6t3mi6ashqw3afaeroewz6uvfur6hy4",
+            "uri": "at://did:plc:6nor5mlj5i5xi2tgemzzjcb5/app.bsky.feed.post/3mxcw57d7p22z"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "The findom is a hard system to be in\n\nGood luck everyone"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:6nor5mlj5i5xi2tgemzzjcb5/app.bsky.feed.post/3mxcw57d7p22z",
+          "cid": "bafyreibwebfpnryb4l5bztjsksa6t3mi6ashqw3afaeroewz6uvfur6hy4",
+          "author": {
+            "did": "did:plc:6nor5mlj5i5xi2tgemzzjcb5",
+            "handle": "joshshope.bsky.social",
+            "displayName": "Josh Shope",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6nor5mlj5i5xi2tgemzzjcb5/bafkreihiczwyrhzj3uaalra567ixvpmxbnqoyqgwkvqx6qr2horf6emn4y",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none",
+                "allowGroupInvites": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-15T03:32:21.381Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-07T21:44:50.531Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreihj2xseyfyxybnen3d4lmfhia4tixgpjxkijjcc7gmnry7u7bfibu",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxctwirsxs2m"
+              },
+              "root": {
+                "cid": "bafyreihj2xseyfyxybnen3d4lmfhia4tixgpjxkijjcc7gmnry7u7bfibu",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxctwirsxs2m"
+              }
+            },
+            "text": "Pastor, they're out here running findom scams on MAGA voters now."
+          },
+          "labels": [],
+          "likeCount": 42,
+          "replyCount": 2,
+          "repostCount": 1,
+          "quoteCount": 4,
+          "indexedAt": "2026-10-07T21:44:51.079Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 2,
+      "repostCount": 6,
+      "likeCount": 88,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-07T21:51:24.786Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcpicon7k2n",
+      "cid": "bafyreig5si3shigjdpvomd4jlea64ajsf5u25eysy3g6rc7ott7ywwtvgu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-07T19:45:46.958Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "A Tennessee judge said the state must preserve syringes and other material from the execution chamber a week after Ms. Pike survived two doses of a drug meant to kill her.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreide6l6xlokwxt2m7gez7tdpr3745o6eah2vmdxhogzbyvqydm4eje"
+              },
+              "mimeType": "image/jpeg",
+              "size": 266446
+            },
+            "title": "Christa Pike Live Updates: Her Lawyers Say She Is Angry and Confused After Failed Execution (Gift Article)",
+            "uri": "https://www.nytimes.com/live/2026/10/07/us/christa-pike-tennessee-execution?unlocked_article_code=1.G1E.XDU4.0pvFna7XDbuc&smid=url-share"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nytimes.com/live/2026/10/07/us/christa-pike-tennessee-execution?unlocked_article_code=1.G1E.XDU4.0pvFna7XDbuc&smid=url-share"
+              }
+            ],
+            "index": {
+              "byteEnd": 182,
+              "byteStart": 151
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "guys i don't know... i feel like if you try to chemically kill a woman twice and it doesn't work that's the limit \n\nI think you gotta leave her alone\n\nwww.nytimes.com/live/2026/10..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.nytimes.com/live/2026/10/07/us/christa-pike-tennessee-execution?unlocked_article_code=1.G1E.XDU4.0pvFna7XDbuc&smid=url-share",
+          "title": "Christa Pike Live Updates: Her Lawyers Say She Is Angry and Confused After Failed Execution (Gift Article)",
+          "description": "A Tennessee judge said the state must preserve syringes and other material from the execution chamber a week after Ms. Pike survived two doses of a drug meant to kill her.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreide6l6xlokwxt2m7gez7tdpr3745o6eah2vmdxhogzbyvqydm4eje"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 20,
+      "repostCount": 48,
+      "likeCount": 462,
+      "quoteCount": 12,
+      "indexedAt": "2026-10-07T19:45:49.981Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxcs4feiy22m",
       "cid": "bafyreibs3x4oprppx5hcw6qchq7uzgqd6qwarmv5sqnmldqfbpvwlji2ia",
       "author": {
