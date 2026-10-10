@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxctwirsxs2m",
+      "cid": "bafyreihj2xseyfyxybnen3d4lmfhia4tixgpjxkijjcc7gmnry7u7bfibu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-07T21:05:18.083Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Text messages with a MAGA ally show Guilfoyle seeking funds and offering access to top administration officials before becoming ambassador to Greece.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiga5ecpsiskpn2bk7myanyorphpo3bm5jqnlmucv7ffwskm5udmym"
+              },
+              "mimeType": "image/jpeg",
+              "size": 435618
+            },
+            "title": "Exclusive | ‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account",
+            "uri": "https://www.wsj.com/politics/policy/guilfoyle-amex-donor-100-000-0e02cdc3?st=nvezeT"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.wsj.com/politics/policy/guilfoyle-amex-donor-100-000-0e02cdc3?st=nvezeT"
+              }
+            ],
+            "index": {
+              "byteEnd": 41,
+              "byteStart": 14
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "This is nuts\n\nwww.wsj.com/politics/pol..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.wsj.com/politics/policy/guilfoyle-amex-donor-100-000-0e02cdc3?st=nvezeT",
+          "title": "Exclusive | ‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account",
+          "description": "Text messages with a MAGA ally show Guilfoyle seeking funds and offering access to top administration officials before becoming ambassador to Greece.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiga5ecpsiskpn2bk7myanyorphpo3bm5jqnlmucv7ffwskm5udmym"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 13,
+      "replyCount": 5,
+      "repostCount": 34,
+      "likeCount": 152,
+      "quoteCount": 4,
+      "indexedAt": "2026-10-07T21:05:19.479Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxfmcwmaik2t",
       "cid": "bafyreif44floqun3x3yptpwbpy4smdluhznkbp524sxlren3l23pmxvej4",
       "author": {
