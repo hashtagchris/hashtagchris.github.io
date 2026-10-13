@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxpqvbopj22a",
+      "cid": "bafyreib7tqocvejhqaxamevguk6mc4yyzyzt5mtt4trmo5qzr2rwtdmmiq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-13T00:15:32.461Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Explore this post and more from the AnimeReccomendations community",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreieixuq2rpymo366dylfqmokmwf72rhy5fjgc6vlzc3ugd46qtgtxm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 185614
+            },
+            "title": "From the AnimeReccomendations community on Reddit: Recommend me a good romance anime, please?",
+            "uri": "https://www.reddit.com/r/AnimeReccomendations/s/8qjTBoGqFi"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.reddit.com/r/AnimeReccomendations/s/8qjTBoGqFi"
+              }
+            ],
+            "index": {
+              "byteEnd": 101,
+              "byteStart": 71
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "People be like “what’s a good romance anime”\n\nChile…. Naruto \n\nwww.reddit.com/r/AnimeRecco..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.reddit.com/r/AnimeReccomendations/s/8qjTBoGqFi",
+          "title": "From the AnimeReccomendations community on Reddit: Recommend me a good romance anime, please?",
+          "description": "Explore this post and more from the AnimeReccomendations community",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieixuq2rpymo366dylfqmokmwf72rhy5fjgc6vlzc3ugd46qtgtxm"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 1,
+      "likeCount": 16,
+      "quoteCount": 1,
+      "indexedAt": "2026-10-13T00:15:33.680Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxpd2j5iis2u",
       "cid": "bafyreihzz6vqyr3wjvdj4ylucwmldlbnvsj5kodkcxiqv5ypee77abu5oy",
       "author": {
