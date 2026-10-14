@@ -1,6 +1,142 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxttknjlds2m",
+      "cid": "bafyreicnlrb7sfljwkyhyknu4ug7rrub5kfxjhwusx4wnpu3bky3skdn3q",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-14T15:13:55.954Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1228,
+                "width": 1260
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicns26ztm7jouwjwlbkptlo2go3u2swc66axrvhqtcfaqc3o73ghi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 789352
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Marina Shafir on choking out her husband…. ROMANCE!"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicns26ztm7jouwjwlbkptlo2go3u2swc66axrvhqtcfaqc3o73ghi",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicns26ztm7jouwjwlbkptlo2go3u2swc66axrvhqtcfaqc3o73ghi",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1228,
+              "width": 1260
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 8,
+      "replyCount": 1,
+      "repostCount": 12,
+      "likeCount": 89,
+      "quoteCount": 5,
+      "indexedAt": "2026-10-14T15:13:57.479Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxtnp3kgtk2c",
+      "cid": "bafyreick3ztvhpe6phpxrtepxbkj722f45rfqrxfphbdla2l2mwvzhaudu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-14T13:29:02.431Z",
+        "langs": [
+          "en"
+        ],
+        "text": "The streets was like “self love is best”\n\nSo i bought some boots!!!"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 5,
+      "repostCount": 1,
+      "likeCount": 65,
+      "quoteCount": 2,
+      "indexedAt": "2026-10-14T13:29:05.585Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxregtcn2c2l",
       "cid": "bafyreifqylbnk7boglkczlvqnhps44qx6bjo7s2cwc7g543e64ued6bkti",
       "author": {
