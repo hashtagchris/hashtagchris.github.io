@@ -1,6 +1,362 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwtjpuwsc2a",
+      "cid": "bafyreievmb7xcmj73durrr2x63nqlqesinuh4q33s67am4wkcvlqwbqya4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T19:51:24.085Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreidy7lpxefatonrno2huxamjlucyj4k72bwc3pbch4bbny7gnm3xae",
+            "uri": "at://did:plc:w2xrxc2lafwnvoeskv4byheg/app.bsky.feed.post/3mxwszy6cvk22"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Now that i am considered middle aged man... with readers, blood pressure pills, and an arthritis cream \n\ni have become increasingly aware of just how susceptible i am to the scam"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w2xrxc2lafwnvoeskv4byheg/app.bsky.feed.post/3mxwszy6cvk22",
+          "cid": "bafyreidy7lpxefatonrno2huxamjlucyj4k72bwc3pbch4bbny7gnm3xae",
+          "author": {
+            "did": "did:plc:w2xrxc2lafwnvoeskv4byheg",
+            "handle": "ashpet.bsky.social",
+            "displayName": "Baby Suggs Holy",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w2xrxc2lafwnvoeskv4byheg/bafkreihi47jzf6umiqacrg2apdlyfbejlpqqmb73whrhxxeg3zsfxfbu6y",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-09-13T14:49:19.164Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-15T19:42:35.909Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreic55oiiboisf2dtnkqdruq2lwuhbcd5yu4vljkda5f5dr75bhkpxi",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwrnfutkk2k"
+              },
+              "root": {
+                "cid": "bafyreic55oiiboisf2dtnkqdruq2lwuhbcd5yu4vljkda5f5dr75bhkpxi",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwrnfutkk2k"
+              }
+            },
+            "text": "There’s a middle-aged gentleman who gonna handle that restitution monthly based on this video alone. She know what she doin."
+          },
+          "labels": [],
+          "likeCount": 32,
+          "replyCount": 2,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-15T19:42:36.476Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 5,
+      "likeCount": 83,
+      "quoteCount": 3,
+      "indexedAt": "2026-10-15T19:51:24.376Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false,
+        "knownLikers": {
+          "count": 1,
+          "actors": [
+            {
+              "did": "did:plc:sg2e2kqdsdp2q2zl44txadbp",
+              "handle": "anildash.com",
+              "displayName": "Anil Dash",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sg2e2kqdsdp2q2zl44txadbp/bafkreicnvqv3tg434bghscobifd6fqltjrvq6li4qo4zmujjvtbefqfgxy",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                },
+                "germ": {
+                  "showButtonTo": "usersIFollow",
+                  "messageMeUrl": "https://landing.ger.mx/newUser"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false,
+                "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lev5xunidf2l"
+              },
+              "labels": [],
+              "createdAt": "2023-04-23T18:21:34.314Z",
+              "verification": {
+                "verifications": [
+                  {
+                    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                    "issuerDisplayName": "Bluesky",
+                    "issuerHandle": "bsky.app",
+                    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lrxefhgt3y2m",
+                    "isValid": true,
+                    "createdAt": "2025-06-19T10:55:52.380Z"
+                  }
+                ],
+                "verifiedStatus": "valid",
+                "trustedVerifierStatus": "none"
+              }
+            }
+          ]
+        }
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 11
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwrnfutkk2k",
+      "cid": "bafyreic55oiiboisf2dtnkqdruq2lwuhbcd5yu4vljkda5f5dr75bhkpxi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T19:17:40.331Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifcjeavecl7kdquyimhogaqdbp2yt7wcj4zau6e5ulvxnrfa5ggoe"
+            },
+            "mimeType": "video/mp4",
+            "size": 5671731
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Sis said you gone get this strut!!!"
+      },
+      "embed": {
+        "cid": "bafkreifcjeavecl7kdquyimhogaqdbp2yt7wcj4zau6e5ulvxnrfa5ggoe",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreifcjeavecl7kdquyimhogaqdbp2yt7wcj4zau6e5ulvxnrfa5ggoe/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreifcjeavecl7kdquyimhogaqdbp2yt7wcj4zau6e5ulvxnrfa5ggoe/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 9,
+      "repostCount": 20,
+      "likeCount": 142,
+      "quoteCount": 17,
+      "indexedAt": "2026-10-15T19:17:42.182Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwkuknmxc25",
+      "cid": "bafyreihvgff4ogkt7zxixsdxmjfphty54l46pkypg7j355wmvqqoumhane",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T17:16:24.026Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifr3klu2pzym7q4uaxa2f34ekdcgbmeebm6v4onqeeja3d3cnrbgm",
+            "uri": "at://did:plc:brltdra33cef4shhld2mfgda/app.bsky.feed.post/3mxwkrlux2k27"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "We don’t have to fight love is given"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:brltdra33cef4shhld2mfgda/app.bsky.feed.post/3mxwkrlux2k27",
+          "cid": "bafyreifr3klu2pzym7q4uaxa2f34ekdcgbmeebm6v4onqeeja3d3cnrbgm",
+          "author": {
+            "did": "did:plc:brltdra33cef4shhld2mfgda",
+            "handle": "valarmordollars.bsky.social",
+            "displayName": "Mega👻Thee🎃Tron",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brltdra33cef4shhld2mfgda/bafkreick26jlyws3yn4ojod4jk5isx6dcsh6c46cytpi4jciu3inylrelu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none",
+                "allowGroupInvites": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:brltdra33cef4shhld2mfgda",
+                "uri": "at://did:plc:brltdra33cef4shhld2mfgda/app.bsky.actor.profile/self",
+                "cid": "bafyreichydbarvtwwc2z2tdpiiadgizubw5q5yvapbb6ffqmfnff2tf3na",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-07-05T02:02:19.381Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-15T17:14:44.651Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreibecnxljd2venyp262ej7m5stu4xfb2f36sq5dus4sn5rtky72p6e",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwhghbqdk25"
+              },
+              "root": {
+                "cid": "bafyreibecnxljd2venyp262ej7m5stu4xfb2f36sq5dus4sn5rtky72p6e",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwhghbqdk25"
+              }
+            },
+            "text": "You know her husband can fight"
+          },
+          "labels": [],
+          "likeCount": 2,
+          "replyCount": 1,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-15T17:14:45.082Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 0,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-15T17:16:24.179Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwjtkywjs25",
       "cid": "bafyreiciu5qapoq2pdg6grfdng4z7rwcb3rf6x4qtsats5wzehghbyp5za",
       "author": {
