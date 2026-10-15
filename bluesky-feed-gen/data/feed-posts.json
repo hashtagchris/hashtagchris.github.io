@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxw2v4jqqs2k",
+      "cid": "bafyreifphzsgnug3xcvpbedzbfo2ogpu2h6uekd42q3idev5632mxb5xrm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T12:30:22.904Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Bucket lists everywhere are suffering.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreieyhxe56u5unlulj3ntk4torezdbdtgogsrb4s66gkkpt72w7jasy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 545974
+            },
+            "title": "Americans Aren’t Spending Their Retirement Savings",
+            "uri": "https://www.theatlantic.com/economy/2026/10/retirement-spending-decrease-economy/688923/?gift=jzu0eOW-oOnEtk2K3c5mFdiYdVISzD62Riqm85oD_Vw"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.theatlantic.com/economy/2026/10/retirement-spending-decrease-economy/688923/?gift=jzu0eOW-oOnEtk2K3c5mFdiYdVISzD62Riqm85oD_Vw"
+              }
+            ],
+            "index": {
+              "byteEnd": 35,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "www.theatlantic.com/economy/2026..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.theatlantic.com/economy/2026/10/retirement-spending-decrease-economy/688923/?gift=jzu0eOW-oOnEtk2K3c5mFdiYdVISzD62Riqm85oD_Vw",
+          "title": "Americans Aren’t Spending Their Retirement Savings",
+          "description": "Bucket lists everywhere are suffering.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieyhxe56u5unlulj3ntk4torezdbdtgogsrb4s66gkkpt72w7jasy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 3,
+      "repostCount": 8,
+      "likeCount": 43,
+      "quoteCount": 6,
+      "indexedAt": "2026-10-15T12:30:24.874Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxutptojks22",
       "cid": "bafyreicduhjb3uktiajzyavaqwu7v4ificxgztk62mrn77tndy5utnm6ei",
       "author": {
