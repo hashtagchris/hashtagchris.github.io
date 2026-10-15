@@ -1,6 +1,252 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwjtkywjs25",
+      "cid": "bafyreiciu5qapoq2pdg6grfdng4z7rwcb3rf6x4qtsats5wzehghbyp5za",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T16:57:57.100Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreid56a4ik7mjqfuttrufnivujlq27k4dcfo22ecoujqdrgmfxayx6i",
+            "uri": "at://did:plc:owdqzd7lrnukxmnixyccffr6/app.bsky.feed.post/3mxwjrwndfc2r"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "She don’t have to leave him to love me"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:owdqzd7lrnukxmnixyccffr6/app.bsky.feed.post/3mxwjrwndfc2r",
+          "cid": "bafyreid56a4ik7mjqfuttrufnivujlq27k4dcfo22ecoujqdrgmfxayx6i",
+          "author": {
+            "did": "did:plc:owdqzd7lrnukxmnixyccffr6",
+            "handle": "frowhisperer.bsky.social",
+            "displayName": "The Fro' Whisperer",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:owdqzd7lrnukxmnixyccffr6/bafkreigrnla6ovqxvg6ypqpfoqvfdvcqkxgus7oliyizcbkldaw4plkkre",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-12-12T13:48:51.513Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-15T16:57:02.194Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreicqvsgbb6xwb4kuyhkd2ffyldr7mbxegpbqabz34nbw3yjbxkjki4",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwi36hqtc25"
+              },
+              "root": {
+                "cid": "bafyreibecnxljd2venyp262ej7m5stu4xfb2f36sq5dus4sn5rtky72p6e",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwhghbqdk25"
+              }
+            },
+            "text": "Solomon. What about her husband? Hellooooo?😭😂"
+          },
+          "labels": [],
+          "likeCount": 5,
+          "replyCount": 0,
+          "repostCount": 1,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-15T16:57:02.975Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 4,
+      "repostCount": 9,
+      "likeCount": 71,
+      "quoteCount": 5,
+      "indexedAt": "2026-10-15T16:57:57.278Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxwhghbqdk25",
+      "cid": "bafyreibecnxljd2venyp262ej7m5stu4xfb2f36sq5dus4sn5rtky72p6e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-15T16:14:49.503Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.video",
+            "aspectRatio": {
+              "height": 1280,
+              "width": 720
+            },
+            "presentation": "default",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihgj652yh4nqytna4feakami3x57jsjrethoyfh2foimaxi7xcfrm"
+              },
+              "mimeType": "video/mp4",
+              "size": 4995966
+            }
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreibi6ow75b4jkd4seozbjflm2pdwmjfmujy2qxvhqqpztgahuo66ey",
+              "uri": "at://did:plc:ghkytoq425ln6xpdlztauqyo/app.bsky.feed.post/3mxuwu6nslc2a"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "media": {
+          "cid": "bafkreihgj652yh4nqytna4feakami3x57jsjrethoyfh2foimaxi7xcfrm",
+          "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreihgj652yh4nqytna4feakami3x57jsjrethoyfh2foimaxi7xcfrm/playlist.m3u8",
+          "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreihgj652yh4nqytna4feakami3x57jsjrethoyfh2foimaxi7xcfrm/thumbnail.jpg",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "$type": "app.bsky.embed.video#view"
+        },
+        "record": {
+          "record": {
+            "uri": "at://did:plc:ghkytoq425ln6xpdlztauqyo/app.bsky.feed.post/3mxuwu6nslc2a",
+            "cid": "bafyreibi6ow75b4jkd4seozbjflm2pdwmjfmujy2qxvhqqpztgahuo66ey",
+            "author": {
+              "did": "did:plc:ghkytoq425ln6xpdlztauqyo",
+              "handle": "jes55.bsky.social",
+              "displayName": "BeardedVirgoKing 9.5⚜️",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ghkytoq425ln6xpdlztauqyo/bafkreienutgy4hu7mifoqs5bazuk7pe3mkfgjfhinyorzcew45gphsur3i",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "none",
+                  "allowGroupInvites": "none"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-04-30T22:51:22.737Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-10-15T01:45:36.870Z",
+              "langs": [
+                "en"
+              ],
+              "text": "If you hit the lottery….what would be the signs? \n\nFor me it will be the cars. I would get all my dream cars."
+            },
+            "labels": [],
+            "likeCount": 28,
+            "replyCount": 18,
+            "repostCount": 3,
+            "quoteCount": 162,
+            "indexedAt": "2026-10-15T01:45:37.081Z",
+            "embeds": [],
+            "$type": "app.bsky.embed.record#viewRecord"
+          }
+        },
+        "$type": "app.bsky.embed.recordWithMedia#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 7,
+      "repostCount": 7,
+      "likeCount": 95,
+      "quoteCount": 3,
+      "indexedAt": "2026-10-15T16:14:49.675Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxw2v4jqqs2k",
       "cid": "bafyreifphzsgnug3xcvpbedzbfo2ogpu2h6uekd42q3idev5632mxb5xrm",
       "author": {
