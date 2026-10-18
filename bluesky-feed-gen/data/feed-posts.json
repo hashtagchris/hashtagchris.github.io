@@ -1,6 +1,91 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3my43tm6hzk2k",
+      "cid": "bafyreihzi6eu4d6u2dy5u475gluzyhvzpribl4jvqggmvj3tl6uv5tueyy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-17T22:03:24.370Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1408,
+                "width": 1320
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibkbxhciw63myjf6cblt3pwfvdxrc3nkqqn2o5vjmpgatajqzndyu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 1472912
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Omg"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibkbxhciw63myjf6cblt3pwfvdxrc3nkqqn2o5vjmpgatajqzndyu",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibkbxhciw63myjf6cblt3pwfvdxrc3nkqqn2o5vjmpgatajqzndyu",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1408,
+              "width": 1320
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 4,
+      "repostCount": 1,
+      "likeCount": 34,
+      "quoteCount": 2,
+      "indexedAt": "2026-10-17T22:03:29.374Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mxz5r5fdpk2y",
       "cid": "bafyreicpk5uzo6dsykvuegu7ezgop4rv7ljlxhnkdan5asv6oq2zweyu44",
       "author": {
