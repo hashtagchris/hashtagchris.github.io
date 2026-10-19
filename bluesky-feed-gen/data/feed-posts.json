@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myar3ueens2j",
+      "cid": "bafyreic4xaht65mlesw27qavc4ibyxwjshzenvi7rnip6a3grws26kaxfe",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-19T18:34:28.924Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "The upset MAGA influencer was perplexed that Paxton’s campaign manager wanted her removed.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiglzsiqaq5xw6lj5b7sth6eeti4it3dbs5ohhq7qfqhg2ct7yqaou"
+              },
+              "mimeType": "image/jpeg",
+              "size": 466745
+            },
+            "title": "Ken Paxton Removes Black Conservative Content Creator From Event",
+            "uri": "https://meidasnews.com/news/ken-paxton-removes-black-conservative-content-creator-from-event"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://meidasnews.com/news/ken-paxton-removes-black-conservative-content-creator-from-event"
+              }
+            ],
+            "index": {
+              "byteEnd": 30,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "meidasnews.com/news/ken-pax..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://meidasnews.com/news/ken-paxton-removes-black-conservative-content-creator-from-event",
+          "title": "Ken Paxton Removes Black Conservative Content Creator From Event",
+          "description": "The upset MAGA influencer was perplexed that Paxton’s campaign manager wanted her removed.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiglzsiqaq5xw6lj5b7sth6eeti4it3dbs5ohhq7qfqhg2ct7yqaou"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 9,
+      "repostCount": 18,
+      "likeCount": 81,
+      "quoteCount": 11,
+      "indexedAt": "2026-10-19T18:34:30.580Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myaf5k5hqk2i",
       "cid": "bafyreib4s4fklkttb2655uzcw42nqw5rxj3vc3jxc3vdc4bywrcilepdg4",
       "author": {
