@@ -1,6 +1,180 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myd6qpvzhk2b",
+      "cid": "bafyreibqoyymhl5jaygilv2xue2b5nfpcup2halffjilbxwp4nh3zovh2e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-20T17:44:07.018Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiewibak27zf7dfkvmacawrs2rudvdo33andlxng6rgjddfuyk7eky",
+            "uri": "at://did:plc:wyylw3fkelfztdgh3c3u3svw/app.bsky.feed.post/3mycrgwj6dc22"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "What’s uncanny about this moment in mainline Christianity… the sheer number of people who are assholes “For the faith”"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:wyylw3fkelfztdgh3c3u3svw/app.bsky.feed.post/3mycrgwj6dc22",
+          "cid": "bafyreiewibak27zf7dfkvmacawrs2rudvdo33andlxng6rgjddfuyk7eky",
+          "author": {
+            "did": "did:plc:wyylw3fkelfztdgh3c3u3svw",
+            "handle": "jackjenkins.me",
+            "displayName": "Jack Jenkins",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyylw3fkelfztdgh3c3u3svw/bafkreidkd3wfxz3b3orociqaeh7zx3qle37owdonhyn6luuvxi3owfvwpu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:wyylw3fkelfztdgh3c3u3svw",
+                "uri": "at://did:plc:wyylw3fkelfztdgh3c3u3svw/app.bsky.actor.profile/self",
+                "cid": "bafyreidezmmos4o6zphwjqgj6xge3xvjkbh6vnlvas4femsa3ukou227m4",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-07-01T23:04:43.092Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lu7pvykybi2d",
+                  "isValid": true,
+                  "createdAt": "2025-07-18T05:33:39.610Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-20T13:45:59.752Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "A chart showing how different religious groups responded to a question about empathy on a poll.\n\nWhite evangelicals stand out, with 54% saying they believe empathy \"can become dangerous when it leads people away from building a society guided by God's truth.\"",
+                  "aspectRatio": {
+                    "height": 1174,
+                    "width": 1374
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreie6l7qiggwe5rb4nmigyaz3hhmv35f2cwjoptapy7uetlnueoqdoe"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 370947
+                  }
+                }
+              ]
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://religionnews.com/2026/10/20/an-empathy-gap-divides-americans-ahead-of-the-midterms-say-prri-report/"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 184,
+                  "byteStart": 152
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "\"A survey released Tuesday (Oct. 20) found that Republicans and evangelicals increasingly see empathy as a danger that can lead society away from God.\" religionnews.com/2026/10/20/a..."
+          },
+          "labels": [],
+          "likeCount": 3447,
+          "replyCount": 724,
+          "repostCount": 1068,
+          "quoteCount": 1243,
+          "indexedAt": "2026-10-20T13:46:05.174Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wyylw3fkelfztdgh3c3u3svw/bafkreie6l7qiggwe5rb4nmigyaz3hhmv35f2cwjoptapy7uetlnueoqdoe",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wyylw3fkelfztdgh3c3u3svw/bafkreie6l7qiggwe5rb4nmigyaz3hhmv35f2cwjoptapy7uetlnueoqdoe",
+                  "alt": "A chart showing how different religious groups responded to a question about empathy on a poll.\n\nWhite evangelicals stand out, with 54% saying they believe empathy \"can become dangerous when it leads people away from building a society guided by God's truth.\"",
+                  "aspectRatio": {
+                    "height": 1174,
+                    "width": 1374
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 6,
+      "replyCount": 13,
+      "repostCount": 53,
+      "likeCount": 268,
+      "quoteCount": 6,
+      "indexedAt": "2026-10-20T17:44:07.172Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mycppxpats2t",
       "cid": "bafyreig6olchbvxq3ikq62sqpyainzckxlu557xgywxx5vp2bkgjfm6k3y",
       "author": {
