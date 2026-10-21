@@ -1,6 +1,116 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myfcbarwos2r",
+      "cid": "bafyreiex3xx6rroyzn7i5i6souxyyskp77ezeeif4tcj2viuzfntbsypqe",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-21T13:52:22.286Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreicynkh7mdtxrjbs7iiio4v6d2zh4vzxvevdvacmdryeznxocpcoym",
+            "uri": "at://did:plc:3by2ipmu6jxzhriyjserlf3b/app.bsky.feed.post/3myfc5ky7tc26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This reminds me of something i want to talk about... \n\nDouble rolls"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:3by2ipmu6jxzhriyjserlf3b/app.bsky.feed.post/3myfc5ky7tc26",
+          "cid": "bafyreicynkh7mdtxrjbs7iiio4v6d2zh4vzxvevdvacmdryeznxocpcoym",
+          "author": {
+            "did": "did:plc:3by2ipmu6jxzhriyjserlf3b",
+            "handle": "cardinalsigns.bsky.social",
+            "displayName": "Cardinal Signs",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3by2ipmu6jxzhriyjserlf3b/bafkreiabmpmpg5pzpu6py2pofsvvy2lm2delit52jvz5jqkuvcd3iil54a",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-08-19T02:56:04.832Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-21T13:50:18.760Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreied5fyix5uvqgn7luujfcwtds4krmercs7b43zvciva5fbavfzarm",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myezjduntc2r"
+              },
+              "root": {
+                "cid": "bafyreied5fyix5uvqgn7luujfcwtds4krmercs7b43zvciva5fbavfzarm",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myezjduntc2r"
+              }
+            },
+            "text": "Looking at the sign, I see particular brands of two different detergents and paper towels. Which is not why I bring it up, those brands work and are worth it!\n\nBut there's no brand of toilet paper. That's a gamble. Any is far better than none. But taking a chance on one ply tree bark..."
+          },
+          "labels": [],
+          "likeCount": 12,
+          "replyCount": 2,
+          "repostCount": 2,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-21T13:50:20.272Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 1,
+      "repostCount": 2,
+      "likeCount": 24,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-21T13:52:22.573Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 12
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myd6qpvzhk2b",
       "cid": "bafyreibqoyymhl5jaygilv2xue2b5nfpcup2halffjilbxwp4nh3zovh2e",
       "author": {
