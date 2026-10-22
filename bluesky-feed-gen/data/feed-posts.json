@@ -1,6 +1,116 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myapzgcsmc2j",
+      "cid": "bafyreibrenq5aqj7r3zoen2pd2azsxhfn6lhd63hpsoenm2mfyaw26umyi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-19T18:15:13.341Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreid3heusqydt23nrdvq4xvp6peomlvfkc7mcoprtna7zhj2twdybn4",
+            "uri": "at://did:plc:rqekikqej7bhk7nlohibqndr/app.bsky.feed.post/3myapwfwgg22k"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This is my new religion 🤲🏿"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:rqekikqej7bhk7nlohibqndr/app.bsky.feed.post/3myapwfwgg22k",
+          "cid": "bafyreid3heusqydt23nrdvq4xvp6peomlvfkc7mcoprtna7zhj2twdybn4",
+          "author": {
+            "did": "did:plc:rqekikqej7bhk7nlohibqndr",
+            "handle": "oglauren.bsky.social",
+            "displayName": "Lauren ",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqekikqej7bhk7nlohibqndr/bafkreibf4z3z6uuyepbp3ehvjtd2xdeweyqgzjf22stze2xkvlyhf2bwna",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-15T00:36:59.080Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-19T18:13:32.273Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreif2ipxp6j43lwicmyp4obbckefeyhf2diqmqstcwrfu6qul4v2nt4",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myaeahoxks2i"
+              },
+              "root": {
+                "cid": "bafyreiccxi43thfgykguz6ajjxiuiplvjlfcuqvnhuf4fhvu24eb2kueui",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3my7tl74mjc2h"
+              }
+            },
+            "text": "Sir, you posted the same clip three times 🤣"
+          },
+          "labels": [],
+          "likeCount": 19,
+          "replyCount": 1,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-19T18:13:33.276Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 5,
+      "repostCount": 0,
+      "likeCount": 36,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-19T18:15:13.477Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myhpogdvws2h",
       "cid": "bafyreic3gd73agxnwnx2txiwkcbeciayqbhcv6bopgpgsz5fpejwupkr7a",
       "author": {
