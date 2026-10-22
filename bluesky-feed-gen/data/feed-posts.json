@@ -1,6 +1,91 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myggwh5rfs22",
+      "cid": "bafyreidx4mfe2iwroyipglqvblyzfbbefce4kdm6nmgyqqv5hsxjcwohhi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-22T00:48:28.308Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "The Krakoan Age omnibus ",
+              "aspectRatio": {
+                "height": 3999,
+                "width": 3000
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiecofarxh5b3uiz77ofz3kimhnndnaa3ueqx6mr7f4njahgkkmebu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 1737138
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "So i got this in the mail today… and it reminded me of why this era of x men is one of my favorites"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiecofarxh5b3uiz77ofz3kimhnndnaa3ueqx6mr7f4njahgkkmebu",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiecofarxh5b3uiz77ofz3kimhnndnaa3ueqx6mr7f4njahgkkmebu",
+            "alt": "The Krakoan Age omnibus ",
+            "aspectRatio": {
+              "height": 3999,
+              "width": 3000
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 6,
+      "replyCount": 7,
+      "repostCount": 11,
+      "likeCount": 144,
+      "quoteCount": 2,
+      "indexedAt": "2026-10-22T00:48:32.069Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myfcbarwos2r",
       "cid": "bafyreiex3xx6rroyzn7i5i6souxyyskp77ezeeif4tcj2viuzfntbsypqe",
       "author": {
