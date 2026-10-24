@@ -1,6 +1,96 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myl23qqfms23",
+      "cid": "bafyreib4rrej5faigp3lukwt7aixwynqga4c46yayesl6icjfypbvdwr3e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-23T20:42:06.183Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Ghanaian-Canadian social commentator and former community liaison at the Canadian Centre for Bio-Ethical Reform, Samuel Sey (@SlowToWrite), has been arrested and is being held by ICE, according to an ...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreichhy6zhqxhbzubtbwlok2dp7swu2mtq3enkk6vu34q2od6ayijvy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 855012
+            },
+            "title": "Samuel Sey (@SlowToWrite) Arrested And Held For ICE In Ohio Jail - Protestia",
+            "uri": "https://protestia.com/2026/10/23/samuel-sey-slowtowrite-arrested-and-held-for-ice-in-ohio-jail/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://protestia.com/2026/10/23/samuel-sey-slowtowrite-arrested-and-held-for-ice-in-ohio-jail/"
+              }
+            ],
+            "index": {
+              "byteEnd": 29,
+              "byteStart": 0
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "protestia.com/2026/10/23/s..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://protestia.com/2026/10/23/samuel-sey-slowtowrite-arrested-and-held-for-ice-in-ohio-jail/",
+          "title": "Samuel Sey (@SlowToWrite) Arrested And Held For ICE In Ohio Jail - Protestia",
+          "description": "Ghanaian-Canadian social commentator and former community liaison at the Canadian Centre for Bio-Ethical Reform, Samuel Sey (@SlowToWrite), has been arrested and is being held by ICE, according to an ...",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreichhy6zhqxhbzubtbwlok2dp7swu2mtq3enkk6vu34q2od6ayijvy"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 4,
+      "repostCount": 16,
+      "likeCount": 58,
+      "quoteCount": 5,
+      "indexedAt": "2026-10-23T20:42:07.975Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mykbjyba7s2g",
       "cid": "bafyreicq3ica5h7d4h7qsvr4fvn74ys3yq4uwgkdugwydw72cdhvkfoa7u",
       "author": {
