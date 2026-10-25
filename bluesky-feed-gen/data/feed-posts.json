@@ -1,6 +1,338 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mynzq4ueqk2c",
+      "cid": "bafyreidzv6wtmilnpodc2mwz2gkzd5i2ac3xwheisvcy6vhmjuhu55ded4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-25T01:13:35.459Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I called my momma six days ago\n\nI saw her in person 6 weeks ago\n\nShe gone call me today talmbout some “are you losing weight”\n\nSouthern people are SERIOUS about you being thick"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 4,
+      "repostCount": 1,
+      "likeCount": 72,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-25T01:13:35.669Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myntqwnxn22i",
+      "cid": "bafyreid3xqwxujjftnbiti5375hgkxeqhuxipmwydha4mje2ugu336tixu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-24T23:26:40.061Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "He fell for a beautiful woman online then found himself laundering cash for an international crime ring. “It wasn’t love toward the end.”",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicaxqxtjjqmjjsbhz54hbrpsofcchj5owydkvw43fpdcrvg5u3cje"
+              },
+              "mimeType": "image/jpeg",
+              "size": 354652
+            },
+            "title": "Romance Scammers Turned a Texas Man Into an Unwitting Money Mule",
+            "uri": "https://www.wsj.com/us-news/romance-scammers-turned-a-texas-man-into-an-unwitting-money-mule-b440be36?st=5KEGBn"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.wsj.com/us-news/romance-scammers-turned-a-texas-man-into-an-unwitting-money-mule-b440be36?st=5KEGBn"
+              }
+            ],
+            "index": {
+              "byteEnd": 98,
+              "byteStart": 71
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Mans gave them 50 thousand dollars For the pleasure of text messaging \nwww.wsj.com/us-news/roma..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.wsj.com/us-news/romance-scammers-turned-a-texas-man-into-an-unwitting-money-mule-b440be36?st=5KEGBn",
+          "title": "Romance Scammers Turned a Texas Man Into an Unwitting Money Mule",
+          "description": "He fell for a beautiful woman online then found himself laundering cash for an international crime ring. “It wasn’t love toward the end.”",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicaxqxtjjqmjjsbhz54hbrpsofcchj5owydkvw43fpdcrvg5u3cje"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 4,
+      "repostCount": 2,
+      "likeCount": 24,
+      "quoteCount": 7,
+      "indexedAt": "2026-10-24T23:26:41.274Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 10
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mynsxncbls2i",
+      "cid": "bafyreihegidqxqebnvxiny2e5srx2ag6xgv5nzy5yaxihzm42sivqelcyy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-24T23:12:31.377Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Y’all be confessing to me that the marriages be open and i be scared as hell for you"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 3,
+      "repostCount": 1,
+      "likeCount": 65,
+      "quoteCount": 1,
+      "indexedAt": "2026-10-24T23:12:31.671Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myno6kfqqs2d",
+      "cid": "bafyreiafn3iqlyeimnwcremyra2wpwfouhnltfzmdkqa3wdefpnrea35vi",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-24T21:46:54.520Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiga7qq3m6afsarrzgk3yu4rrb6ry6eoykm3kvt3zesnvfbg3b4byi",
+            "uri": "at://did:plc:ssxnmhdtz6le6nxu7jfhglz6/app.bsky.feed.post/3myniyao3ss2u"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Being impressive to 18-21 year olds is simply not it"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:ssxnmhdtz6le6nxu7jfhglz6/app.bsky.feed.post/3myniyao3ss2u",
+          "cid": "bafyreiga7qq3m6afsarrzgk3yu4rrb6ry6eoykm3kvt3zesnvfbg3b4byi",
+          "author": {
+            "did": "did:plc:ssxnmhdtz6le6nxu7jfhglz6",
+            "handle": "clapifyoulikeme.favrd.social",
+            "displayName": "Mrs. Detective PikaBOO, Esq.",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ssxnmhdtz6le6nxu7jfhglz6/bafkreigph363g5jc6qxkwilntz3cejhjv6iguhkoeaqm4w24owjveuxfwu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-27T17:06:25.016Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-24T20:13:54.268Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "News+\nEsquirE\nI Opened My Marriage, Then Started Dating One of My College Students. It Nearly Cost Me Everything.\nRosael Torres-Davis\n& THE SECRET LIVES OF MEN",
+                  "aspectRatio": {
+                    "height": 573,
+                    "width": 1206
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreihxjk367ml3igoktbnttohl2iev2srxvm4sy6k7kzjsg6sjh55lp4"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 244017
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "I hope when I click it’s just shocked Pikachu"
+          },
+          "labels": [],
+          "likeCount": 1555,
+          "replyCount": 71,
+          "repostCount": 84,
+          "quoteCount": 88,
+          "opThreadPostIndex": 1,
+          "opThreadPostCount": 2,
+          "indexedAt": "2026-10-24T20:13:55.567Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ssxnmhdtz6le6nxu7jfhglz6/bafkreihxjk367ml3igoktbnttohl2iev2srxvm4sy6k7kzjsg6sjh55lp4",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ssxnmhdtz6le6nxu7jfhglz6/bafkreihxjk367ml3igoktbnttohl2iev2srxvm4sy6k7kzjsg6sjh55lp4",
+                  "alt": "News+\nEsquirE\nI Opened My Marriage, Then Started Dating One of My College Students. It Nearly Cost Me Everything.\nRosael Torres-Davis\n& THE SECRET LIVES OF MEN",
+                  "aspectRatio": {
+                    "height": 573,
+                    "width": 1206
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 6,
+      "replyCount": 11,
+      "repostCount": 31,
+      "likeCount": 330,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-24T21:46:54.670Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mynmdsyn4s2d",
       "cid": "bafyreia7toaadcguiq4ii3inprs7l5g7suernvail6zgwonbtjymjs2gju",
       "author": {
