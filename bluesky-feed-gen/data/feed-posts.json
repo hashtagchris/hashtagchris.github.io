@@ -1,6 +1,303 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mys4se5lt22v",
+      "cid": "bafyreigxrk3yzdnbgfkaf3jgnmyupbgcikloqvatplkl4o4cr4hlvcok2u",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-26T16:19:10.388Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreibej4ghev7vwwev6qjrmnnzuzdo54re3yguiod5acmuigv4nza5ea",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mys3b5sixk2g"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "And what i mean by the \"idolatry that many faith spaces give to the institution of marriage\"  is ... marriage while wedded to the Christian faith ... is not the purpose of the faith \n\nto be married is not in fact a reflection of your fidelity to the faith"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mys3b5sixk2g",
+          "cid": "bafyreibej4ghev7vwwev6qjrmnnzuzdo54re3yguiod5acmuigv4nza5ea",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonrmissouri.com",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-26T15:51:39.567Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreienljqhawgz7em5bzwmewql7rx6r3uu2d3rua6qtfrgppeuvaxaxy",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mys3633f622g"
+              },
+              "root": {
+                "cid": "bafyreicyr6sq6j42otthsulk2gd73hqsprfuqn2kz5kjaydjto66roiowu",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mys2j6uces2g"
+              }
+            },
+            "text": "I have deep concerns about because of the idolatry that many faith spaces give to the institution of marriage\n\nWhat part of this in anyway reflects the locus of the Gospel?"
+          },
+          "labels": [],
+          "likeCount": 62,
+          "replyCount": 2,
+          "repostCount": 4,
+          "quoteCount": 2,
+          "opThreadPostIndex": 5,
+          "opThreadPostCount": 12,
+          "indexedAt": "2026-10-26T15:51:39.972Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 3,
+      "repostCount": 10,
+      "likeCount": 75,
+      "quoteCount": 1,
+      "indexedAt": "2026-10-26T16:19:10.576Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mys2j6uces2g",
+      "cid": "bafyreicyr6sq6j42otthsulk2gd73hqsprfuqn2kz5kjaydjto66roiowu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-26T15:38:15.366Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "ALT: Not Like This",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreia27ofbhne3r3bpoenzdks4h2gr23hlhtjbnxmarr2jl6jldtkcui"
+                },
+                "mimeType": "image/jpeg",
+                "size": 25079
+              },
+              "title": "Not Like This",
+              "uri": "https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/75/69/R8aC26wgBdMKS3xqZo.gif?hh=160&ww=280&mp4=uwHfIQfUMO4vmiseZ&webm=lLiDUo8uG6wvd"
+            }
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreibol725oj2fu3tlwy5qytm62m3soh6qyisdwz6244l3cw436osewu",
+              "uri": "at://did:plc:kjgyvhj7khab7475zcxoagok/app.bsky.feed.post/3mys2ao6pms23"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "media": {
+          "external": {
+            "uri": "https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/75/69/R8aC26wgBdMKS3xqZo.gif?hh=160&ww=280&mp4=uwHfIQfUMO4vmiseZ&webm=lLiDUo8uG6wvd",
+            "title": "Not Like This",
+            "description": "ALT: Not Like This",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreia27ofbhne3r3bpoenzdks4h2gr23hlhtjbnxmarr2jl6jldtkcui"
+          },
+          "$type": "app.bsky.embed.external#view"
+        },
+        "record": {
+          "record": {
+            "uri": "at://did:plc:kjgyvhj7khab7475zcxoagok/app.bsky.feed.post/3mys2ao6pms23",
+            "cid": "bafyreibol725oj2fu3tlwy5qytm62m3soh6qyisdwz6244l3cw436osewu",
+            "author": {
+              "did": "did:plc:kjgyvhj7khab7475zcxoagok",
+              "handle": "nowbacktome.bsky.social",
+              "displayName": "Silkstavo Fring",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kjgyvhj7khab7475zcxoagok/bafkreicgyxnnn2xios2obyqe7wbilak43n7fh5efktvc4iqvh6ouwry2uy",
+              "associated": {
+                "activitySubscription": {
+                  "allowSubscriptions": "none"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false
+              },
+              "labels": [
+                {
+                  "src": "did:plc:kjgyvhj7khab7475zcxoagok",
+                  "uri": "at://did:plc:kjgyvhj7khab7475zcxoagok/app.bsky.actor.profile/self",
+                  "cid": "bafyreidtnyydap6bbozjzuq2gnowpgb2kmffwr3oq4k6cimvvzwk5ufsca",
+                  "val": "!no-unauthenticated",
+                  "cts": "2024-10-16T22:05:48.943Z"
+                }
+              ],
+              "createdAt": "2024-10-16T22:05:48.739Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-10-26T15:33:29.443Z",
+              "embed": {
+                "$type": "app.bsky.embed.video",
+                "aspectRatio": {
+                  "height": 394,
+                  "width": 720
+                },
+                "presentation": "default",
+                "video": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidbyktlfwz6sbwsknd4mmmgsr4gqlyot3t2uvjsqjkxmwmbrhkf24"
+                  },
+                  "mimeType": "video/mp4",
+                  "size": 41026138
+                }
+              },
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 32,
+                    "byteStart": 11
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Ayo Pastor @solomonrmissouri.com they opening up the marriage. You said speak it into existence."
+            },
+            "labels": [],
+            "likeCount": 7,
+            "replyCount": 7,
+            "repostCount": 0,
+            "quoteCount": 18,
+            "indexedAt": "2026-10-26T15:33:34.470Z",
+            "embeds": [
+              {
+                "cid": "bafkreidbyktlfwz6sbwsknd4mmmgsr4gqlyot3t2uvjsqjkxmwmbrhkf24",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Akjgyvhj7khab7475zcxoagok/bafkreidbyktlfwz6sbwsknd4mmmgsr4gqlyot3t2uvjsqjkxmwmbrhkf24/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Akjgyvhj7khab7475zcxoagok/bafkreidbyktlfwz6sbwsknd4mmmgsr4gqlyot3t2uvjsqjkxmwmbrhkf24/thumbnail.jpg",
+                "aspectRatio": {
+                  "height": 394,
+                  "width": 720
+                },
+                "presentation": "default",
+                "$type": "app.bsky.embed.video#view"
+              }
+            ],
+            "$type": "app.bsky.embed.record#viewRecord"
+          }
+        },
+        "$type": "app.bsky.embed.recordWithMedia#view"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 6,
+      "repostCount": 3,
+      "likeCount": 76,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-26T15:38:15.973Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 12
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mypcfdvslc2l",
       "cid": "bafyreib6x2brtsv7asjiyezqwubtlqlirlv3ikjtbvve3vwvgytjnd36nu",
       "author": {
