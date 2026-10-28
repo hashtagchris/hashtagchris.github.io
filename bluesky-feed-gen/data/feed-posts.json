@@ -1,6 +1,261 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myxl42kpsk23",
+      "cid": "bafyreicjrwu5lbkbmxdbzcjzp6e4zi5en2frsphjrijode5q5iadmyi6am",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-28T20:18:26.951Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.video",
+            "aspectRatio": {
+              "height": 1920,
+              "width": 1080
+            },
+            "presentation": "default",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibemmb4l7qa3zy77xd3dyhouszxgldvwrtsdb72r5y4zba6ysuqqa"
+              },
+              "mimeType": "video/mp4",
+              "size": 70887631
+            }
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreiflxv3qcyzo5eyessggwtw3fosmbzs7dsdkgwxkyq5zmhescekf4a",
+              "uri": "at://did:plc:p5vtxvrrmia4tzfw6is3ub2j/app.bsky.feed.post/3myxjzfcc2s2f"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "media": {
+          "cid": "bafkreibemmb4l7qa3zy77xd3dyhouszxgldvwrtsdb72r5y4zba6ysuqqa",
+          "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreibemmb4l7qa3zy77xd3dyhouszxgldvwrtsdb72r5y4zba6ysuqqa/playlist.m3u8",
+          "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreibemmb4l7qa3zy77xd3dyhouszxgldvwrtsdb72r5y4zba6ysuqqa/thumbnail.jpg",
+          "aspectRatio": {
+            "height": 1920,
+            "width": 1080
+          },
+          "presentation": "default",
+          "$type": "app.bsky.embed.video#view"
+        },
+        "record": {
+          "record": {
+            "uri": "at://did:plc:p5vtxvrrmia4tzfw6is3ub2j/app.bsky.feed.post/3myxjzfcc2s2f",
+            "cid": "bafyreiflxv3qcyzo5eyessggwtw3fosmbzs7dsdkgwxkyq5zmhescekf4a",
+            "author": {
+              "did": "did:plc:p5vtxvrrmia4tzfw6is3ub2j",
+              "handle": "agentfresh.bsky.social",
+              "displayName": "Agent Fresh",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5vtxvrrmia4tzfw6is3ub2j/bafkreifzdnmkuepvbvlrgdizz3lu652aalw6m5gb25ogxr6jqvizwadf4q",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "none"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2024-11-16T18:00:40.822Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-10-28T19:59:03.794Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreicytw6n5xg4cr454jz7ltzfcjlhdogtddc2jtstv4uikk3b5hjmtm",
+                  "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myxjgfb55s2o"
+                },
+                "root": {
+                  "cid": "bafyreicytw6n5xg4cr454jz7ltzfcjlhdogtddc2jtstv4uikk3b5hjmtm",
+                  "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myxjgfb55s2o"
+                }
+              },
+              "text": "Sometimes I feel like the odd man out bc I enjoyed FMA over FMA Brotherhood. I didn't like the tone of Brotherhood. I'd also love to know their opinions on Fire Force & Blue Exorcist."
+            },
+            "labels": [],
+            "likeCount": 3,
+            "replyCount": 0,
+            "repostCount": 0,
+            "quoteCount": 2,
+            "indexedAt": "2026-10-28T19:59:04.072Z",
+            "embeds": [],
+            "$type": "app.bsky.embed.record#viewRecord"
+          }
+        },
+        "$type": "app.bsky.embed.recordWithMedia#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 2,
+      "repostCount": 3,
+      "likeCount": 22,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-28T20:18:37.771Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myxhouwff22o",
+      "cid": "bafyreigygubgtewfqhbusm52cjmf7kdgxy2i77tdm252nvgdy534qudv5a",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-28T19:17:23.610Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreich2zwa4c4hwzx2uxxjzlxtxriwsa3s2oczisghjllbacpemek6nu",
+            "uri": "at://did:plc:34jk2pjdkruzo4fmi3xttss4/app.bsky.feed.post/3myxhnbjwdk26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Aggressive ."
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:34jk2pjdkruzo4fmi3xttss4/app.bsky.feed.post/3myxhnbjwdk26",
+          "cid": "bafyreich2zwa4c4hwzx2uxxjzlxtxriwsa3s2oczisghjllbacpemek6nu",
+          "author": {
+            "did": "did:plc:34jk2pjdkruzo4fmi3xttss4",
+            "handle": "sleepyteach82.bsky.social",
+            "displayName": "High School History Hashira",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:34jk2pjdkruzo4fmi3xttss4/bafkreihe76dcglllxpjfvzlljmygbasf26ifpvgeu73igctojrkhl5nb6a",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "none"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-07-01T17:30:09.396Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-10-28T19:16:29.727Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreidh24nptrlptyr6cukhxhy2wvfgkhfkdevhqlwss3lvzzftd4teuu",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myhze4e7kc26"
+              },
+              "root": {
+                "cid": "bafyreidh24nptrlptyr6cukhxhy2wvfgkhfkdevhqlwss3lvzzftd4teuu",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myhze4e7kc26"
+              }
+            },
+            "text": "I want her."
+          },
+          "labels": [],
+          "likeCount": 3,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-10-28T19:16:30.174Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 17,
+      "quoteCount": 0,
+      "indexedAt": "2026-10-28T19:17:23.764Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mywyetqtvk2f",
       "cid": "bafyreiakbmpowaemc7numpklm6v5zamfrg3df3tbjwd5zuubf63fkptq2u",
       "author": {
