@@ -1,6 +1,147 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myz6tdqn4k2g",
+      "cid": "bafyreiak36e4amxk5igmhq5kwitb4yinffndgqhley7ssakwkbgjbg3i7e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-29T11:44:09.168Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreialcgt74s5b77hu5g5hfqnonfhib26soavpjtlqllwuo6weheat74"
+              },
+              "mimeType": "image/jpeg",
+              "size": 492381
+            },
+            "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot (Gift Article)",
+            "uri": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.eUr3.32xDfkHPPrRW&smid=nytcore-ios-share"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.eUr3.32xDfkHPPrRW&smid=nytcore-ios-share"
+              }
+            ],
+            "index": {
+              "byteEnd": 72,
+              "byteStart": 41
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "They did the honey pot on this man 😭\n\nwww.nytimes.com/2026/10/29/u..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.eUr3.32xDfkHPPrRW&smid=nytcore-ios-share",
+          "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot (Gift Article)",
+          "description": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreialcgt74s5b77hu5g5hfqnonfhib26soavpjtlqllwuo6weheat74"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 13,
+      "replyCount": 13,
+      "repostCount": 44,
+      "likeCount": 205,
+      "quoteCount": 20,
+      "indexedAt": "2026-10-29T11:44:10.264Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myz4aztyps2k",
+      "cid": "bafyreiccftxyewajfuzpp2i7xreydvh3ek2raooaxteszheyczdrxyskii",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-29T10:58:07.328Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Christians the only people i know celebrate you not getting no sex"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 4,
+      "likeCount": 57,
+      "quoteCount": 1,
+      "indexedAt": "2026-10-29T10:58:07.567Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3myxl42kpsk23",
       "cid": "bafyreicjrwu5lbkbmxdbzcjzp6e4zi5en2frsphjrijode5q5iadmyi6am",
       "author": {
