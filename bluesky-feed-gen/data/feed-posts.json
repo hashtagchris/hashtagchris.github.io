@@ -1,6 +1,91 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mz772wukwc2g",
+      "cid": "bafyreiaewhweampbigawyzpx3ho4ojkmva46ngxzukl47oqg233oltiq3q",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-10-31T21:04:22.531Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 674,
+                "width": 598
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiebmat6xqcnqerzz2cugoqc5yeiwi4xxk6wrqpzfc656jpoclvihm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 286831
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "If i send you this… you going to live with your daddy"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiebmat6xqcnqerzz2cugoqc5yeiwi4xxk6wrqpzfc656jpoclvihm",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiebmat6xqcnqerzz2cugoqc5yeiwi4xxk6wrqpzfc656jpoclvihm",
+            "alt": "",
+            "aspectRatio": {
+              "height": 674,
+              "width": 598
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 18,
+      "likeCount": 72,
+      "quoteCount": 1,
+      "indexedAt": "2026-10-31T21:04:24.165Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 10
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mz6gdrvdw22c",
       "cid": "bafyreic6xg3ifhgyeqb5i36stt5une4xg5hbrsthmhgb72yvxmz354ktm4",
       "author": {
