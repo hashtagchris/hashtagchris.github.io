@@ -1,6 +1,201 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzds5aojsk2v",
+      "cid": "bafyreicmmjjarvavn45hlkt3xdb3hxbsq7eaed4ufydvddo54bs64siyue",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-02T16:56:19.979Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreia3lcv4wdqo6l5o3vmoddhph53x7yl7z3ebsuip4tej3ax6clp4ry",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzdrwt5zks2v"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "For the last 2 years Republicans have run the country carte blanche... and what we have discovered is a management style that is equivalent to dog 💩"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzdrwt5zks2v",
+          "cid": "bafyreia3lcv4wdqo6l5o3vmoddhph53x7yl7z3ebsuip4tej3ax6clp4ry",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonrmissouri.com",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-02T16:52:44.480Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "A North Carolina Democrat is trying to keep his seat in a district that’s been redrawn twice.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidpysezokygrphd73nzyvppt4bhhxdoxsq7taonelnxhvwqnawne4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 475929
+                },
+                "title": "Redistricting Isn’t Going as Republicans Planned",
+                "uri": "https://www.theatlantic.com/politics/2026/10/gerrymander-north-carolina-voting/689189/?gift=jzu0eOW-oOnEtk2K3c5mFcROR_PCbooozWt7pKOHibI&utm_source=copy-link&utm_medium=social&utm_campaign=share"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://www.theatlantic.com/politics/2026/10/gerrymander-north-carolina-voting/689189/?gift=jzu0eOW-oOnEtk2K3c5mFcROR_PCbooozWt7pKOHibI&utm_source=copy-link&utm_medium=social&utm_campaign=share"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 35,
+                  "byteStart": 0
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "www.theatlantic.com/politics/202..."
+          },
+          "labels": [],
+          "likeCount": 23,
+          "replyCount": 0,
+          "repostCount": 3,
+          "quoteCount": 1,
+          "indexedAt": "2026-11-02T16:52:45.570Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://www.theatlantic.com/politics/2026/10/gerrymander-north-carolina-voting/689189/?gift=jzu0eOW-oOnEtk2K3c5mFcROR_PCbooozWt7pKOHibI&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+                "title": "Redistricting Isn’t Going as Republicans Planned",
+                "description": "A North Carolina Democrat is trying to keep his seat in a district that’s been redrawn twice.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidpysezokygrphd73nzyvppt4bhhxdoxsq7taonelnxhvwqnawne4"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 1,
+      "repostCount": 15,
+      "likeCount": 80,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-02T16:56:20.166Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzdkxstf3226",
+      "cid": "bafyreigi2bfhmhjagghopq2qvk4ecqiyubd32h4lz2lrqiud6s5vncgkc4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-02T14:48:01.489Z",
+        "langs": [
+          "en"
+        ],
+        "text": "“Mr. Rodgers did you vote?”"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 6,
+      "repostCount": 2,
+      "likeCount": 42,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-02T14:48:05.086Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzay6ccphk2g",
       "cid": "bafyreieysg6gbq2zxnjlnmfuitgjg2kxozah2wdwq6lxwxlhectkyrt2yu",
       "author": {
