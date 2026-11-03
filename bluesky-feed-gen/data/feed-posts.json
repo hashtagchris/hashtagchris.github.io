@@ -1,6 +1,130 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzgjoj5nkk2s",
+      "cid": "bafyreicwgeka2dv2mmbaneimnaa25q66dh73l6eyzbqjhwbodhxo5xro3e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-03T19:02:54.826Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreick5nnxw4vxj77zhfrgcrwag6l77v2pyk7kp7d4a7kjceqoejssji"
+            },
+            "mimeType": "video/mp4",
+            "size": 27768304
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Oh yeah daddy this is that HEAT!!!"
+      },
+      "embed": {
+        "cid": "bafkreick5nnxw4vxj77zhfrgcrwag6l77v2pyk7kp7d4a7kjceqoejssji",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreick5nnxw4vxj77zhfrgcrwag6l77v2pyk7kp7d4a7kjceqoejssji/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreick5nnxw4vxj77zhfrgcrwag6l77v2pyk7kp7d4a7kjceqoejssji/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 34,
+      "replyCount": 27,
+      "repostCount": 69,
+      "likeCount": 394,
+      "quoteCount": 48,
+      "indexedAt": "2026-11-03T19:02:56.969Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false,
+        "knownLikers": {
+          "count": 1,
+          "actors": [
+            {
+              "did": "did:plc:sg2e2kqdsdp2q2zl44txadbp",
+              "handle": "anildash.com",
+              "displayName": "Anil Dash",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sg2e2kqdsdp2q2zl44txadbp/bafkreicnvqv3tg434bghscobifd6fqltjrvq6li4qo4zmujjvtbefqfgxy",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                },
+                "germ": {
+                  "showButtonTo": "usersIFollow",
+                  "messageMeUrl": "https://landing.ger.mx/newUser"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false,
+                "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lev5xunidf2l"
+              },
+              "labels": [],
+              "createdAt": "2023-04-23T18:21:34.314Z",
+              "verification": {
+                "verifications": [
+                  {
+                    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                    "issuerDisplayName": "Bluesky",
+                    "issuerHandle": "bsky.app",
+                    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lrxefhgt3y2m",
+                    "isValid": true,
+                    "createdAt": "2025-06-19T10:55:52.380Z"
+                  }
+                ],
+                "verifiedStatus": "valid",
+                "trustedVerifierStatus": "none"
+              }
+            }
+          ]
+        }
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzg5sc77kc2p",
       "cid": "bafyreidviarheglj6kdfeyxfym7igk4ws4tyrit7nieioy4i7g2wb3xnr4",
       "author": {
