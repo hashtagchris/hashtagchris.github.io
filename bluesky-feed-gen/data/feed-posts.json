@@ -1,6 +1,172 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzlcbqs7bs22",
+      "cid": "bafyreigfgftyduhlg45ft5bzzuva6c6gnq3rtlxi4uso5a6etieknhr4bm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-05T16:33:49.121Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreia3gvwg54p3krn5gcqpjyodh65f7fojrmpajcy2tjand3kmvf3i7e",
+            "uri": "at://did:plc:kzdjlowncok4qzbzduxxm2jk/app.bsky.feed.post/3mzlbw24kdk2m"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "If we have this conversation in earnest… men are socialized to perform desire for the gaze of other men"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:kzdjlowncok4qzbzduxxm2jk/app.bsky.feed.post/3mzlbw24kdk2m",
+          "cid": "bafyreia3gvwg54p3krn5gcqpjyodh65f7fojrmpajcy2tjand3kmvf3i7e",
+          "author": {
+            "did": "did:plc:kzdjlowncok4qzbzduxxm2jk",
+            "handle": "purestinnosense.blacksky.app",
+            "displayName": "⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️🎮",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzdjlowncok4qzbzduxxm2jk/bafkreifailcfvm6fp4yh6fsj7kjthtjqou2x6mnvshb2nmkysvncfffpcm",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-08-31T00:10:29.038Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-05T16:27:16.255Z",
+            "embed": {
+              "$type": "app.bsky.embed.record",
+              "record": {
+                "cid": "bafyreibudoc3fkh2ibv5plp564tzoh2o6hvdjqerse5qk2hvqa3rgamiuy",
+                "uri": "at://did:plc:jfxop2vauoqsdv2uebudkikp/app.bsky.feed.post/3mzlbm42f6227"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "As a man, you don't feel crazy scrolling through a bunch of dicks , landing on one and saying \"yea.. that meat looks majestic. I'm fittin to pass it off as mine\"? And like, what criteria do you use? You pick the one that's closest to yours or the one you think she's gonna like the most??"
+          },
+          "labels": [],
+          "likeCount": 19,
+          "replyCount": 2,
+          "repostCount": 12,
+          "quoteCount": 6,
+          "opThreadPostIndex": 1,
+          "opThreadPostCount": 2,
+          "indexedAt": "2026-11-05T16:27:16.464Z",
+          "embeds": [
+            {
+              "record": {
+                "uri": "at://did:plc:jfxop2vauoqsdv2uebudkikp/app.bsky.feed.post/3mzlbm42f6227",
+                "cid": "bafyreibudoc3fkh2ibv5plp564tzoh2o6hvdjqerse5qk2hvqa3rgamiuy",
+                "author": {
+                  "did": "did:plc:jfxop2vauoqsdv2uebudkikp",
+                  "handle": "mumbles-j.bsky.social",
+                  "displayName": "T. Krown",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jfxop2vauoqsdv2uebudkikp/bafkreiahscsbd7szgs2ou5r2mqrf3grh4bmocmkuogvx6thwnz4y2a2nei",
+                  "associated": {
+                    "chat": {
+                      "allowIncoming": "none",
+                      "allowGroupInvites": "none"
+                    },
+                    "activitySubscription": {
+                      "allowSubscriptions": "followers"
+                    }
+                  },
+                  "viewer": {
+                    "muted": false,
+                    "mutedOnlyReposts": false,
+                    "mutedOnlyQuoteposts": false,
+                    "blockedBy": false
+                  },
+                  "labels": [
+                    {
+                      "src": "did:plc:jfxop2vauoqsdv2uebudkikp",
+                      "uri": "at://did:plc:jfxop2vauoqsdv2uebudkikp/app.bsky.actor.profile/self",
+                      "cid": "bafyreihsoa4ulufzffrrihr46yqckvovs7o7qlo34hhqeiszo55ak57pp4",
+                      "val": "!no-unauthenticated",
+                      "cts": "2024-11-14T00:40:40.873Z"
+                    }
+                  ],
+                  "createdAt": "2024-11-14T00:40:41.616Z"
+                },
+                "value": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2026-11-05T16:21:42.737Z",
+                  "langs": [
+                    "en"
+                  ],
+                  "text": "Wangfishing is crazy."
+                },
+                "labels": [],
+                "likeCount": 2,
+                "replyCount": 3,
+                "repostCount": 1,
+                "quoteCount": 8,
+                "indexedAt": "2026-11-05T16:21:43.174Z",
+                "$type": "app.bsky.embed.record#viewRecord"
+              },
+              "$type": "app.bsky.embed.record#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 5,
+      "repostCount": 21,
+      "likeCount": 85,
+      "quoteCount": 2,
+      "indexedAt": "2026-11-05T16:33:49.370Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzjlj37imc2e",
       "cid": "bafyreid5mx3gohqcevfyy2lgdvas2gmn6k6xhzuyc2rfqmsog23k2gveeu",
       "author": {
