@@ -1,6 +1,162 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzsopfyo5c26",
+      "cid": "bafyreif4sytqslquuh5jai55n357pgmqyuqrcuh6bvl36u7dmafpy7vcm4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-08T15:04:50.641Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihwbiwiaiwfsuuh3mdatyl4ctc4hdiozo3duusj3ozkoepjoyayhu",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzshwi5nvk26"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "This is such a vibe"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzshwi5nvk26",
+          "cid": "bafyreihwbiwiaiwfsuuh3mdatyl4ctc4hdiozo3duusj3ozkoepjoyayhu",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonrmissouri.com",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-08T13:03:31.591Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "Prince · The Hits / The B-Sides · Song · 1993",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidtgodd6uc42wxytyaanfwy7n4tmt3d5zpm3bnf7xg3coajjn747m"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 439186
+                },
+                "title": "Little Red Corvette",
+                "uri": "https://open.spotify.com/track/1gnkotdghLOSDg4OoliVRD?si=_XUjsoqjTxyI8ggDn5Vnnw&utm_source=copy-link"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://open.spotify.com/track/1gnkotdghLOSDg4OoliVRD?si=_XUjsoqjTxyI8ggDn5Vnnw&utm_source=copy-link"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 66,
+                  "byteStart": 34
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreicbekcxjh7gzs53xft2pya4axl4yxcagsxukfzk3ytwecf6k33zze",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzshv34dtc26"
+              },
+              "root": {
+                "cid": "bafyreicbekcxjh7gzs53xft2pya4axl4yxcagsxukfzk3ytwecf6k33zze",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzshv34dtc26"
+              }
+            },
+            "text": "I await the instruction 🤲🏿\n\nopen.spotify.com/track/1gnkot..."
+          },
+          "labels": [],
+          "likeCount": 39,
+          "replyCount": 1,
+          "repostCount": 4,
+          "quoteCount": 3,
+          "opThreadPostIndex": 2,
+          "opThreadPostCount": 3,
+          "indexedAt": "2026-11-08T13:03:33.064Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://open.spotify.com/track/1gnkotdghLOSDg4OoliVRD?si=_XUjsoqjTxyI8ggDn5Vnnw&utm_source=copy-link",
+                "title": "Little Red Corvette",
+                "description": "Prince · The Hits / The B-Sides · Song · 1993",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidtgodd6uc42wxytyaanfwy7n4tmt3d5zpm3bnf7xg3coajjn747m"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 3,
+      "repostCount": 8,
+      "likeCount": 65,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-08T15:04:50.767Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzqxxv2qrc2h",
       "cid": "bafyreigkv6wxm5axwut3nkqnjgso526jojblfyt4cjzrw4aaiucqdecu5i",
       "author": {
