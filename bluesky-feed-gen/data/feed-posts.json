@@ -1,6 +1,147 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzvcguywxk2v",
+      "cid": "bafyreihi6ehdfjdfyspfxbc7lmxt6shmopaik3p7znh2ywsypng4ktzffe",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-09T16:03:18.703Z",
+        "langs": [
+          "en"
+        ],
+        "text": "at no point in your journey did you say \n\n\"This sex was too easy to get\""
+      },
+      "bookmarkCount": 2,
+      "replyCount": 4,
+      "repostCount": 12,
+      "likeCount": 100,
+      "quoteCount": 2,
+      "indexedAt": "2026-11-09T16:03:18.773Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzv7a33vq222",
+      "cid": "bafyreif2dor2nykbtxkaufecifh7ysz3lsznalo7jlyyplfods5dobjagy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-09T15:05:48.982Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a suspected Chinese spy could reverberate across Wall Street.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidsjptqw4wff73sf4gp2rkv7pvhj2ksxfvp5izxy7nbtahoijq47i"
+              },
+              "mimeType": "image/jpeg",
+              "size": 252822
+            },
+            "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang (Gift Article)",
+            "uri": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html?unlocked_article_code=1.PFE.WywO._J8tRxD5VWKk&smid=nytcore-ios-share"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html?unlocked_article_code=1.PFE.WywO._J8tRxD5VWKk&smid=nytcore-ios-share"
+              }
+            ],
+            "index": {
+              "byteEnd": 170,
+              "byteStart": 139
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "I’ve spent the last half decade of my life trying to convince the nerds that this ain’t it… what makes you think you’re exempt???\n\nwww.nytimes.com/2026/11/09/b..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html?unlocked_article_code=1.PFE.WywO._J8tRxD5VWKk&smid=nytcore-ios-share",
+          "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang (Gift Article)",
+          "description": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a suspected Chinese spy could reverberate across Wall Street.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidsjptqw4wff73sf4gp2rkv7pvhj2ksxfvp5izxy7nbtahoijq47i"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 16,
+      "replyCount": 18,
+      "repostCount": 66,
+      "likeCount": 334,
+      "quoteCount": 10,
+      "indexedAt": "2026-11-09T15:05:50.567Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 22
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mztixixy2s2v",
       "cid": "bafyreiaad6ys5jmxo6x2d2jnz45vj4i2v7j7tzr7q6asersnchnh3uunqq",
       "author": {
