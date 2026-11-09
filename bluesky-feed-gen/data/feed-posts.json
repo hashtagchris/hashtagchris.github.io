@@ -1,6 +1,166 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mztixixy2s2v",
+      "cid": "bafyreiaad6ys5jmxo6x2d2jnz45vj4i2v7j7tzr7q6asersnchnh3uunqq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-08T22:54:39.486Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreig37734nb7nvh4keibpsquydjbjo5ewzpjwdezthx5ivw3tiwjxyi",
+            "uri": "at://did:plc:iu4j537hox5huj4bwnwgub4z/app.bsky.feed.post/3mlezeoucc62h"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Let me tell you something\n\nShe gone be somebody’s president"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:iu4j537hox5huj4bwnwgub4z/app.bsky.feed.post/3mlezeoucc62h",
+          "cid": "bafyreig37734nb7nvh4keibpsquydjbjo5ewzpjwdezthx5ivw3tiwjxyi",
+          "author": {
+            "did": "did:plc:iu4j537hox5huj4bwnwgub4z",
+            "handle": "acyn.bsky.social",
+            "displayName": "Acyn",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iu4j537hox5huj4bwnwgub4z/bafkreiejey5fptauulotqljyt3zneppll5o24f4xu3t7khx2dqqpmhmwxi",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-28T01:59:25.569Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3luyjnpqysm2q",
+                  "isValid": true,
+                  "createdAt": "2025-07-28T02:18:13.002Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-05-09T00:45:42.690Z",
+            "embed": {
+              "$type": "app.bsky.embed.video",
+              "alt": "",
+              "aspectRatio": {
+                "height": 720,
+                "width": 1280
+              },
+              "captions": [
+                {
+                  "$type": "app.bsky.embed.video#caption",
+                  "file": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreig72ei4igz2nru3fe77rdydliu4wuqccyau4hlhqqplq35plvkrxu"
+                    },
+                    "mimeType": "text/vtt",
+                    "size": 3659
+                  },
+                  "lang": "en"
+                }
+              ],
+              "video": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreidp4oc63ufeitcxk3zwxi65ayr3hpl2d5mz5orgume44gaknauoam"
+                },
+                "mimeType": "video/mp4",
+                "size": 24444511
+              }
+            },
+            "facets": [],
+            "langs": [
+              "en"
+            ],
+            "text": "AOC on possibly running for the Senate or President:  They assume my ambition is a title or a seat. My ambition is way bigger than that. My ambition is to change this country. Presidents come and go, elected officials come and go, single payer healthcare is forever."
+          },
+          "labels": [],
+          "likeCount": 34041,
+          "replyCount": 939,
+          "repostCount": 7345,
+          "quoteCount": 791,
+          "indexedAt": "2026-05-09T00:45:44.578Z",
+          "embeds": [
+            {
+              "cid": "bafkreidp4oc63ufeitcxk3zwxi65ayr3hpl2d5mz5orgume44gaknauoam",
+              "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aiu4j537hox5huj4bwnwgub4z/bafkreidp4oc63ufeitcxk3zwxi65ayr3hpl2d5mz5orgume44gaknauoam/playlist.m3u8",
+              "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aiu4j537hox5huj4bwnwgub4z/bafkreidp4oc63ufeitcxk3zwxi65ayr3hpl2d5mz5orgume44gaknauoam/thumbnail.jpg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 720,
+                "width": 1280
+              },
+              "$type": "app.bsky.embed.video#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 12,
+      "replyCount": 7,
+      "repostCount": 22,
+      "likeCount": 480,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-08T22:54:39.670Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzsopfyo5c26",
       "cid": "bafyreif4sytqslquuh5jai55n357pgmqyuqrcuh6bvl36u7dmafpy7vcm4",
       "author": {
