@@ -1,6 +1,435 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22s74rdms26",
+      "cid": "bafyreiab3j2hods3w3a522w3c4k6suvrq2h54pignlaywni4jwr3h3z2za",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-11T20:28:36.968Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihzazmo6oteayrkwp4f6riv7sumcpuvqitwgppy3de57h35mgqcze",
+            "uri": "at://did:plc:4am7ahlxc2ekgfrvbm4vf5ow/app.bsky.feed.post/3n22s4pclcs2x"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Y’all don’t treat other people like this"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:4am7ahlxc2ekgfrvbm4vf5ow/app.bsky.feed.post/3n22s4pclcs2x",
+          "cid": "bafyreihzazmo6oteayrkwp4f6riv7sumcpuvqitwgppy3de57h35mgqcze",
+          "author": {
+            "did": "did:plc:4am7ahlxc2ekgfrvbm4vf5ow",
+            "handle": "shivvy.blacksky.app",
+            "displayName": "🌼 💀 🍬 Shiv",
+            "pronouns": "she/they",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4am7ahlxc2ekgfrvbm4vf5ow/bafkreifmy65jclzp7tbze4wxkdl6y5a2ywfn6rn3xhwk7gtsjqfbuoi5ri",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:4am7ahlxc2ekgfrvbm4vf5ow",
+                "uri": "at://did:plc:4am7ahlxc2ekgfrvbm4vf5ow/app.bsky.actor.profile/self",
+                "cid": "bafyreicjfsagkbqzutoftge2hq6csflu6jh3upbxmpufpycfmk5h6ybznm",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-06-23T02:02:13.994Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-11T20:27:15.744Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreia64trqqzmuvkt3bcqjybqs3iv3744dah74n5khvgrttauqfsaacm",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22rb6xkns26"
+              },
+              "root": {
+                "cid": "bafyreia64trqqzmuvkt3bcqjybqs3iv3744dah74n5khvgrttauqfsaacm",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22rb6xkns26"
+              }
+            },
+            "text": "I support the Boots and the BBQ! Beyond that it’s case by case"
+          },
+          "labels": [],
+          "likeCount": 4,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-11-11T20:27:16.969Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 0,
+      "likeCount": 17,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-11T20:28:37.265Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22pzobrhc26",
+      "cid": "bafyreihois5wlaerw3fd4gdimrpwuvfci3krw7xyjkyrf5e5nzy5x5mrnq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-11T19:49:46.522Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreigowopsk57enx2h6ueyfp2hwoziaaqcz6qr5pu7itm2qwypqkxdg4",
+            "uri": "at://did:plc:ro674j6sr2on3eaxfgdmvw3m/app.bsky.feed.post/3n22pxbn34s2p"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "All yall do is chase me around the internet being strict"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:ro674j6sr2on3eaxfgdmvw3m/app.bsky.feed.post/3n22pxbn34s2p",
+          "cid": "bafyreigowopsk57enx2h6ueyfp2hwoziaaqcz6qr5pu7itm2qwypqkxdg4",
+          "author": {
+            "did": "did:plc:ro674j6sr2on3eaxfgdmvw3m",
+            "handle": "courier429.bsky.social",
+            "displayName": "Wilson Wilson",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ro674j6sr2on3eaxfgdmvw3m/bafkreidh7hdrhphtb7sliydf242c27ulsexntxc3sqe7phn2dybqrjqvwq",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following",
+                "allowGroupInvites": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:ro674j6sr2on3eaxfgdmvw3m",
+                "uri": "at://did:plc:ro674j6sr2on3eaxfgdmvw3m/app.bsky.actor.profile/self",
+                "cid": "bafyreieh3h5zhzfbtaweqrxrv3atqfdbpcgaqyiy5lzrrv5u37qmfw7mk4",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-05-16T15:28:22.496Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-11T19:48:26.152Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreigu7ngjb6x6eqaxser7ipknfptxamkic5l7dqiy7hiwap7e65ggce",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22pw5w7tk26"
+              },
+              "root": {
+                "cid": "bafyreigu7ngjb6x6eqaxser7ipknfptxamkic5l7dqiy7hiwap7e65ggce",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22pw5w7tk26"
+              }
+            },
+            "text": "How is it our fault we had to make them?"
+          },
+          "labels": [],
+          "likeCount": 9,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-11-11T19:48:26.567Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 2,
+      "likeCount": 52,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-11T19:49:46.663Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22mbqf5kc26",
+      "cid": "bafyreidohxs5rqbpmvsngjl22hbqtkymyeg7ice2sttgdxneq3agyw7hx4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-11T18:42:42.198Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifwqcqbgwtmpxysywv7frodwv4qqs5tcg5xjjknuqwk7qjougxnkq",
+            "uri": "at://did:plc:sobuuoeq2fx72o26vpoclgki/app.bsky.feed.post/3n22gocbew62s"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I woulda called Tevin Campbell, Glen Lewis, and the mighty clouds of joy so fast \n\nI refuse to let a slippery jawed man mess up my Christmas money"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:sobuuoeq2fx72o26vpoclgki/app.bsky.feed.post/3n22gocbew62s",
+          "cid": "bafyreifwqcqbgwtmpxysywv7frodwv4qqs5tcg5xjjknuqwk7qjougxnkq",
+          "author": {
+            "did": "did:plc:sobuuoeq2fx72o26vpoclgki",
+            "handle": "billboard.com",
+            "displayName": "billboard",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sobuuoeq2fx72o26vpoclgki/bafkreiawvjewssohw6wmmja2b57jzbuhkubyki4miuwwjbihp3lrbp3dum",
+            "associated": {
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-15T20:03:03.672Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndprt457p2f",
+                  "isValid": true,
+                  "createdAt": "2025-04-21T10:45:37.325Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-11T17:02:21Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "Usher and Chris Brown have canceled another two more shows on their R&B Tour.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiakkmsyixuzrxjwcxicmx6a6ku4yfs3engvopntccypjdnzzl5puu"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 89888
+                },
+                "title": "Usher & Chris Brown Cancel 2 More R&B Tour Shows",
+                "uri": "https://bit.ly/4k5ETft"
+              }
+            },
+            "text": "Usher & Chris Brown Cancel 2 More R&B Tour Shows"
+          },
+          "labels": [],
+          "likeCount": 8,
+          "replyCount": 0,
+          "repostCount": 5,
+          "quoteCount": 18,
+          "indexedAt": "2026-11-11T17:02:21.273Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://bit.ly/4k5ETft",
+                "title": "Usher & Chris Brown Cancel 2 More R&B Tour Shows",
+                "description": "Usher and Chris Brown have canceled another two more shows on their R&B Tour.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sobuuoeq2fx72o26vpoclgki/bafkreiakkmsyixuzrxjwcxicmx6a6ku4yfs3engvopntccypjdnzzl5puu"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 6,
+      "repostCount": 22,
+      "likeCount": 128,
+      "quoteCount": 5,
+      "indexedAt": "2026-11-11T18:42:42.370Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22hfs3eck26",
+      "cid": "bafyreihrcedzl5oe266wfqgdvhdyp5rot6kjjre6tpvx4f7rgpj7aschgm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-11T17:15:29.483Z",
+        "langs": [
+          "en"
+        ],
+        "text": "When they start talking to you like HR the relationship really over"
+      },
+      "bookmarkCount": 9,
+      "replyCount": 10,
+      "repostCount": 38,
+      "likeCount": 308,
+      "quoteCount": 20,
+      "indexedAt": "2026-11-11T17:15:29.666Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n22dhzlid226",
       "cid": "bafyreifyy6hv4sazan3h5nzofmt3xhiuxdun7me4uz3btdgpqgcbppufem",
       "author": {
