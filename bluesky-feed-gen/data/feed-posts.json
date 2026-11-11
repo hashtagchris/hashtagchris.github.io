@@ -1,6 +1,200 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzyjygzfzc2a",
+      "cid": "bafyreif7kcoz6guom6wim7dklmmgzm6tmujjg2jbkqeu6ncwkczd7g3yry",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-10T22:56:23.413Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 1079,
+                "width": 1320
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiepenlykywitq3ar66ii6uakhrq2orkq66xhs5suqkxlefalixlnm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 997784
+              }
+            },
+            {
+              "alt": "",
+              "aspectRatio": {
+                "height": 811,
+                "width": 814
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreidbzfeeizinpfpvx3g2y5xwmu73ju2ejy46lr3tb3kulmbu5rix2m"
+                },
+                "mimeType": "image/jpeg",
+                "size": 692363
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "What is Guilford country you might ask???? \n\nThe Blacks™️\n\nLet’s send Virginia home!!!!"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiepenlykywitq3ar66ii6uakhrq2orkq66xhs5suqkxlefalixlnm",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiepenlykywitq3ar66ii6uakhrq2orkq66xhs5suqkxlefalixlnm",
+            "alt": "",
+            "aspectRatio": {
+              "height": 1079,
+              "width": 1320
+            }
+          },
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidbzfeeizinpfpvx3g2y5xwmu73ju2ejy46lr3tb3kulmbu5rix2m",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreidbzfeeizinpfpvx3g2y5xwmu73ju2ejy46lr3tb3kulmbu5rix2m",
+            "alt": "",
+            "aspectRatio": {
+              "height": 811,
+              "width": 814
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 8,
+      "repostCount": 30,
+      "likeCount": 327,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-10T22:56:26.266Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzybuttv3s2h",
+      "cid": "bafyreiddkouhdchjtqjnwr3ip2sv2ff5jicisod2c2jqr5upndq2hnjoee",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-10T20:31:12.720Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Wayne County has uploaded its provisional ballots and Rep. Greg Murphy's (R) lead over Raymond Smith (D) is now down to 118 votes. 7 counties remain #ncpol",
+              "aspectRatio": {
+                "height": 824,
+                "width": 1320
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiemg3n3afqbs5gn3dhr2yl5uwnpt5svkcb5xsq3qn7dfxw7r2w5cy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 767532
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiemg3n3afqbs5gn3dhr2yl5uwnpt5svkcb5xsq3qn7dfxw7r2w5cy",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreiemg3n3afqbs5gn3dhr2yl5uwnpt5svkcb5xsq3qn7dfxw7r2w5cy",
+            "alt": "Wayne County has uploaded its provisional ballots and Rep. Greg Murphy's (R) lead over Raymond Smith (D) is now down to 118 votes. 7 counties remain #ncpol",
+            "aspectRatio": {
+              "height": 824,
+              "width": 1320
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 2,
+      "repostCount": 7,
+      "likeCount": 95,
+      "quoteCount": 4,
+      "indexedAt": "2026-11-10T20:31:14.163Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzxy5nn44c2m",
       "cid": "bafyreigmnenlqnczx4m455xsvj3dwjvzbfq7xdna7bp3txk7y73iyxmm7e",
       "author": {
