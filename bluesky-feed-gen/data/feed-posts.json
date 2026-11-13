@@ -1,6 +1,142 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n25g7xiatk2u",
+      "cid": "bafyreie7xthogi6dq7wu37oi35hqltg6m5b6n2mdgzjzjtrbly25pepuam",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-12T21:32:19.295Z",
+        "langs": [
+          "en"
+        ],
+        "text": "My favorite part is ... ONE WEEK after democrats took the house and senate ... \n\nJournalists started remembering how to do the news again"
+      },
+      "bookmarkCount": 7,
+      "replyCount": 11,
+      "repostCount": 96,
+      "likeCount": 688,
+      "quoteCount": 5,
+      "indexedAt": "2026-11-12T21:32:19.466Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n25fl2jqzk2u",
+      "cid": "bafyreiaksrstevhcb4thkusc73urbjdt7upeemtpftuqekzp776suq2ury",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-12T21:20:37.846Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Nvidia hires leading us law firm ",
+              "aspectRatio": {
+                "height": 158,
+                "width": 227
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifvqzlpgid2phlm46ex6dfr6smlfuiwgnrhj7ozjgnrvbn6rl4exy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 41929
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "what's important to know is ... Nvidia hired a law firm 1 day ago to investigate Jensen Huang"
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreifvqzlpgid2phlm46ex6dfr6smlfuiwgnrhj7ozjgnrvbn6rl4exy",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreifvqzlpgid2phlm46ex6dfr6smlfuiwgnrhj7ozjgnrvbn6rl4exy",
+            "alt": "Nvidia hires leading us law firm ",
+            "aspectRatio": {
+              "height": 158,
+              "width": 227
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 9,
+      "repostCount": 19,
+      "likeCount": 252,
+      "quoteCount": 4,
+      "indexedAt": "2026-11-12T21:20:39.163Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n24t52lsdk2u",
       "cid": "bafyreifzy4qc2cdfswnookyzcsuzomuwfirjlriknp7a65oejoijqqq6ny",
       "author": {
