@@ -1,6 +1,220 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n27fa3otks2o",
+      "cid": "bafyreiapjaazeggdwiisb33iu54otvbvevhi42ag4snt7cl2fg5zbgagua",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T16:19:49.440Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1024,
+            "width": 576
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiescgrirfvgu4ram6f3qsxqeh4lol2pwf4qh4jsb7afo5kmq3l5zu"
+            },
+            "mimeType": "video/mp4",
+            "size": 91502923
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Let me tell you something…"
+      },
+      "embed": {
+        "cid": "bafkreiescgrirfvgu4ram6f3qsxqeh4lol2pwf4qh4jsb7afo5kmq3l5zu",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreiescgrirfvgu4ram6f3qsxqeh4lol2pwf4qh4jsb7afo5kmq3l5zu/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreiescgrirfvgu4ram6f3qsxqeh4lol2pwf4qh4jsb7afo5kmq3l5zu/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1024,
+          "width": 576
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 6,
+      "replyCount": 4,
+      "repostCount": 6,
+      "likeCount": 62,
+      "quoteCount": 3,
+      "indexedAt": "2026-11-13T16:19:56.865Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 10
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n27acdcokc2u",
+      "cid": "bafyreibnvd2wefu6sixzt2bwt7u53c6q7xexrmtenuckhueyvr6mbruhl4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T14:51:35.829Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Do i care about sports ? mildly \n\ni care about Duke Women's basketball (it's an affordable good time) \n\nI also care about the Las Vegas Aces ( i like winners and A'ja Wilson is a very big very pretty woman)\n\nDo i care about the boy NBA? no"
+      },
+      "bookmarkCount": 4,
+      "replyCount": 10,
+      "repostCount": 9,
+      "likeCount": 163,
+      "quoteCount": 2,
+      "indexedAt": "2026-11-13T14:51:36.063Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 22
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n273ks245s2o",
+      "cid": "bafyreibyppo7etubjcu6gc7ghrng5kztioso5qdxj2s7x56qrq3m4sov3i",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-13T13:26:50.998Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Teso life",
+              "aspectRatio": {
+                "height": 1173,
+                "width": 880
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicbw6k64tq2ee76nbkgav5xmpqoo5wryaeb2f4zwvpsh3fy67ef6u"
+                },
+                "mimeType": "image/jpeg",
+                "size": 628338
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicbw6k64tq2ee76nbkgav5xmpqoo5wryaeb2f4zwvpsh3fy67ef6u",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreicbw6k64tq2ee76nbkgav5xmpqoo5wryaeb2f4zwvpsh3fy67ef6u",
+            "alt": "Teso life",
+            "aspectRatio": {
+              "height": 1173,
+              "width": 880
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 6,
+      "repostCount": 0,
+      "likeCount": 32,
+      "quoteCount": 4,
+      "indexedAt": "2026-11-13T13:26:52.268Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 15
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n25g7xiatk2u",
       "cid": "bafyreie7xthogi6dq7wu37oi35hqltg6m5b6n2mdgzjzjtrbly25pepuam",
       "author": {
