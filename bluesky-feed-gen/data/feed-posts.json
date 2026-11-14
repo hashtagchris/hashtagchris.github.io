@@ -1,6 +1,251 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2acom466222",
+      "cid": "bafyreiekxut3zi3kxqefpc73spxxl6wbkytcpf4gfisavxij3tbi36szqq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-14T01:06:54.916Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiapbqizutipominqj6cavbss4khnn3x6etaetrxdbwbepd64bca5y",
+            "uri": "at://did:plc:3ijusmsw4eizbtvn3k263rhv/app.bsky.feed.post/3n2acjt723k2s"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Those 15 minutes are almost up"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:3ijusmsw4eizbtvn3k263rhv/app.bsky.feed.post/3n2acjt723k2s",
+          "cid": "bafyreiapbqizutipominqj6cavbss4khnn3x6etaetrxdbwbepd64bca5y",
+          "author": {
+            "did": "did:plc:3ijusmsw4eizbtvn3k263rhv",
+            "handle": "philinvestigates.com",
+            "displayName": "Phil Williams",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ijusmsw4eizbtvn3k263rhv/bafkreidvu36bp56e4u3mnsmvwjklfqp36kjfb2jyeqidpe3jbgdng57zfi",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-07-03T18:35:49.262Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m7vznxd2qd2o",
+                  "isValid": true,
+                  "createdAt": "2025-12-14T02:03:49.405Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-14T01:04:14.586Z",
+            "embed": {
+              "$type": "app.bsky.embed.recordWithMedia",
+              "media": {
+                "$type": "app.bsky.embed.video",
+                "aspectRatio": {
+                  "height": 1320,
+                  "width": 2346
+                },
+                "presentation": "default",
+                "video": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreico34k5dthk7p76erv2d6vwrue5zumdhat5d3odnit5igz5zpckja"
+                  },
+                  "mimeType": "video/mp4",
+                  "size": 24988867
+                }
+              },
+              "record": {
+                "$type": "app.bsky.embed.record",
+                "record": {
+                  "cid": "bafyreib2gtxboiifmrzxfp6vxmvjnga22zrbkyhg6guvyy5u5ibukjn7zm",
+                  "uri": "at://did:plc:3ijusmsw4eizbtvn3k263rhv/app.bsky.feed.post/3n27thzvyac2q"
+                }
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "Christian nationalist Pastor Joel Webbon (Full report in link below)"
+          },
+          "labels": [],
+          "likeCount": 110,
+          "replyCount": 18,
+          "repostCount": 48,
+          "quoteCount": 7,
+          "indexedAt": "2026-11-14T01:04:16.570Z",
+          "embeds": [
+            {
+              "media": {
+                "cid": "bafkreico34k5dthk7p76erv2d6vwrue5zumdhat5d3odnit5igz5zpckja",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A3ijusmsw4eizbtvn3k263rhv/bafkreico34k5dthk7p76erv2d6vwrue5zumdhat5d3odnit5igz5zpckja/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A3ijusmsw4eizbtvn3k263rhv/bafkreico34k5dthk7p76erv2d6vwrue5zumdhat5d3odnit5igz5zpckja/thumbnail.jpg",
+                "aspectRatio": {
+                  "height": 1320,
+                  "width": 2346
+                },
+                "presentation": "default",
+                "$type": "app.bsky.embed.video#view"
+              },
+              "record": {
+                "record": {
+                  "uri": "at://did:plc:3ijusmsw4eizbtvn3k263rhv/app.bsky.feed.post/3n27thzvyac2q",
+                  "cid": "bafyreib2gtxboiifmrzxfp6vxmvjnga22zrbkyhg6guvyy5u5ibukjn7zm",
+                  "author": {
+                    "did": "did:plc:3ijusmsw4eizbtvn3k263rhv",
+                    "handle": "philinvestigates.com",
+                    "displayName": "Phil Williams",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ijusmsw4eizbtvn3k263rhv/bafkreidvu36bp56e4u3mnsmvwjklfqp36kjfb2jyeqidpe3jbgdng57zfi",
+                    "associated": {
+                      "chat": {
+                        "allowIncoming": "all"
+                      },
+                      "activitySubscription": {
+                        "allowSubscriptions": "followers"
+                      }
+                    },
+                    "viewer": {
+                      "muted": false,
+                      "mutedOnlyReposts": false,
+                      "mutedOnlyQuoteposts": false,
+                      "blockedBy": false
+                    },
+                    "labels": [],
+                    "createdAt": "2023-07-03T18:35:49.262Z",
+                    "verification": {
+                      "verifications": [
+                        {
+                          "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                          "issuerDisplayName": "Bluesky",
+                          "issuerHandle": "bsky.app",
+                          "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m7vznxd2qd2o",
+                          "isValid": true,
+                          "createdAt": "2025-12-14T02:03:49.405Z"
+                        }
+                      ],
+                      "verifiedStatus": "valid",
+                      "trustedVerifierStatus": "none"
+                    }
+                  },
+                  "value": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2026-11-13T20:34:48.398Z",
+                    "embed": {
+                      "$type": "app.bsky.embed.external",
+                      "external": {
+                        "description": "Standing before hundreds at a Dallas-area conference, Reformed Baptist Pastor Joel Webbon delivered an hour-long, extremist speech promoting white nationalism, antisemitism, and mass deportations.",
+                        "thumb": {
+                          "$type": "blob",
+                          "ref": {
+                            "$link": "bafkreicuii2pevabqsvanp25otzttztpgya4nnusugtem2epuvsqnibdmm"
+                          },
+                          "mimeType": "image/jpeg",
+                          "size": 450625
+                        },
+                        "title": "In Dallas, Hundreds Cheer Christian Nationalist Pastor’s Klan-Like Speech",
+                        "uri": "https://www.confrontthehate.com/p/in-dallas-hundreds-cheer-christian"
+                      }
+                    },
+                    "facets": [
+                      {
+                        "features": [
+                          {
+                            "$type": "app.bsky.richtext.facet#link",
+                            "uri": "https://www.confrontthehate.com/p/in-dallas-hundreds-cheer-christian"
+                          }
+                        ],
+                        "index": {
+                          "byteEnd": 236,
+                          "byteStart": 197
+                        }
+                      }
+                    ],
+                    "langs": [
+                      "en"
+                    ],
+                    "text": "Standing before hundreds at a Dallas-area conference, Reformed Baptist Pastor Joel Webbon delivered an hour-long, extremist speech promoting white nationalism, antisemitism, and mass deportations. www.confrontthehate.com/p/in-dallas-..."
+                  },
+                  "labels": [],
+                  "likeCount": 140,
+                  "replyCount": 12,
+                  "repostCount": 72,
+                  "quoteCount": 8,
+                  "indexedAt": "2026-11-13T20:34:49.767Z",
+                  "$type": "app.bsky.embed.record#viewRecord"
+                }
+              },
+              "$type": "app.bsky.embed.recordWithMedia#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 10,
+      "replyCount": 12,
+      "repostCount": 9,
+      "likeCount": 116,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-14T01:06:55.067Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 10
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n27jpkcvd22f",
       "cid": "bafyreic5zg3c3oyvb4hgzu6vcdgnqd42xtpotcsftysxo2tvnlphmw65la",
       "author": {
