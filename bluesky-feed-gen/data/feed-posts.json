@@ -1,6 +1,193 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2d35w5alk2r",
+      "cid": "bafyreiaudzbxbx7qqkc3h57veshfm4fjklqky52bw4dlt7jh2s2yxoufya",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-15T03:30:18.047Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Let me tell you something temptation is REAL"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 2,
+      "likeCount": 27,
+      "quoteCount": 2,
+      "indexedAt": "2026-11-15T03:30:18.157Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2cp4eewes25",
+      "cid": "bafyreicebugxzsaj7i3iihq74qzriuswy3advsbsezazzb6jbwzgwer5y4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-14T23:54:40.968Z",
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "alt": "Harvest banquet",
+              "aspectRatio": {
+                "height": 4000,
+                "width": 3000
+              },
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibnltj5rzk4vi6jv6rhk7pnylusaqsljkrmzdcyrmyeeyy5a2uuna"
+                },
+                "mimeType": "image/jpeg",
+                "size": 1932801
+              }
+            }
+          ]
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibnltj5rzk4vi6jv6rhk7pnylusaqsljkrmzdcyrmyeeyy5a2uuna",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreibnltj5rzk4vi6jv6rhk7pnylusaqsljkrmzdcyrmyeeyy5a2uuna",
+            "alt": "Harvest banquet",
+            "aspectRatio": {
+              "height": 4000,
+              "width": 3000
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 1,
+      "likeCount": 29,
+      "quoteCount": 2,
+      "indexedAt": "2026-11-14T23:54:47.759Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2chxvgics25",
+      "cid": "bafyreigog77sdmwctcu5zxt2fiogg6cvjjctnv3ahs7dsiaxxluyahcmky",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-14T21:46:54.880Z",
+        "langs": [
+          "en"
+        ],
+        "text": "It takes everything in my power to not be aggressively southern"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 8,
+      "repostCount": 11,
+      "likeCount": 153,
+      "quoteCount": 12,
+      "indexedAt": "2026-11-14T21:46:55.056Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 11
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2cdprr66225",
       "cid": "bafyreigvfri776o2pp6xbe6ndoyxtgn3fkycmzstqpkpwkdtvwk6hdhrvi",
       "author": {
