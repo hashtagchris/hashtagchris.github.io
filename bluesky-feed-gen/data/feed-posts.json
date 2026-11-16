@@ -1,6 +1,124 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2hcu32i3k2g",
+      "cid": "bafyreifcckzo625ns3fromgvdocdcnprwbuefrtbombgoodo6hgxiwskxe",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-16T19:58:36.542Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreidrksnehuv4l3cku2rbgvxmdjyyrs2kvl6uhev6hzx7tzjtuu6htq",
+            "uri": "at://did:plc:lzlqyldh7nfc34pfffvd24ko/app.bsky.feed.post/3n2h5kzk2c22v"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Hmmm…"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:lzlqyldh7nfc34pfffvd24ko/app.bsky.feed.post/3n2h5kzk2c22v",
+          "cid": "bafyreidrksnehuv4l3cku2rbgvxmdjyyrs2kvl6uhev6hzx7tzjtuu6htq",
+          "author": {
+            "did": "did:plc:lzlqyldh7nfc34pfffvd24ko",
+            "handle": "adamserwer.bsky.social",
+            "displayName": "Adam Serwer",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lzlqyldh7nfc34pfffvd24ko/bafkreihu4pvhv2qv7xy6mpdrfswu2dip5nxybq6qs2vvuujgcwmmtfngkq",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none",
+                "allowGroupInvites": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-05-07T15:43:35.465Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mb5xyvgdp42q",
+                  "isValid": true,
+                  "createdAt": "2025-12-29T23:20:38.635Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-16T18:24:04.256Z",
+            "langs": [
+              "en"
+            ],
+            "text": "Even if you disagree with his position, Buttigieg's point that student loan forgiveness is seen by a lot of people as a giveaway to rich kids is a real politics problem supporters have to figure out how to deal with. it's a different obstacle than the ones facing health care or infrastructure"
+          },
+          "labels": [],
+          "likeCount": 1401,
+          "replyCount": 460,
+          "repostCount": 133,
+          "quoteCount": 338,
+          "indexedAt": "2026-11-16T18:24:04.757Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 11,
+      "repostCount": 8,
+      "likeCount": 188,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-16T19:58:36.658Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2guhlftck2u",
       "cid": "bafyreiavmabhqq6zpnfxgumqaiyzlngfpjb4fsnb75h2d247mf6l52h6rq",
       "author": {
