@@ -1,6 +1,159 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2guhlftck2u",
+      "cid": "bafyreiavmabhqq6zpnfxgumqaiyzlngfpjb4fsnb75h2d247mf6l52h6rq",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-16T15:41:05.099Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifduj5fxjy4w36zcbglkbwdn4mvdcq2so7bktmfkijaxfbcsuz4ey",
+            "uri": "at://did:plc:a24qxlkzgo45gpss63s3p3tq/app.bsky.feed.post/3n2fqjq5dqk2r"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "I have a very difficult time explaining to people in Alabama who did not vote for a war why they are paying for a war!\n\nSee how tf that sounds???"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:a24qxlkzgo45gpss63s3p3tq/app.bsky.feed.post/3n2fqjq5dqk2r",
+          "cid": "bafyreifduj5fxjy4w36zcbglkbwdn4mvdcq2so7bktmfkijaxfbcsuz4ey",
+          "author": {
+            "did": "did:plc:a24qxlkzgo45gpss63s3p3tq",
+            "handle": "prairiehouse.bsky.social",
+            "displayName": "",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a24qxlkzgo45gpss63s3p3tq/bafkreic5fqqyngypjheb62kacjdiakby4mjva5kdywtl7df2b4ytxumlhi",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:a24qxlkzgo45gpss63s3p3tq",
+                "uri": "at://did:plc:a24qxlkzgo45gpss63s3p3tq/app.bsky.actor.profile/self",
+                "cid": "bafyreicu4svxq4sniwja5bg76lh4boayqr3wlmqjcnduhqzw2o5o6eg6yq",
+                "val": "!no-unauthenticated",
+                "cts": "2024-11-13T02:46:59.701Z"
+              }
+            ],
+            "createdAt": "2024-11-13T02:47:00.416Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-16T04:58:02.462Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "Pete Buttigieg said the Democratic Party \"overtorqued\" on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreic3fu7c7xuzpkdvl4w3dne2s7bpq3bbws6gjqgspzperctrn6vco4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 503906
+                },
+                "title": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
+                "uri": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 168,
+                  "byteStart": 137
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "\"I have a very hard time explaining to my relatives in Michigan who did not go to college why they should be paying for people who do.\"\n\nwww.foxnews.com/media/pete-b..."
+          },
+          "labels": [],
+          "likeCount": 90,
+          "replyCount": 193,
+          "repostCount": 4,
+          "quoteCount": 588,
+          "opThreadPostIndex": 1,
+          "opThreadPostCount": 2,
+          "indexedAt": "2026-11-16T04:58:05.060Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
+                "title": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
+                "description": "Pete Buttigieg said the Democratic Party \"overtorqued\" on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a24qxlkzgo45gpss63s3p3tq/bafkreic3fu7c7xuzpkdvl4w3dne2s7bpq3bbws6gjqgspzperctrn6vco4"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 8,
+      "replyCount": 37,
+      "repostCount": 129,
+      "likeCount": 694,
+      "quoteCount": 6,
+      "indexedAt": "2026-11-16T15:41:05.166Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2e7qpr7g22m",
       "cid": "bafyreicbdfq3f4xoujb723jgxblhcdwtmb4hswuqkwmyljkma54drads6e",
       "author": {
