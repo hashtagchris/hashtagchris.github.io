@@ -1,6 +1,163 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2kbzwplus2w",
+      "cid": "bafyreihtc2dda3rrfofdnqrbjenffgaekw5vtiw7k4yqtlojux62pmb2zy",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-18T00:21:58.789Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreifybip32afx75ia4q2t7oislbdq5sfleqncnw6m6xgyvalagywc2e",
+            "uri": "at://did:plc:ov6qpivhihzx7fnkk3q7fxvu/app.bsky.feed.post/3n2kbbdzz6s2a"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "It’s not that we feel that something is “off-kilter”\n\nIt’s that we know that the people at the wheel are in no way equipped to handle the situation at hand"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:ov6qpivhihzx7fnkk3q7fxvu/app.bsky.feed.post/3n2kbbdzz6s2a",
+          "cid": "bafyreifybip32afx75ia4q2t7oislbdq5sfleqncnw6m6xgyvalagywc2e",
+          "author": {
+            "did": "did:plc:ov6qpivhihzx7fnkk3q7fxvu",
+            "handle": "smerelman.bsky.social",
+            "displayName": "Steve Merelman",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ov6qpivhihzx7fnkk3q7fxvu/bafkreicprzjwbbp3ilbtibjuhmo2kqolc3gk34kvv6gcidmky3t6kmkivu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-10-06T01:08:02.982Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:eclio37ymobqex2ncko63h4r",
+                  "issuerDisplayName": "The New York Times",
+                  "issuerHandle": "nytimes.com",
+                  "uri": "at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.graph.verification/3lndvzb2thi25",
+                  "isValid": true,
+                  "createdAt": "2025-04-21T19:37:09.411Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-18T00:08:13.904Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "description": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiclmdlbfk622l3dkym5dfol23twlczh57lhtwk7bhegqvggvrat3m"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 701774
+                },
+                "title": "A National Meltdown With Nobody Manning the Help Desk (Gift Article)",
+                "uri": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html?unlocked_article_code=1.RVE.F7L6.Yxbrik5E2IhP&smid=url-share"
+              }
+            },
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html?unlocked_article_code=1.RVE.F7L6.Yxbrik5E2IhP&smid=url-share"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 31,
+                  "byteStart": 0
+                }
+              }
+            ],
+            "langs": [
+              "en"
+            ],
+            "text": "www.nytimes.com/2026/11/17/u..."
+          },
+          "labels": [],
+          "likeCount": 10,
+          "replyCount": 4,
+          "repostCount": 7,
+          "quoteCount": 8,
+          "indexedAt": "2026-11-18T00:08:15.557Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html?unlocked_article_code=1.RVE.F7L6.Yxbrik5E2IhP&smid=url-share",
+                "title": "A National Meltdown With Nobody Manning the Help Desk (Gift Article)",
+                "description": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ov6qpivhihzx7fnkk3q7fxvu/bafkreiclmdlbfk622l3dkym5dfol23twlczh57lhtwk7bhegqvggvrat3m"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 12,
+      "replyCount": 3,
+      "repostCount": 46,
+      "likeCount": 248,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-18T00:21:59.056Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2j7ozbnms2t",
       "cid": "bafyreickv5a5eoqsodlvrs2b2zv3myw2zudfhbk2tzqzhpgertzrkqn2fu",
       "author": {
