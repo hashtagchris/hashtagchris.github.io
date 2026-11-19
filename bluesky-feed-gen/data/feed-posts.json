@@ -1,6 +1,154 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2orxbfnss25",
+      "cid": "bafyreifinqxdqd4iq7p2b2ec6laxjgxuvvtb4fulchwwdjrjmvfxcoqj3e",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T19:17:28.159Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiaf5lbdnracvgy3enxzkpejp637i6cszpvpm2nxyxkjyrgbfz6c3u",
+            "uri": "at://did:plc:qhbrc54xxitl5uh46imwin4w/app.bsky.feed.post/3n2orozo7csvz"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Welp"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:qhbrc54xxitl5uh46imwin4w/app.bsky.feed.post/3n2orozo7csvz",
+          "cid": "bafyreiaf5lbdnracvgy3enxzkpejp637i6cszpvpm2nxyxkjyrgbfz6c3u",
+          "author": {
+            "did": "did:plc:qhbrc54xxitl5uh46imwin4w",
+            "handle": "joesonka.lpm.org",
+            "displayName": "Joe Sonka 😐",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qhbrc54xxitl5uh46imwin4w/bafkreih736ql4i55olgvalloxjgfu5w73nb763zm5efkmbblpssvdskk54",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-07-03T22:14:38.955Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mlzffaolma2b",
+                  "isValid": true,
+                  "createdAt": "2026-05-17T03:14:00.921Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-19T19:12:51.615Z",
+            "embed": {
+              "$type": "app.bsky.embed.external",
+              "external": {
+                "$type": "app.bsky.embed.external#external",
+                "description": "High-profile former DOJ official Harmeet Dhillon has a bone to pick with the Republican Party and she claims she now feels “free” to speak her mind after her abrupt resignation.Speaking with NewsNatio...",
+                "thumb": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiagtgrkuetvn72wfgcz2cv4hg6edb5epftyqlutnj4kes6ccafjpq"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 66986
+                },
+                "title": "Ex-Trump civil rights chief unleashes on 'bigotry' in GOP now that she's free to talk",
+                "uri": "https://www.rawstory.com/gop-bigotry-harmeet-new-report/"
+              }
+            },
+            "facets": [],
+            "langs": [
+              "en"
+            ],
+            "tags": [],
+            "text": "🫤"
+          },
+          "labels": [],
+          "likeCount": 30,
+          "replyCount": 5,
+          "repostCount": 4,
+          "quoteCount": 22,
+          "opThreadPostIndex": 1,
+          "opThreadPostCount": 4,
+          "indexedAt": "2026-11-19T19:12:52.164Z",
+          "embeds": [
+            {
+              "external": {
+                "uri": "https://www.rawstory.com/gop-bigotry-harmeet-new-report/",
+                "title": "Ex-Trump civil rights chief unleashes on 'bigotry' in GOP now that she's free to talk",
+                "description": "High-profile former DOJ official Harmeet Dhillon has a bone to pick with the Republican Party and she claims she now feels “free” to speak her mind after her abrupt resignation.Speaking with NewsNatio...",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qhbrc54xxitl5uh46imwin4w/bafkreiagtgrkuetvn72wfgcz2cv4hg6edb5epftyqlutnj4kes6ccafjpq"
+              },
+              "$type": "app.bsky.embed.external#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 1,
+      "repostCount": 5,
+      "likeCount": 72,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-19T19:17:28.259Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2oitpcwy225",
       "cid": "bafyreictp6tswpofoulj2p4yjln54yeto7phbwd3t66wyxikk6k4jopiga",
       "author": {
