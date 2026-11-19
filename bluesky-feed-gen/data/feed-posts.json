@@ -1,6 +1,122 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2oitpcwy225",
+      "cid": "bafyreictp6tswpofoulj2p4yjln54yeto7phbwd3t66wyxikk6k4jopiga",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T16:34:24.856Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreidfmvsjdq6u4yazg6mjpbscatgj24l2o33cej2kwshb57aswoxt4m",
+            "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzxmeukmts2v"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Chile…"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzxmeukmts2v",
+          "cid": "bafyreidfmvsjdq6u4yazg6mjpbscatgj24l2o33cej2kwshb57aswoxt4m",
+          "author": {
+            "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+            "handle": "solomonrmissouri.com",
+            "displayName": "Solomon",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false,
+              "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+            },
+            "labels": [],
+            "createdAt": "2023-04-23T21:41:12.949Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-10T14:06:28.010Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreigzlz3k3yrmnmzk3rawoewwlghqfz3ytcl5ka5kbhfigawhtql3om",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzxm6tzxak2z"
+              },
+              "root": {
+                "cid": "bafyreifw3oqfya4gb4h2jx2r4wrvfg6a6pnxvinti7s2iamer2tddu6jea",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3mzvqga6cfs2v"
+              }
+            },
+            "text": "Just because Jax is a sociopath doesn't mean she's a bad person"
+          },
+          "labels": [],
+          "likeCount": 18,
+          "replyCount": 1,
+          "repostCount": 1,
+          "quoteCount": 7,
+          "opThreadPostIndex": 19,
+          "opThreadPostCount": 25,
+          "indexedAt": "2026-11-10T14:06:28.270Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 3,
+      "repostCount": 0,
+      "likeCount": 21,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-19T16:34:25.055Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 20
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2mna4u3lc2o",
       "cid": "bafyreig3mzfi643zmb7ua7vebibrznxdf33mmfnauaeub45lvdrvjj5gcm",
       "author": {
