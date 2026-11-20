@@ -1,6 +1,186 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2p2pdtj2s2m",
+      "cid": "bafyreifftn7n4ynj73nclzhxb46lvyymcofd4ahlviki6yzgmded44ub2u",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T21:54:05.951Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1280,
+            "width": 720
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiff3figorg3yk7fpbq53slkrzbbpqima5cya7p3iuq3x4rhicsg3q"
+            },
+            "mimeType": "video/mp4",
+            "size": 29405841
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Below Mark’s clear wrongheadedness … is something else\n\nThis is just bad preaching"
+      },
+      "embed": {
+        "cid": "bafkreiff3figorg3yk7fpbq53slkrzbbpqima5cya7p3iuq3x4rhicsg3q",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreiff3figorg3yk7fpbq53slkrzbbpqima5cya7p3iuq3x4rhicsg3q/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreiff3figorg3yk7fpbq53slkrzbbpqima5cya7p3iuq3x4rhicsg3q/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 7,
+      "replyCount": 13,
+      "repostCount": 20,
+      "likeCount": 98,
+      "quoteCount": 5,
+      "indexedAt": "2026-11-19T21:54:08.260Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 10
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2ozjxhwts2m",
+      "cid": "bafyreicjpnlxrrqnnbzk5lc2qgw2oeoqw4albg6zh2xhe3zz2wcy2anahe",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T21:33:11.476Z",
+        "langs": [
+          "en"
+        ],
+        "text": "AND…."
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 0,
+      "likeCount": 14,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-19T21:33:11.660Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2oyttf7qk2m",
+      "cid": "bafyreihvmsb2ds2fxbqlxfkvdv32olgzgz54zkbizjtr6gnt5qygbemu4q",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-19T21:20:48.993Z",
+        "langs": [
+          "en"
+        ],
+        "text": "“Sale” do not start at 20%\n\nSale starts at 35~40%"
+      },
+      "bookmarkCount": 5,
+      "replyCount": 13,
+      "repostCount": 44,
+      "likeCount": 287,
+      "quoteCount": 18,
+      "indexedAt": "2026-11-19T21:20:49.257Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2orxbfnss25",
       "cid": "bafyreifinqxdqd4iq7p2b2ec6laxjgxuvvtb4fulchwwdjrjmvfxcoqj3e",
       "author": {
