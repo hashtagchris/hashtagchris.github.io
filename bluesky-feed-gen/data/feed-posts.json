@@ -1,6 +1,298 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2rggc6qts27",
+      "cid": "bafyreidjcb2uhhl6uwuxwzzthgmqlsohfv4j3zavqms6lyfbx7q6nfwhma",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-20T20:29:06.612Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Let me tell you something daddy that lady NFL owner not afraid to get you gone"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 3,
+      "repostCount": 4,
+      "likeCount": 53,
+      "quoteCount": 3,
+      "indexedAt": "2026-11-20T20:29:06.854Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2r6i4gzoc2u",
+      "cid": "bafyreibvvtzlanhi5y5mi3siu7svjsvbwijbwukvigciu7vchuzpnc7eq4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-20T18:06:57.765Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihv734rbar5rsfasxjv4ij2cud4hhhpgsqj6oo6ongxmpwzqlxgb4",
+            "uri": "at://did:plc:wfnvtvrwkltcyldb4hn2xuvx/app.bsky.feed.post/3n2r6ep4li22m"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "LISTEN!!!!!!!!! i keep telling y'all it's money in feet!"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:wfnvtvrwkltcyldb4hn2xuvx/app.bsky.feed.post/3n2r6ep4li22m",
+          "cid": "bafyreihv734rbar5rsfasxjv4ij2cud4hhhpgsqj6oo6ongxmpwzqlxgb4",
+          "author": {
+            "did": "did:plc:wfnvtvrwkltcyldb4hn2xuvx",
+            "handle": "thatbearlifts.bsky.social",
+            "displayName": "Ursedelic (he/they/el)",
+            "pronouns": "he/they/el",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wfnvtvrwkltcyldb4hn2xuvx/bafkreifihxyvk2iifainpll66xj2xdkemiiqyq3h3ttcox7hzvnw2bn5wu",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "mutuals"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:wfnvtvrwkltcyldb4hn2xuvx",
+                "uri": "at://did:plc:wfnvtvrwkltcyldb4hn2xuvx/app.bsky.actor.profile/self",
+                "cid": "bafyreih5lzhjyzc4u2psr5zrcognjt4ylmog56ctpgpzh25nxa6awqbbxy",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-07-25T16:01:22.319Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-20T18:05:03.126Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreihhlhcptvzuz3xaoqf7fqidua2swdujyg5t2at2tmvbi6zgjk7s3a",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2r5lzpqsc2u"
+              },
+              "root": {
+                "cid": "bafyreihhlhcptvzuz3xaoqf7fqidua2swdujyg5t2at2tmvbi6zgjk7s3a",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2r5lzpqsc2u"
+              }
+            },
+            "text": "The real question is why he has them out on the internet for *free* in this economy."
+          },
+          "labels": [],
+          "likeCount": 10,
+          "replyCount": 1,
+          "repostCount": 0,
+          "quoteCount": 1,
+          "indexedAt": "2026-11-20T18:05:04.253Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 3,
+      "repostCount": 3,
+      "likeCount": 33,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-20T18:06:57.856Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2r3maazps2z",
+      "cid": "bafyreidir4to4tvbg7ocmfrnstui5xyygho3vmiyq6bz3j53bgshykl6hm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-20T17:15:34.755Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "Collards Only Dot Com: Home of the North Carolina's Sexiest Collard Farmer Contest, Collard Merch & Collard Chocolates. Get Hot & Collarded!",
+            "title": "Collards Only - Sexiest North Carolina Collard Farmer Contest",
+            "uri": "https://collardsonly.com/"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://collardsonly.com/"
+              }
+            ],
+            "index": {
+              "byteEnd": 41,
+              "byteStart": 25
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Wait… this arouses me\n\ncollardsonly.com"
+      },
+      "embed": {
+        "external": {
+          "uri": "https://collardsonly.com/",
+          "title": "Collards Only - Sexiest North Carolina Collard Farmer Contest",
+          "description": "Collards Only Dot Com: Home of the North Carolina's Sexiest Collard Farmer Contest, Collard Merch & Collard Chocolates. Get Hot & Collarded!"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 13,
+      "replyCount": 8,
+      "repostCount": 25,
+      "likeCount": 134,
+      "quoteCount": 10,
+      "indexedAt": "2026-11-20T17:15:34.859Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false,
+        "knownLikers": {
+          "count": 1,
+          "actors": [
+            {
+              "did": "did:plc:x2iybgweatoymskscpkyfvya",
+              "handle": "bridgealidget.bsky.social",
+              "displayName": "Sister Havana Syndrome",
+              "pronouns": "she/her",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x2iybgweatoymskscpkyfvya/bafkreiccwhfg7l5d6lx5eunlb2esritcs5pnmptjodqdoofgeknpmlwdha",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "following"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false,
+                "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lcqyw5mb6w2u",
+                "followedBy": "at://did:plc:x2iybgweatoymskscpkyfvya/app.bsky.graph.follow/3kcqg6grfp622"
+              },
+              "labels": [
+                {
+                  "src": "did:plc:x2iybgweatoymskscpkyfvya",
+                  "uri": "at://did:plc:x2iybgweatoymskscpkyfvya/app.bsky.actor.profile/self",
+                  "cid": "bafyreiagkcoi4w4fiksgjsctl3xztw5tomr6cmtowrv4w3z5afbz34h5zq",
+                  "val": "!no-unauthenticated",
+                  "cts": "1970-01-01T00:00:00.000Z"
+                }
+              ],
+              "createdAt": "2023-07-26T05:17:21.449Z"
+            }
+          ]
+        }
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 12
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2qxf7sfbs2z",
       "cid": "bafyreidrh3b5bp3547zatr7lusifcnwwp3ika3pts6v52ql3mf6b4rpana",
       "author": {
