@@ -1,6 +1,147 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2qxf7sfbs2z",
+      "cid": "bafyreidrh3b5bp3547zatr7lusifcnwwp3ika3pts6v52ql3mf6b4rpana",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-20T16:00:04.424Z",
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "For five months covered by the audit, SCiLL’s finance department was without a manager.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifiqbelaz23lsu3i5zyqxa7pfehwwo3yrutatbuzi4vjjf6iakwx4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 636428
+            },
+            "title": "How UNC’s School of Civic Life spent $5M in 10 months with little oversight",
+            "uri": "https://www.newsobserver.com/news/local/education/article318134008.html?utm_campaign=trueanthem&utm_medium=social&utm_source=twitter"
+          }
+        },
+        "facets": [
+          {
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.newsobserver.com/news/local/education/article318134008.html?utm_campaign=trueanthem&utm_medium=social&utm_source=twitter"
+              }
+            ],
+            "index": {
+              "byteEnd": 56,
+              "byteStart": 20
+            }
+          }
+        ],
+        "langs": [
+          "en"
+        ],
+        "text": "Guys… pleathe!!!\n\nwww.newsobserver.com/news/local/e..."
+      },
+      "embed": {
+        "external": {
+          "uri": "https://www.newsobserver.com/news/local/education/article318134008.html?utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+          "title": "How UNC’s School of Civic Life spent $5M in 10 months with little oversight",
+          "description": "For five months covered by the audit, SCiLL’s finance department was without a manager.",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreifiqbelaz23lsu3i5zyqxa7pfehwwo3yrutatbuzi4vjjf6iakwx4"
+        },
+        "$type": "app.bsky.embed.external#view"
+      },
+      "bookmarkCount": 2,
+      "replyCount": 2,
+      "repostCount": 7,
+      "likeCount": 24,
+      "quoteCount": 3,
+      "indexedAt": "2026-11-20T16:00:07.157Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2qrqkwzlc2u",
+      "cid": "bafyreih2nt5qwc5kgytbn32q3wkv2yfs55wnmn7sfw6gvnspvxvdgakm6y",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-20T14:19:02.761Z",
+        "langs": [
+          "en"
+        ],
+        "text": "I think it's best for everyone that people not ask me questions \n\n..."
+      },
+      "bookmarkCount": 3,
+      "replyCount": 5,
+      "repostCount": 7,
+      "likeCount": 109,
+      "quoteCount": 3,
+      "indexedAt": "2026-11-20T14:19:02.860Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2p2pdtj2s2m",
       "cid": "bafyreifftn7n4ynj73nclzhxb46lvyymcofd4ahlviki6yzgmded44ub2u",
       "author": {
