@@ -1,6 +1,171 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2titvopnc2u",
+      "cid": "bafyreifownw3wqxl3f3adplfyhicnujfhhrxhkwqlrus55sz3nqwigq6g4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-21T16:17:50.225Z",
+        "embed": {
+          "$type": "app.bsky.embed.recordWithMedia",
+          "media": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 3999,
+                  "width": 3000
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreif5iibm5waps3jhdmjjampefmvjzofzgyh3vvx34gubqcgfyold3y"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 1938952
+                }
+              }
+            ]
+          },
+          "record": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreif7hj3iwuuoqb554ahbwshmq5u5kugji474hvyxpgs4cmcmnysk64",
+              "uri": "at://did:plc:opx2gjnyypjlanjf5cui5ujd/app.bsky.feed.post/3n2tip2tbgc2t"
+            }
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "HELL YEAH!!!"
+      },
+      "embed": {
+        "media": {
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreif5iibm5waps3jhdmjjampefmvjzofzgyh3vvx34gubqcgfyold3y",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreif5iibm5waps3jhdmjjampefmvjzofzgyh3vvx34gubqcgfyold3y",
+              "alt": "",
+              "aspectRatio": {
+                "height": 3999,
+                "width": 3000
+              }
+            }
+          ],
+          "$type": "app.bsky.embed.images#view"
+        },
+        "record": {
+          "record": {
+            "uri": "at://did:plc:opx2gjnyypjlanjf5cui5ujd/app.bsky.feed.post/3n2tip2tbgc2t",
+            "cid": "bafyreif7hj3iwuuoqb554ahbwshmq5u5kugji474hvyxpgs4cmcmnysk64",
+            "author": {
+              "did": "did:plc:opx2gjnyypjlanjf5cui5ujd",
+              "handle": "campbelljd.bsky.social",
+              "displayName": "Josh Campbell",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:opx2gjnyypjlanjf5cui5ujd/bafkreiblicg4lqdpvjwtowlqabpqplwr7lutastxqency77b3x7orb3s3u",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                },
+                "activitySubscription": {
+                  "allowSubscriptions": "followers"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "mutedOnlyReposts": false,
+                "mutedOnlyQuoteposts": false,
+                "blockedBy": false
+              },
+              "labels": [
+                {
+                  "src": "did:plc:opx2gjnyypjlanjf5cui5ujd",
+                  "uri": "at://did:plc:opx2gjnyypjlanjf5cui5ujd/app.bsky.actor.profile/self",
+                  "cid": "bafyreiaemuqeve22jlvucraum3puwb3v2vcvr6ld66qdqqy6qje74rqmqi",
+                  "val": "!no-unauthenticated",
+                  "cts": "1970-01-01T00:00:00.000Z"
+                }
+              ],
+              "createdAt": "2023-12-02T16:59:06.684Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2026-11-21T16:15:07.840Z",
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 46,
+                    "byteStart": 25
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Damn it I blame (credit) @solomonrmissouri.com but I want Arby’s for lunch"
+            },
+            "labels": [],
+            "likeCount": 0,
+            "replyCount": 0,
+            "repostCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2026-11-21T16:15:08.160Z",
+            "embeds": [],
+            "$type": "app.bsky.embed.record#viewRecord"
+          }
+        },
+        "$type": "app.bsky.embed.recordWithMedia#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 3,
+      "repostCount": 0,
+      "likeCount": 47,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-21T16:17:58.861Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2rggc6qts27",
       "cid": "bafyreidjcb2uhhl6uwuxwzzthgmqlsohfv4j3zavqms6lyfbx7q6nfwhma",
       "author": {
