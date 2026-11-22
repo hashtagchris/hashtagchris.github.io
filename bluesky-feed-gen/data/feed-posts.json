@@ -1,6 +1,186 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2tvnllhrk2l",
+      "cid": "bafyreibmzskbslligwkil2xwgqlzepjxz3sdk5e3six6gkl2npkiylo6n4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-21T20:06:56.949Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihbzmvyphw6wtfyb2bniv2l7cxjctavr3x5xruuf6u3ad6pri5f2a",
+            "uri": "at://did:plc:opx2gjnyypjlanjf5cui5ujd/app.bsky.feed.post/3n2ttc4zb7s2a"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "A MAN!!!!"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:opx2gjnyypjlanjf5cui5ujd/app.bsky.feed.post/3n2ttc4zb7s2a",
+          "cid": "bafyreihbzmvyphw6wtfyb2bniv2l7cxjctavr3x5xruuf6u3ad6pri5f2a",
+          "author": {
+            "did": "did:plc:opx2gjnyypjlanjf5cui5ujd",
+            "handle": "campbelljd.bsky.social",
+            "displayName": "Josh Campbell",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:opx2gjnyypjlanjf5cui5ujd/bafkreiblicg4lqdpvjwtowlqabpqplwr7lutastxqency77b3x7orb3s3u",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [
+              {
+                "src": "did:plc:opx2gjnyypjlanjf5cui5ujd",
+                "uri": "at://did:plc:opx2gjnyypjlanjf5cui5ujd/app.bsky.actor.profile/self",
+                "cid": "bafyreiaemuqeve22jlvucraum3puwb3v2vcvr6ld66qdqqy6qje74rqmqi",
+                "val": "!no-unauthenticated",
+                "cts": "1970-01-01T00:00:00.000Z"
+              }
+            ],
+            "createdAt": "2023-12-02T16:59:06.684Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-21T19:24:45.084Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 1571
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreiat5cpwgru4yjbv4ooadyewtga2nuttvl5hnasic5srvbe4p243yu"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 1222514
+                  }
+                },
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 1892,
+                    "width": 875
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreie5zpo4upqly6p5u4hqbzjn735gchr3ajgnbr4hjwodpkiiqyilhu"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 802214
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreifrfgnrlehluhpz24m2zb5z2yyq5f23faulazrbnne26ottqwmzxq",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2tta7bepc2l"
+              },
+              "root": {
+                "cid": "bafyreifrfgnrlehluhpz24m2zb5z2yyq5f23faulazrbnne26ottqwmzxq",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2tta7bepc2l"
+              }
+            },
+            "text": "I can’t compete with this ￼"
+          },
+          "labels": [],
+          "likeCount": 15,
+          "replyCount": 0,
+          "repostCount": 0,
+          "quoteCount": 2,
+          "indexedAt": "2026-11-21T19:24:46.558Z",
+          "embeds": [
+            {
+              "images": [
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:opx2gjnyypjlanjf5cui5ujd/bafkreiat5cpwgru4yjbv4ooadyewtga2nuttvl5hnasic5srvbe4p243yu",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:opx2gjnyypjlanjf5cui5ujd/bafkreiat5cpwgru4yjbv4ooadyewtga2nuttvl5hnasic5srvbe4p243yu",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 2000,
+                    "width": 1571
+                  }
+                },
+                {
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:opx2gjnyypjlanjf5cui5ujd/bafkreie5zpo4upqly6p5u4hqbzjn735gchr3ajgnbr4hjwodpkiiqyilhu",
+                  "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:opx2gjnyypjlanjf5cui5ujd/bafkreie5zpo4upqly6p5u4hqbzjn735gchr3ajgnbr4hjwodpkiiqyilhu",
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 1892,
+                    "width": 875
+                  }
+                }
+              ],
+              "$type": "app.bsky.embed.images#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 1,
+      "repostCount": 2,
+      "likeCount": 83,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-21T20:06:57.354Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2tyg4xpks2l",
       "cid": "bafyreifou5lvib2z24h5jeguektyoksfh2oaimqeumcchrerumkjqgf47u",
       "author": {
