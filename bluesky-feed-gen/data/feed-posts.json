@@ -1,6 +1,233 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2zh675p3226",
+      "cid": "bafyreihndw4qfh6qgpe6pcgw3hrvg7uzqj3fhsyxkwhk7gubrpckbso5km",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-24T01:03:46.645Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Listen…"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 3,
+      "likeCount": 32,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-24T01:03:46.854Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 13
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2zblyh6pk26",
+      "cid": "bafyreigs2e6atcwji2ocsjziwi7lov6sbz52kqeomcgqzh2gtu5em2q54m",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-23T23:24:06.925Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreihax647r3oolob6vbgzwmyeyd7x5rw5qzxnwfnzut3koxlqneosda",
+            "uri": "at://did:plc:c7ozmxoc5b2ky4iam2o36uic/app.bsky.feed.post/3n2yez4hz2k2m"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "He just came out and said it on national television 😭"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:c7ozmxoc5b2ky4iam2o36uic/app.bsky.feed.post/3n2yez4hz2k2m",
+          "cid": "bafyreihax647r3oolob6vbgzwmyeyd7x5rw5qzxnwfnzut3koxlqneosda",
+          "author": {
+            "did": "did:plc:c7ozmxoc5b2ky4iam2o36uic",
+            "handle": "radleybalko.bsky.social",
+            "displayName": "Radley Balko",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c7ozmxoc5b2ky4iam2o36uic/bafkreibgkwvyfkeg7xcyiy6hhn3g6enfgssu33b3nf5y2cffmegrztpxme",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-05-08T17:39:49.533Z",
+            "verification": {
+              "verifications": [
+                {
+                  "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                  "issuerDisplayName": "Bluesky",
+                  "issuerHandle": "bsky.app",
+                  "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m476umyd6i2w",
+                  "isValid": true,
+                  "createdAt": "2025-10-27T19:50:13.357Z"
+                }
+              ],
+              "verifiedStatus": "valid",
+              "trustedVerifierStatus": "none"
+            }
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-23T14:52:28.843Z",
+            "embed": {
+              "$type": "app.bsky.embed.record",
+              "record": {
+                "cid": "bafyreibpopewvxr2c3h3zswk4sn4stvz3dykckqzlu5fdewjxrt2paqj5y",
+                "uri": "at://did:plc:woguanxjwrm7yjapgt5avd2p/app.bsky.feed.post/3n2ydtvmklc2i"
+              }
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "The president pressured a private company to reinstall a disgraced CEO caught in a ChiCom honey trap while publicly aligning himself with Chinese and Russian heads of state.\n\nIf you had to imagine a scenario to demonstrate the depth/depravity of Republican fealty to Trump, it’d be hard to do better."
+          },
+          "labels": [],
+          "likeCount": 5410,
+          "replyCount": 108,
+          "repostCount": 1579,
+          "quoteCount": 61,
+          "indexedAt": "2026-11-23T14:52:29.057Z",
+          "embeds": [
+            {
+              "record": {
+                "uri": "at://did:plc:woguanxjwrm7yjapgt5avd2p/app.bsky.feed.post/3n2ydtvmklc2i",
+                "cid": "bafyreibpopewvxr2c3h3zswk4sn4stvz3dykckqzlu5fdewjxrt2paqj5y",
+                "author": {
+                  "did": "did:plc:woguanxjwrm7yjapgt5avd2p",
+                  "handle": "profsaunders.bsky.social",
+                  "displayName": "Elizabeth N. Saunders",
+                  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:woguanxjwrm7yjapgt5avd2p/bafkreiej5gt4bzkhngilw3sodgjmqxeulfw3oqq3brjdaepfirrjm6dc7a",
+                  "associated": {
+                    "chat": {
+                      "allowIncoming": "following"
+                    },
+                    "activitySubscription": {
+                      "allowSubscriptions": "followers"
+                    }
+                  },
+                  "viewer": {
+                    "muted": false,
+                    "mutedOnlyReposts": false,
+                    "mutedOnlyQuoteposts": false,
+                    "blockedBy": false
+                  },
+                  "labels": [],
+                  "createdAt": "2023-07-18T15:31:45.113Z"
+                },
+                "value": {
+                  "$type": "app.bsky.feed.post",
+                  "createdAt": "2026-11-23T14:31:40.137Z",
+                  "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                      "cid": "bafyreiczsltoi5f366tohkelctimxwctbrjjdre75bmcc62f7xhkay6654",
+                      "uri": "at://did:plc:qfwinostecndnbvwwunsmihi/app.bsky.feed.post/3n2ydnb6fks2q"
+                    }
+                  },
+                  "langs": [
+                    "en"
+                  ],
+                  "text": "It absolutely is the biggest national security scandal in American history and it's still ongoing and may well get worse."
+                },
+                "labels": [],
+                "likeCount": 1995,
+                "replyCount": 39,
+                "repostCount": 437,
+                "quoteCount": 31,
+                "indexedAt": "2026-11-23T14:31:40.357Z",
+                "$type": "app.bsky.embed.record#viewRecord"
+              },
+              "$type": "app.bsky.embed.record#view"
+            }
+          ],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 12,
+      "replyCount": 8,
+      "repostCount": 93,
+      "likeCount": 505,
+      "quoteCount": 1,
+      "indexedAt": "2026-11-23T23:24:07.154Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 8
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2vtnlrxp224",
       "cid": "bafyreiekvli4s32v2ofnhzzfjzvcs2wvwmy2eeh6al37l7hgqcp5xynrsu",
       "author": {
