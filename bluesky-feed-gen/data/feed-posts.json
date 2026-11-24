@@ -1,6 +1,170 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n33gkoyjq22u",
+      "cid": "bafyreigixpze56mdsrhayzapogpgmye7uchdkag5mfp2vf63byqh7fwnh4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-24T19:58:11.641Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Y'all got a house full of fish fillet colored children ... and I'M THE PROBLEM?????"
+      },
+      "bookmarkCount": 3,
+      "replyCount": 17,
+      "repostCount": 9,
+      "likeCount": 98,
+      "quoteCount": 23,
+      "indexedAt": "2026-11-24T19:58:11.760Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 7
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n335qx32yk2v",
+      "cid": "bafyreiaqsvvoyzybip3lz2wwmmblw7grcj77ml2gjk27pmig2x7ozgwedu",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-24T17:20:37.762Z",
+        "embed": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiabsojy4nyb3hnjwfgwdxlodjrrrrvpznjz4oerz3i3ulxwgxjwra",
+            "uri": "at://did:plc:hnje2py34yi3jqelmnx4zugl/app.bsky.feed.post/3n335m2o2tk2p"
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": "Over under for less than 20"
+      },
+      "embed": {
+        "record": {
+          "uri": "at://did:plc:hnje2py34yi3jqelmnx4zugl/app.bsky.feed.post/3n335m2o2tk2p",
+          "cid": "bafyreiabsojy4nyb3hnjwfgwdxlodjrrrrvpznjz4oerz3i3ulxwgxjwra",
+          "author": {
+            "did": "did:plc:hnje2py34yi3jqelmnx4zugl",
+            "handle": "thedavieo.bsky.social",
+            "displayName": "DaViE",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hnje2py34yi3jqelmnx4zugl/bafkreidppemuppznogybpdg4d7clo7r6o7aa5bpg2xmvvpp446t3sc2qfe",
+            "associated": {
+              "chat": {
+                "allowIncoming": "none"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "mutedOnlyReposts": false,
+              "mutedOnlyQuoteposts": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2024-11-08T17:09:40.613Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2026-11-24T17:17:53.759Z",
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreiafzikgvpo6q64c6fp2rp26ot5kvubxhgyjuohkopscipuszm2jli",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n33466dv7s2v"
+              },
+              "root": {
+                "cid": "bafyreiafzikgvpo6q64c6fp2rp26ot5kvubxhgyjuohkopscipuszm2jli",
+                "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n33466dv7s2v"
+              }
+            },
+            "text": "You are going to trigger someone to bring receipts"
+          },
+          "labels": [],
+          "likeCount": 26,
+          "replyCount": 2,
+          "repostCount": 1,
+          "quoteCount": 1,
+          "indexedAt": "2026-11-24T17:17:54.158Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        },
+        "$type": "app.bsky.embed.record#view"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 2,
+      "repostCount": 1,
+      "likeCount": 12,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-24T17:20:38.162Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 9
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n2zh675p3226",
       "cid": "bafyreihndw4qfh6qgpe6pcgw3hrvg7uzqj3fhsyxkwhk7gubrpckbso5km",
       "author": {
