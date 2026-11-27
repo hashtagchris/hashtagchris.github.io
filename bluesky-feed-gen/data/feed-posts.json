@@ -1,6 +1,135 @@
 [
   {
     "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n3czbirwvk2p",
+      "cid": "bafyreih27wqqful5wrcwzzqx6h4sr2qd2sveggwy53qw3fub2ojm3hggs4",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-27T20:21:42.407Z",
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "aspectRatio": {
+            "height": 1920,
+            "width": 1080
+          },
+          "presentation": "default",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreib4jhph66qfwf3ulubcny5mtgmigecauzwtpavgw55vr3qssoipr4"
+            },
+            "mimeType": "video/mp4",
+            "size": 20416617
+          }
+        },
+        "langs": [
+          "en"
+        ],
+        "text": ""
+      },
+      "embed": {
+        "cid": "bafkreib4jhph66qfwf3ulubcny5mtgmigecauzwtpavgw55vr3qssoipr4",
+        "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreib4jhph66qfwf3ulubcny5mtgmigecauzwtpavgw55vr3qssoipr4/playlist.m3u8",
+        "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aw6adnkpcgqb67lqi5nxcy7l5/bafkreib4jhph66qfwf3ulubcny5mtgmigecauzwtpavgw55vr3qssoipr4/thumbnail.jpg",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        },
+        "presentation": "default",
+        "$type": "app.bsky.embed.video#view"
+      },
+      "bookmarkCount": 1,
+      "replyCount": 3,
+      "repostCount": 3,
+      "likeCount": 28,
+      "quoteCount": 2,
+      "indexedAt": "2026-11-27T20:21:44.854Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 6
+  },
+  {
+    "post": {
+      "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n3cxgxcmjc2l",
+      "cid": "bafyreietfsme6m42ikvq5aa4lbeyzw3elojt5cn3ecieiejnxdvh7hdqfm",
+      "author": {
+        "did": "did:plc:w6adnkpcgqb67lqi5nxcy7l5",
+        "handle": "solomonrmissouri.com",
+        "displayName": "Solomon",
+        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6adnkpcgqb67lqi5nxcy7l5/bafkreieqzb4fhxwn5qgznuvsn5qi3vjou5hsazvudhtjaixcvfzocbectu",
+        "associated": {
+          "chat": {
+            "allowIncoming": "none"
+          },
+          "activitySubscription": {
+            "allowSubscriptions": "followers"
+          }
+        },
+        "viewer": {
+          "muted": false,
+          "mutedOnlyReposts": false,
+          "mutedOnlyQuoteposts": false,
+          "blockedBy": false,
+          "following": "at://did:plc:kqsvgvu3hemvqythx43xn4sk/app.bsky.graph.follow/3lfdzqsnell2c"
+        },
+        "labels": [],
+        "createdAt": "2023-04-23T21:41:12.949Z"
+      },
+      "record": {
+        "$type": "app.bsky.feed.post",
+        "createdAt": "2026-11-27T19:48:57.921Z",
+        "langs": [
+          "en"
+        ],
+        "text": "Richmond i am In you!!!!"
+      },
+      "bookmarkCount": 0,
+      "replyCount": 3,
+      "repostCount": 0,
+      "likeCount": 33,
+      "quoteCount": 0,
+      "indexedAt": "2026-11-27T19:48:58.255Z",
+      "viewer": {
+        "bookmarked": false,
+        "threadMuted": false,
+        "embeddingDisabled": false
+      },
+      "labels": []
+    },
+    "opThreadPostIndex": 1,
+    "opThreadPostCount": 5
+  },
+  {
+    "post": {
       "uri": "at://did:plc:w6adnkpcgqb67lqi5nxcy7l5/app.bsky.feed.post/3n3coa3ysmc2b",
       "cid": "bafyreig34bvgexrqssexvepl53kjxhozoom2qoctkds2ppjp4cq3rhsxju",
       "author": {
